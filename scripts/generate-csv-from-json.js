@@ -15,7 +15,9 @@ const header = [
   'nuc',
   'sampling_date', // num_date
   'originating_lab', 
-  'submitting_lab'
+  'submitting_lab',
+  'GISAID_EPI_ISL',
+  'GenBank_accession'
 ];
 
 let rows = [];
@@ -32,7 +34,9 @@ rows = rows.filter(row => !!row).map(row => {
     row.nuc,
     row.sampling_date,
     row.originating_lab,
-    row.submitting_lab
+    row.submitting_lab,
+    row.gisaid,
+    row.genbank
   ].join(', ');
 }).join('\n');
 fs.writeFileSync(outputFile, header.join(', ')+'\n'+rows)
@@ -77,7 +81,13 @@ function processTreeNode(node){
     entry['nuc'] = node.branch_attrs.mutations.nuc.join('; ');
   }
 
-
+  // get genbank and gisaid if exists
+  if (node.node_attrs.genbank_accession) {
+    entry['genbank'] = node.node_attrs.genbank_accession.value;
+  }
+  if (node.node_attrs.gisaid_epi_isl) {
+    entry['gisaid'] = node.node_attrs.gisaid_epi_isl.value;
+  }
 
   rows.push(entry);
 
