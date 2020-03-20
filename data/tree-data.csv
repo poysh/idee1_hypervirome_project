@@ -1,1397 +1,1397 @@
-name, mutations, calde, division, nuc
-NODE_0000003, ORF8: L84S, B, Hubei, C8782T; T28144C
-Wuhan/HBCDC-HB-06/2020, ORF1a: V1798I; S: D614G, , Hubei, G5657A; A23403G; A25725G
-Wuhan/HBCDC-HB-02/2020, ORF1a: T3959N; S: L752F, , Hubei, C12141A; C23816T
-Wuhan/HBCDC-HB-04/2020, , , Hubei, T18996C; C24370T; T29029C
-Tianmen/HBCDC-HB-07/2020, ORF1a: E972K; ORF1b: P319S, A373V; ORF9b: A11V; S: V615L, , Hubei, A3175G; G3179A; C14422T; C14585T; G23405C; C28315T
-NODE_0000018, ORF1a: P2079L, , Hubei, C6501T
-Guangdong/2020XN4475-P0042/2020, , , Guangdong, 
-India/1-31/2020_travel_history, , , China, 
-India/1-31/2020, ORF1a: I476V; ORF1b: T1137I; S: A930V, , Kerala, A1691G; C16877T; C24351T
-NODE_0000045, , , Hubei, T8767C; G29593A
-Guangdong/2020XN4273-P0036/2020, , , Guangdong, 
-SouthKorea/KCDC05/2020, ORF1a: K492T; ORF1b: H1213Y; ORF3a: V259L, , Seoul, A1740C; C17104T; G26167T
-NODE_0000066, ORF1b: I1674T, , Hubei, T18488C; T23605G
-England/01/2020_travel_history, , , Hubei, 
-England/01/2020, , , England, 
-England/02/2020_travel_history, , , Hubei, 
-England/02/2020, ORF10: I13M, , England, A29596G
-NODE_0000001, ORF1a: L3606F, , Hubei, G11083T
-NODE_0000000, ORF1a: F941L; ORF1b: A1219T, , Anhui, T3086C; G17122A
-Anhui/SZ005/2020, ORF1a: L642F, H1610R; ORF1b: T861I, , Anhui, C2189T; A5094G; C16049T
-SouthKorea/KCDC24/2020, ORF1a: A1997V, , Chungcheongnam, C6255T
-NODE_0000007, , , Hubei, 
-Guangdong/GD2020233-P0027/2020, ORF1b: M897V, , Guangdong, T9013A; A16156G
-Yunnan/IVDC-YN-003/2020, , , Yunnan, 
-NODE_0000031, ORF1a: L969P, , Shandong, T3171C
-NODE_0000009, , , Shandong, 
-Shandong/LY007/2020, , , Shandong, 
-Shandong/LY008/2020, , , Shandong, 
-NODE_0000033, , , Shandong, 
-Shandong/LY003/2020, N: L121H, , Shandong, A19959G; T28635A
-NODE_0000011, , , Shandong, T29817A; A29819T
-Shandong/LY006/2020, , , Shandong, 
-NODE_0000012, , , Shandong, 
-Shandong/LY004/2020, , , Shandong, 
-Shandong/LY005/2020, , , Shandong, 
-NODE_0000166, ORF8: V62L, , Hubei, C24034T; T26729C; G28077C
-HongKong/VM20001061/2020, S: V367F, , Hong Kong, C1663T; G22661T
-USA/CA1/2020_travel_history, , , Hubei, 
-USA/CA1/2020, ORF14: Q20L; ORF1a: S428N, , California, G1548A; A28792T
-Sichuan/IVDC-SC-001/2020, ORF1b: F1908Y, , Sichuan, T19190A
-USA/IL2/2020_travel_history, , , Hubei, 
-USA/IL2/2020, ORF1a: D75E, P971L, , Illinois, T490A; C3177T
-NODE_0000014, , , Hubei, 
-Guangdong/GZ-S6-P0050/2020, ORF1a: L149P, Q986K; S: S50L, , Guangdong, T711C; C3221A; C21711T
-Vietnam/VR03-38142/2020_travel_history, , , Hubei, 
-Vietnam/VR03-38142/2020, , , Thanh Hoa, 
-NODE_0000036, N: S197L; ORF14: Q44*; ORF1a: F3071Y; ORF3a: G196V, , Hubei, T9477A; C14805T; G25979T; C28657T; C28863T
-France/GE1583/2020, ORF3a: A54V, , Grand Est, C25553T
-Netherlands/NoordBrabant_46/2020, ORF1a: V3420I; ORF1b: C1732F; S: M1237I, , North Brabant, G10523A; G18662T; G25273C
-Spain/Valencia2/2020, S: S940F, , Comunitat Valenciana, C24381T
-NODE_0000016, , , Santiago, 
-NODE_0000017, , , Santiago, 
-USA/NY2-PV08100/2020, , , New York, 
-Chile/Santiago-1/2020, , , Santiago, 
-NODE_0000020, , , Santiago, 
-NODE_0000021, , , Santiago, 
-Chile/Santiago_op2d1/2020, , , Santiago, 
-Spain/Valencia3/2020, , , Comunitat Valenciana, 
-NODE_0000022, , , Santiago, 
-Chile/Santiago_op3d1/2020, , , Santiago, 
-Chile/Santiago_op4d1/2020, , , Santiago, 
-NODE_0000019, N: S202N; ORF14: V49I, B4, Queensland, G28878A; G29742A
-Australia/QLD02/2020, S: P1143L, , Queensland, C24990T; C25587T
-NODE_0000023, , , Queensland, 
-Australia/QLD03/2020, , , Queensland, T18603C
-NODE_0000024, , , Queensland, 
-NODE_0000025, , , Queensland, 
-Australia/QLD01/2020_travel_history, , , Hubei, 
-Australia/QLD01/2020, , , Queensland, 
-NODE_0000027, , , Queensland, 
-Australia/QLD04/2020, , , Queensland, 
-USA/CA7/2020_travel_history, , , Hubei, 
-USA/CA7/2020, , , California, 
-NODE_0000028, , , Hubei, 
-NODE_0000029, , , Hubei, 
-Guangdong/2020XN4243-P0035/2020, , , Guangdong, 
-Singapore/4/2020_travel_history, , , Hubei, 
-Singapore/4/2020, , , Singapore, 
-NODE_0000026, ORF1b: V972I, , Utrecht, G16381A
-Netherlands/Utrecht_16/2020, ORF1a: A1997V, , Utrecht, C6255T
-NODE_0000030, , , Utrecht, 
-Netherlands/Utrecht_17/2020, , , Utrecht, 
-Netherlands/Gelderland/1/2020, , , Gelderland, 
-NODE_0000072, ORF1a: L1599F, , Beijing, T4402C; G5062T
-Beijing/233/2020, N: D343V, , Beijing, A29301T
-SouthKorea/KCDC07/2020, ORF1a: S505F; ORF1b: A517V, , Seoul, C1779T; C15017T
-NODE_0000041, , , Beijing, 
-SouthKorea/KCDC03/2020, , , Gyeonggi, 
-NODE_0000032, , , Beijing, 
-Beijing/231/2020, , , Beijing, 
-NODE_0000034, , , Beijing, 
-Beijing/105/2020, , , Beijing, 
-NODE_0000035, , , Beijing, 
-Beijing/235/2020, , , Beijing, 
-NODE_0000037, , , Seoul, 
-SouthKorea/KCDC06/2020, , , Seoul, 
-NODE_0000038, , , South Korea, 
-NODE_0000039, , , South Korea, 
-SouthKorea/KUMC06/2020, , , South Korea, 
-SouthKorea/KUMC04/2020, , , South Korea, 
-NODE_0000040, , , South Korea, 
-SouthKorea/KUMC03/2020, , , South Korea, 
-SouthKorea/KUMC05/2020, , , South Korea, 
-NODE_0000046, , B2, Hubei, C29095T
-Shenzhen/HKU-SZ-005/2020, ORF1a: S3099L, , Guangdong, C9561T; T15607C
-USA/TX1/2020_travel_history, , , Hubei, 
-USA/TX1/2020, ORF1b: D1903A; ORF8: T11I, , Texas, T18603C; T18975A; A19175C; C27925T
-NODE_0000056, E: S68C; ORF8: D119E, , Hubei, C26447G; T28250G
-Guangdong/2020XN4291-P0038/2020, , , Guangdong, 
-Guangzhou/GZMU0042/2020, , , Guangdong, 
-NODE_0000047, , , Tokyo, C2662T
-Guangdong/SZ-N128-P0057/2020, ORF1b: P160S, A440V, R712H, , Guangdong, C10789T; C13945T; C14786T; G15602A
-Japan/TY-WK-012/2020, ORF1a: A1176V, , Tokyo, C3792T
-Japan/TY-WK-501/2020, , , Tokyo, 
-Japan/TY-WK-521/2020, , , Tokyo, G29705T
-NODE_0000044, , , Hubei, 
-NODE_0000048, , , Hubei, 
-Shenzhen/HKU-SZ-002/2020, , , Guangdong, 
-NODE_0000049, , , Hubei, 
-Germany/BavPat3/2020, S: E780Q, , Bavaria, G23900C
-Guangdong/20SF012/2020, , , Guangdong, 
-NODE_0000050, , , Hubei, 
-NODE_0000051, ORF1a: L3606F, , Hubei, G11083T
-USA/AZ1/2020_travel_history, , , Hubei, 
-USA/AZ1/2020, , , Arizona, 
-Guangdong/2020XN4276-P0037/2020, , , Guangdong, T240C
-NODE_0000052, , , Hubei, 
-Shenzhen/SZTH-002/2020, , , Guangdong, 
-NODE_0000053, , , Hubei, 
-Guangdong/20SF025/2020, , , Guangdong, 
-Guangdong/20SF013/2020, , , Guangdong, 
-NODE_0000054, , , Hubei, 
-Wuhan/WH04/2020, , , Hubei, 
-NODE_0000055, , , Hubei, 
-NODE_0000057, , , Singapore, 
-Singapore/12/2020, ORF3a: A59D; S: F817L, , Singapore, T24011C; C25568A; C29741T
-NODE_0000067, N: D103Y; ORF1b: V1814F, , Talca, C17470T; G18907T; C26088T; G28580T
-Chile/Talca-1/2020, , , Talca, 
-Chile/Talca-2/2020, , , Talca, 
-NODE_0000059, , , Hubei, 
-NODE_0000060, , , Hubei, 
-Wuhan/HBCDC-HB-03/2020, , , Hubei, 
-NODE_0000071, S: S50L, , Hubei, C21711T
-Guangdong/ZS-S6-P0060/2020, , , Guangdong, C16407A
-Guangdong/FS-S30-P0052/2020, , , Guangdong, C18060T; C24382T
-NODE_0000062, , , Hubei, 
-NODE_0000063, , , Hubei, 
-USA/IL1/2020_travel_history, , , Hubei, 
-USA/IL1/2020, , , Illinois, 
-Australia/NSW01/2020_travel_history, , , Hubei, 
-Australia/NSW01/2020, , , New South Wales, 
-NODE_0000064, , , Hubei, 
-NODE_0000065, , , Hubei, 
-Hangzhou/ZJU-02/2020, , , Zhejiang, 
-Taiwan/3/2020, , , Taiwan, 
-NODE_0000068, , , Singapore, 
-Singapore/13/2020, N: P199S; ORF1b: V1419A, , Singapore, T17723C; C28868T
-NODE_0000069, , , Singapore, 
-NODE_0000070, , , Hubei, 
-Guangdong/2020XN4459-P0041/2020, , , Guangdong, 
-Taiwan/NTU01/2020_travel_history, , , Hubei, 
-Taiwan/NTU01/2020, , , Taiwan, 
-NODE_0000073, , , Singapore, 
-NODE_0000074, , , Hubei, 
-Guangdong/GDSZ202015-P0019/2020, , , Guangdong, 
-Belgium/GHB-03021/2020_travel_history, , , Hubei, 
-Belgium/GHB-03021/2020, , , Flanders, 
-NODE_0000075, , , Singapore, 
-Singapore/14/2020, , , Singapore, 
-NODE_0000076, , , Hubei, 
-Guangzhou/GZMU0048/2020, , , Guangdong, 
-Guangzhou/GZMU0044/2020, , , Guangdong, 
-NODE_0000082, , B1, Hubei, C18060T
-Chongqing/YC01/2020, , , Chongqing, C1342T; C29200T
-NODE_0000086, ORF1b: T76I, , Hubei, C865T; C13694T
-Guangdong/GD2020086-P0021/2020, , , Guangdong, 
-Guangdong/GD2020234-P0023/2020, , , Guangdong, 
-NODE_0000079, , , Hubei, 
-NODE_0000080, , , Hubei, 
-Fujian/8/2020, , , Fujian, 
-USA/WA1/2020_travel_history, , , Hubei, 
-USA/WA1/2020, , , Washington, 
-NODE_0000087, ORF1b: Y1464C, , Washington, A17858G
-NODE_0000088, , , British Columbia, G29736T
-Canada/BC_83163/2020, ORF1b: P1427L, , British Columbia, C17747T
-NODE_0000083, , , British Columbia, 
-Canada/BC_83109/2020, , , British Columbia, 
-Canada/BC_41851/2020, , , British Columbia, 
-NODE_0000090, ORF1b: P1427L, , Washington, C17747T
-USA/WA7-UW4/2020, ORF1b: F2272L, , Washington, T20281C
-USA/WA-UW64/2020, ORF10: R24L, , Washington, T16242C; G29628T
-USA/CA-CDPH-UC1/2020, N: S327L; ORF1a: P1640L, , Grand Princess, C5184T; C29253T
-USA/MN3-MDH3/2020_travel_history, , , Grand Princess, 
-USA/MN3-MDH3/2020, ORF1b: S2640F, , Minnesota, C1102T; T21147C; C21386T; C22432T; C29837A
-USA/WA-UW47/2020, ORF1a: A385V; ORF1b: S220N, , Washington, C1419T; G14126A
-USA/WA12-UW8/2020, , , Washington, C9430A
-USA/WA-UW66/2020, , , Washington, T5860C; T18099A
-USA/WA-UW50/2020, ORF1a: W630R, , Washington, T2153A; A3889G; C27167T
-USA/WA-UW62/2020, ORF1a: P1497S; ORF3a: G254R, , Washington, C4754T; G8602A; G26152A
-USA/WA-UW32/2020, ORF1a: P2018S, A3143V, , Washington, C6317T; C9693T
-USA/WA-UW19/2020, , , Washington, G260C; G261C; C25731T
-USA/WA-UW45/2020, ORF1a: A3456V; ORF1b: H73Q, E74*, T76S, R322K, , Washington, C10632T; T13686A; G13687T; A13693T; G14432A
-NODE_0000128, ORF1a: K2511N, , Grand Princess, G7798T; C20148T
-USA/CA-CDPH-UC6/2020, , , Grand Princess, 
-USA/CA-CDPH-UC5/2020, , , Grand Princess, 
-NODE_0000143, , , Washington, T27384C
-USA/WA-UW46/2020, , , Washington, 
-USA/WA-UW55/2020, ORF1a: M2606I, , Washington, G8083T
-NODE_0000152, , , Washington, C23758T
-USA/WA-UW15/2020, , , Washington, 
-USA/WA-UW76/2020, , , Washington, 
-NODE_0000134, ORF6: K42N, , Washington, C6310T; G27327T
-USA/WA-UW43/2020, , , Washington, 
-USA/WA-UW59/2020, , , Washington, 
-USA/WA-UW44/2020, , , Washington, 
-NODE_0000124, , , Grand Princess, A3046G; A16467G; C23185T
-USA/CA-CDPH-UC7/2020, , , Grand Princess, 
-NODE_0000125, ORF1b: V1170F, , Grand Princess, G16975T
-USA/CA-CDPH-UC8/2020, , , Grand Princess, T9415C
-NODE_0000092, , , Grand Princess, 
-USA/UC-CDPH-UC11/2020, , , Grand Princess, 
-USA/CA-CDPH-UC9/2020, , , Grand Princess, 
-NODE_0000137, , , Washington, T150C; T153G
-USA/WA-UW17/2020, , , Washington, 
-USA/WA-UW42/2020, ORF1a: K1124E, , Washington, A3635G; T15849C
-USA/WA-UW28/2020, , , Washington, T5860C
-USA/WA-UW30/2020, M: D3G, , Washington, A26530G; G29422A
-NODE_0000144, ORF1a: T1840I, , Washington, C5784T
-USA/WA8-UW5/2020, ORF1a: E1047D; S: H655Y, , Washington, A3406C; C23525T
-USA/WA2/2020, , , Washington, 
-USA/WA-UW72/2020, N: T24I, , Washington, C9836T; C28344T
-USA/WA9-UW6/2020, M: V70I, , Washington, G20580T; G26730A
-NODE_0000094, , , Washington, 
-USA/WA-UW27/2020, ORF1b: A538V, , Washington, C15080T
-NODE_0000095, , , Washington, 
-NODE_0000096, , , Washington, 
-NODE_0000097, , , Washington, 
-NODE_0000098, , , Washington, 
-USA/WA-S3/2020, , , Washington, 
-USA/WA4-UW2/2020, , , Washington, 
-NODE_0000099, , , Washington, 
-NODE_0000100, , , Washington, 
-USA/WA-UW18/2020, , , Washington, 
-USA/WA13-UW9/2020, , , Washington, 
-NODE_0000101, , , Washington, 
-USA/WA14-UW10/2020, , , Washington, 
-USA/WA-UW63/2020, , , Washington, 
-NODE_0000102, , , Washington, 
-NODE_0000103, , , Washington, 
-NODE_0000104, , , Washington, 
-USA/WA6-UW3/2020, , , Washington, 
-USA/WA-UW52/2020, , , Washington, 
-NODE_0000105, , , Washington, 
-USA/WA-UW58/2020, S: L5F, , Washington, C21575T
-NODE_0000157, , , Washington, C832T
-USA/WA-UW26/2020, , , Washington, 
-NODE_0000107, , , Washington, 
-USA/WA-UW74/2020, , , Washington, 
-USA/WA-UW35/2020, , , Washington, 
-NODE_0000108, , , Washington, 
-NODE_0000109, , , Washington, 
-NODE_0000110, , , Washington, 
-USA/WA-UW41/2020, , , Washington, 
-USA/WA-UW70/2020, , , Washington, 
-NODE_0000111, , , Washington, 
-USA/WA-UW34/2020, , , Washington, 
-USA/UPHL-04/2020, , , Utah, 
-NODE_0000112, , , Washington, 
-NODE_0000113, , , Washington, 
-USA/WA-UW51/2020, , , Washington, 
-USA/UPHL-03/2020, , , Utah, 
-NODE_0000114, , , Washington, 
-USA/WA-UW33/2020, , , Washington, 
-USA/WA-UW67/2020, , , Washington, 
-NODE_0000115, , , Washington, 
-NODE_0000116, , , Washington, 
-USA/WA-S2/2020, , , Washington, 
-NODE_0000117, , , Washington, 
-NODE_0000118, , , Washington, 
-USA/WA-UW61/2020, ORF1b: A1231T, , Washington, G17158A
-USA/WA-UW75/2020, , , Washington, A24877G
-NODE_0000119, , , Washington, 
-Canada/BC_64686/2020_travel_history, , , Grand Princess, 
-Canada/BC_64686/2020, , , British Columbia, G29706T
-NODE_0000091, S: V483A, , Washington, T23010C
-USA/WA-UW31/2020, , , Washington, C10369T
-NODE_0000121, , , Washington, 
-USA/WA-UW68/2020, , , Washington, 
-NODE_0000122, , , Washington, 
-USA/WA15-UW11/2020, , , Washington, 
-NODE_0000123, , , Washington, 
-USA/WA16-UW12/2020, , , Washington, 
-USA/WA17-UW13/2020, , , Washington, 
-NODE_0000126, , , Washington, 
-NODE_0000127, , , Washington, 
-NODE_0000129, , , Washington, 
-USA/WA-UW49/2020, , , Washington, 
-USA/WA-UW48/2020, , , Washington, 
-NODE_0000130, , , Washington, 
-USA/WA-UW56/2020, ORF1a: T4217I, , Washington, C12915T
-USA/WA-UW57/2020, ORF1b: S2638F, , Washington, C21380T
-NODE_0000131, , , Washington, 
-NODE_0000132, , , Washington, 
-NODE_0000133, , , Washington, 
-USA/WA18-UW14/2020, , , Washington, 
-USA/WA-UW20/2020, , , Washington, 
-NODE_0000135, , , Washington, 
-USA/WA-UW21/2020, , , Washington, 
-USA/WA-UW23/2020, , , Washington, 
-NODE_0000136, , , Washington, 
-NODE_0000138, , , Washington, 
-USA/WA-UW24/2020, , , Washington, 
-USA/WA-UW54/2020, , , Washington, 
-NODE_0000139, , , Washington, 
-USA/WA-UW16/2020, , , Washington, 
-USA/WA-UW71/2020, , , Washington, 
-NODE_0000173, , , Hubei, 
-Wuhan/IVDC-HB-04/2020, ORF7a: P34S, , Hubei, C27493T; C28253T
-Wuhan/IVDC-HB-05/2019, , , Hubei, G20670A; G20679A
-Wuhan/WH01/2019, ORF1a: L2235I, N3833K, , Hubei, C6968A; T11764A
-Wuhan/WIV05/2019, ORF1a: G2251S; ORF1b: K2557R, , Hubei, G7016A; A21137G
-Wuhan/WIV07/2019, ORF1a: D2579A, T3090I, , Hubei, A8001C; C9534T
-NODE_0000341, ORF1a: N389D; ORF1b: S1023I, L1701F, , Hubei, A1430G; G16535T; C18568T
-Guangdong/2020XN4448-P0002/2020, ORF1b: N2080D, , Guangdong, G5155A; A19705G
-NODE_0000145, , , Hubei, 
-Guangdong/GD2020139-P0007/2020, , , Guangdong, 
-Guangzhou/GZMU0014/2020, , , Guangdong, 
-NODE_0000352, , , Hubei, A24325G
-Wuhan/WIV02/2019, ORF1b: D2617N, , Hubei, G21316A
-NODE_0000147, , , Hubei, 
-USA/CA8/2020, , , California, 
-Wuhan/HBCDC-HB-02/2019, , , Hubei, 
-NODE_0000475, S: D614G, A2, South Holland, C241T; C3037T; A23403G
-NODE_0000141, , , Italy, 
-Finland/FIN-114/2020_travel_history, , , Italy, 
-Finland/FIN-114/2020, , , Finland, 
-Germany/BavPat1/2020, , , Bavaria, 
-NODE_0000477, ORF1b: P314L, A2a, South Holland, C14408T
-Finland/FIN-25/2020_travel_history, , , Lombardy, 
-Finland/FIN-25/2020, ORF1a: I1159T, V1166E; S: L249S, , Helsinki, A3337G; T3741C; T3762A; G21985A; T22308C; T26187C
-Denmark/SSI-102/2020, S: L611F, , Copenhagen, C23393T; G29843A; T29845A; T29846A
-Wales/PHW06/2020, ORF1a: S2242F; ORF1b: S2027V, A2028C, , Wales, C6990T; C19545A; T19546G; C19547T; A19548T; G19549T; C19550G
-NODE_0000498, ORF1a: E754D, P2055S, L3606F; ORF3a: K61N, , Utrecht, G2527T; C6428T; G11083T; A25575C
-Netherlands/Utrecht_1363564/2020, ORF1a: A1314T, , Utrecht, G4205A
-NODE_0000435, , , Utrecht, 
-Netherlands/Utrecht_6/2020, , , Utrecht, 
-Netherlands/Utrecht_1363628/2020, , , Utrecht, 
-NODE_0000591, ORF1b: S997A, T2195I, , South Holland, G4255T; C5284T; T16456G; C20051T
-Netherlands/ZuidHolland_5/2020, , , South Holland, 
-NODE_0000592, S: A852V, , South Holland, C24117T
-Netherlands/NA/23/2020, , , Netherlands, 
-Netherlands/ZuidHolland_9/2020, , , South Holland, 
-NODE_0000600, ORF1a: Y4379*, , Italy, T13402G
-Belgium/BM-03012/2020_travel_history, , , Italy, 
-Belgium/BM-03012/2020, S: S943P, , Kraainem, A24389C; G24390C
-NODE_0000601, N: R185C; ORF1a: C4381W, , Huldenberg, T13408G; C20148T; C28826T
-Belgium/VAG-03013/2020, S: S943T, , Huldenberg, G24390C
-Belgium/VLM-03011/2020, ORF1a: I1686K, E1687V, W4381*, , Huldenberg, T5322A; A5325T; G13408A; A23116T
-NODE_0000149, , , Netherlands, 
-NODE_0000150, , , Hauts de France, 
-NODE_0000533, ORF3a: Q57H, , Hauts de France, G25563T
-NODE_0000452, , , Hauts de France, 
-France/HF1805/2020, S: I1132V, , Hauts de France, A24956G
-Taiwan/NTU03/2020, , , Taiwan, C18877T
-NODE_0000535, , , Hauts de France, C2416T
-France/GE1977/2020, S: S939F, , Grand Est, G210T; C24378T; G29543T
-France/HF1993/2020, , , Hauts de France, C19884T
-France/HF2174/2020, ORF1b: P2256L, , Hauts de France, A12745G; C20234T
-France/HF1995/2020, ORF1a: S4153P, , Hauts de France, T12722C
-NODE_0000454, , , Hauts de France, 
-France/HF1684/2020, , , Hauts de France, 
-NODE_0000455, , , Hauts de France, 
-Congo/KN-13/2020, , , Kinshasa, 
-France/IDF1980/2020, , , Ile de France, 
-NODE_0000545, ORF1a: T265I, , Hauts de France, C1059T
-NODE_0000552, ORF1a: N2187T, L4365F, , Netherlands, A6825C; C13358T
-Netherlands/NA/20/2020, ORF1a: A1997V; ORF3a: Q57H, , Netherlands, C6255T; G25563T
-Netherlands/NoordHolland_3/2020, , , North Holland, 
-NODE_0000458, , , Netherlands, 
-NODE_0000459, , , South Holland, 
-Netherlands/NoordBrabant_59/2020, , , North Brabant, 
-Netherlands/ZuidHolland_30/2020, , , South Holland, 
-NODE_0000460, , , Netherlands, 
-NODE_0000461, , , Netherlands, 
-Netherlands/NA/13/2020, , , Netherlands, 
-Netherlands/NA/1/2020, , , Netherlands, 
-NODE_0000462, , , Netherlands, 
-Netherlands/Flevoland/1/2020, , , Flevoland, 
-Netherlands/NA/10/2020, , , Netherlands, 
-NODE_0000553, ORF3a: Q57H, , Hauts de France, G25563T
-France/HF1986/2020, ORF1a: M2796V; S: P1162A, , Hauts de France, C5348T; A8651G; C25046G
-France/PL1643/2020, , , Pays de la Loire, C12049T; T13521C
-France/HF1871/2020, ORF1a: L580F, , Hauts de France, C2003T; C10582T; C27059T
-Denmark/SSI-104/2020, ORF1a: T346I; ORF1b: T1730I, , Hauts de France, C1302T; C18656T
-NODE_0000559, , , Hauts de France, A20766G
-France/HF1988/2020, , , Hauts de France, 
-France/HF1989/2020, , , Hauts de France, A15213G; G26199T
-NODE_0000567, , , Hauts de France, T1666C
-Belgium/BA-02291/2020, S: K458R, H519P, T941A, S943P, , Leuven, A22935G; A23118C; C24382T; A24383G; A24389C; G24390C
-NODE_0000466, , , Hauts de France, 
-Netherlands/Haarlem_1363688/2020, , , North Holland, 
-France/HF2039/2020, S: A653V, , Hauts de France, C23520T
-NODE_0000467, , , Hauts de France, 
-NODE_0000468, , , Netherlands, 
-Netherlands/NA/24/2020, ORF1a: A1997V, , Netherlands, C6255T
-NODE_0000569, , , Washington, G29553A
-USA/WA-UW29/2020, , , Washington, 
-NODE_0000470, , , Washington, 
-USA/WA-UW60/2020, , , Washington, 
-USA/WA-UW69/2020, , , Washington, 
-NODE_0000474, , , Hauts de France, 
-NODE_0000476, , , Netherlands, 
-Netherlands/NA_30/2020, ORF3a: F8L, , Netherlands, T25414C
-NODE_0000565, , , Utah, C379A
-USA/UPHL-05/2020, , , Utah, 
-USA/UPHL-06/2020, , , Utah, 
-NODE_0000478, , , Hauts de France, 
-France/IDF2075/2020, N: R195K; ORF14: E42K, , Ile de France, G28857A
-NODE_0000479, , , Hauts de France, 
-Finland/FIN-455/2020, , , Finland, 
-France/HF1795/2020, , , Hauts de France, 
-NODE_0000181, , , Netherlands, 
-NODE_0000523, ORF1a: S2242F, , Wales, C6990T
-Wales/PHW13/2020, N: A397S; ORF1a: L1627I, W4096C, Q4099*, , Wales, C5144A; G12553T; C12560T; G29462T
-NODE_0000444, , , Wales, 
-Wales/PHW10/2020, ORF1b: L2672P, , Wales, T21482C
-NODE_0000445, , , Wales, 
-Wales/PHW12/2020, , , Wales, 
-Wales/PHW21/2020, , , Wales, 
-NODE_0000187, , , Netherlands, 
-NODE_0000529, ORF1a: A3615V, , Netherlands, C1594T; C11109T
-Netherlands/NA/28/2020, ORF1a: R398C, , Netherlands, C1457T
-NODE_0000437, , , Netherlands, 
-Netherlands/NA/18/2020, , , Netherlands, 
-Netherlands/NA/17/2020, , , Netherlands, 
-NODE_0000196, , , England, 
-England/20100022706/2020, ORF1a: S2237I, V2238I, , England, G6975T; G6977A
-NODE_0000202, , , England, 
-NODE_0000210, , , Helsinki, 
-Finland/FIN03032020A/2020, ORF10: P10S; S: A435S, , Helsinki, G22865T; C29585T
-NODE_0000486, , , Utrecht, A187G
-France/N1620/2020, ORF1a: T3488I, , Normandie, C10728T
-Italy/UniSR1/2020, ORF1a: I2231L, , Lombardy, A6956C
-NetherlandsL/Houten_1363498/2020, , , Utrecht, A3778G
-NODE_0000447, , , Utrecht, 
-Netherlands/Utrecht_3/2020, , , Utrecht, 
-Switzerland/TI9486/2020, , , Ticino, 
-NODE_0000229, , , England, 
-NODE_0000606, M: D3G, , England, A26530G
-Switzerland/AG0361/2020, ORF1b: E2311K, , Aargau, G20398A
-NODE_0000607, N: A156S, , England, G28739T
-England/200991076/2020, , , England, 
-England/200981386/2020, , , England, 
-NODE_0000450, , , England, 
-Scotland/CVR05/2020, , , Scotland, 
-Finland/FIN-266/2020_travel_history, , , Iran, 
-Finland/FIN-266/2020, , , Finland, 
-NODE_0000240, , , England, 
-NODE_0000244, , , England, 
-NODE_0000596, S: D839Y, , England, G24077T
-England/20102000506/2020, , , England, 
-England/20099107406/2020, S: L5F, , England, C21575T
-NODE_0000250, , , England, 
-NODE_0000605, N: A156S, , North Brabant, G28739T
-Netherlands/NoordBrabant_17/2020, , , North Brabant, C7063T
-Netherlands/NoordBrabant_4/2020, ORF1b: A2006V, , North Brabant, C19484T
-NODE_0000253, , , Geneva, 
-Switzerland/GE4984/2020, N: S188L; ORF14: H35Y; ORF1b: T132I, , Geneva, C13862T; C28836T
-Wales/PHW27/2020, ORF1b: P976S; ORF6: E55D; S: V341I, , Wales, C16393T; G22583A; G27366T
-NODE_0000481, , , England, 
-NODE_0000482, , , England, 
-NODE_0000483, , , England, 
-NorthernIreland/HSCNI01/2020, , , Northern Ireland, C7420T
-NODE_0000579, S: P1263L, , England, C25350T
-NODE_0000583, ORF1b: D2323Y, , England, G20434T; C26858T
-England/20100121006/2020, , , England, 
-England/20100121007/2020, , , England, 
-NODE_0000487, , , England, 
-England/20100005406/2020, , , England, 
-NODE_0000488, , , England, 
-England/20100004706/2020, , , England, 
-NODE_0000489, , , England, 
-England/20100004806/2020, , , England, 
-NODE_0000490, , , England, 
-England/200990660/2020, , , England, 
-NODE_0000491, , , England, 
-England/201040141/2020, , , England, 
-Scotland/EDB011/2020, , , Scotland, 
-NODE_0000492, , , England, 
-NODE_0000493, , , Lombardy, 
-Italy/CDG1/2020, , , Lombardy, 
-NODE_0000575, , , South Holland, A24862G
-Netherlands/ZuidHolland_31/2020, N: A119V, , South Holland, T658C; C28629T
-Netherlands/NA_31/2020, N: D402Y; ORF7b: E39*, , Netherlands, G27870T; G29477T
-NODE_0000495, , , North Brabant, 
-Netherlands/NoordBrabant_21/2020, , , North Brabant, 
-NODE_0000496, , , North Brabant, 
-Netherlands/NoordBrabant_13/2020, , , North Brabant, 
-Netherlands/Gelderland/2/2020, , , Gelderland, 
-NODE_0000497, , , Sao Paulo, 
-NODE_0000499, , , Sao Paulo, 
-NODE_0000500, , , Netherlands, 
-USA/CA-PC101P/2020, , , California, C18814T
-Netherlands/NA/16/2020, ORF1b: D2270N, , Netherlands, G20275A
-NODE_0000501, , , Sao Paulo, 
-NODE_0000502, , , Flevoland, 
-Netherlands/Zeewolde_1365080/2020, , , Flevoland, 
-Netherlands/Utrecht_11/2020, , , Utrecht, 
-NODE_0000503, , , Sao Paulo, 
-Brazil/SPBR-06/2020, , , Sao Paulo, 
-Brazil/SPBR-05/2020, , , Sao Paulo, 
-NODE_0000504, , , Sao Paulo, 
-NODE_0000505, , , Limerick, 
-Ireland/Limerick-19933/2020, , , Limerick, 
-Wales/PHW1/2020, , , Wales, 
-NODE_0000506, , , Sao Paulo, 
-NODE_0000507, , , Sao Paulo, 
-France/GE1973/2020, , , Grand Est, 
-Brazil/SPBR-09/2020, , , Sao Paulo, 
-NODE_0000508, , , Scotland, 
-Georgia/Tb-477/2020, , , Tbilisi, 
-Scotland/EDB004/2020, , , Scotland, 
-NODE_0000509, , , England, 
-NODE_0000511, , , England, 
-NODE_0000542, , , Scotland, C23575T
-Luxembourg/Lux1/2020, , , Luxembourg, 
-NODE_0000543, S: Q675H, , Scotland, G23587C
-Scotland/EDB013/2020, , , Scotland, 
-NODE_0000290, , , Scotland, 
-Scotland/EDB003/2020, , , Scotland, 
-Denmark/SSI-101/2020, , , Scotland, 
-NODE_0000514, , , England, 
-NODE_0000515, , , England, 
-NODE_0000516, , , Scotland, 
-Scotland/CVR03/2020, , , Scotland, 
-Denmark/SSI-09/2020, , , Copenhagen, 
-NODE_0000517, , , England, 
-CzechRepublic/951/2020_travel_history, , , Italy, 
-CzechRepublic/951/2020, , , Usti nad Labem, 
-England/201040081/2020, , , England, 
-NODE_0000518, , , North Brabant, 
-NODE_0000519, , , North Brabant, 
-Netherlands/NoordBrabant_16/2020, , , North Brabant, 
-Brazil-RJ/314/2020, , , Rio de Janeiro, 
-NODE_0000520, , , North Brabant, 
-England/20102000306/2020, , , England, 
-Netherlands/Blaricum_1364780/2020, , , North Brabant, 
-NODE_0000521, , , England, 
-NODE_0000522, , , England, 
-NODE_0000524, , , England, 
-England/20110003506/2020, , , England, T17835C
-Brazil/SPBR-01/2020_travel_history, , , Lombardy, 
-Brazil/SPBR-01/2020, , , Sao Paulo, 
-NODE_0000525, , , England, 
-NODE_0000526, , , Limerick, 
-Belgium/SH-03014/2020, ORF1a: N2603D, , Huldenberg, A8072G
-Ireland/Limerick-19934/2020, , , Limerick, C29769T
-NODE_0000527, , , North Brabant, 
-Portugal/CV63/2020, , , Portugal, C29144T
-Netherlands/NoordBrabant_1/2020, , , North Brabant, T514C
-NODE_0000528, , , Geneva, 
-NODE_0000530, , , South Holland, 
-NODE_0000531, , , Utrecht, 
-Netherlands/Utrecht_8/2020, , , Utrecht, 
-Ireland/Limerick-19935/2020, , , Limerick, 
-NODE_0000532, , , South Holland, 
-Netherlands/ZuidHolland_17/2020, ORF1a: L960F, , South Holland, G3145T
-NODE_0000485, , , Washington, T3011C
-USA/WA-UW73/2020, , , Washington, 
-USA/WA-UW25/2020, , , Washington, 
-NODE_0000534, , , Geneva, 
-NODE_0000480, , , Geneva, A20268G
-Switzerland/GE5373/2020, , , Geneva, 
-Switzerland/GE3121/2020, , , Geneva, 
-NODE_0000536, , , Comunitat Valenciana, 
-Panama/328677/2020_travel_history, , , Comunitat Valenciana, 
-Panama/328677/2020, , , Panama City, 
-Spain/Valencia1/2020, , , Comunitat Valenciana, 
-NODE_0000510, , , Geneva, C15324T
-France/BFC2094/2020, ORF1a: G1155C, , Bourgogne-France-Comté, G3728T
-France/BFC2147/2020, , , Bourgogne-France-Comté, C13051T
-France/HF1870/2020, , , Hauts de France, C16428T
-NODE_0000538, , , Geneva, 
-NODE_0000539, , , Geneva, 
-Switzerland/BE2536/2020, , , Bern, 
-Switzerland/GE4135/2020, , , Geneva, 
-NODE_0000540, , , Geneva, 
-Switzerland/GE062072020, , , Geneva, 
-NODE_0000541, , , Geneva, 
-Switzerland/GE6679/2020, , , Geneva, 
-France/HF2151/2020, , , Hauts de France, 
-NODE_0000612, N: R203K, G204R; ORF14: G50N, , South Holland, G28881A; G28882A; G28883C
-Belgium/BC-03016/2020, S: S943P, , Sint-Niklaas, A24389C; G24390C
-Netherlands/ZuidHolland_28/2020, N: Q9H; ORF9b: S6I; S: Y1209H, , South Holland, T25187C; G28300T
-Mexico/CDMX-InDRE_01/2020_travel_history, , , Lombardy, 
-Mexico/CDMX-InDRE_01/2020, ORF1a: A4314G, , Mexico City, C13206G
-Scotland/EDB007/2020, S: S1055L, , Scotland, C24726T; G29540T
-Scotland/CVR01/2020, ORF7a: T120I, , Scotland, C12733T; C27752T
-Nigeria/Lagos01/2020_travel_history, , , Italy, 
-Nigeria/Lagos01/2020, ORF1a: C231Y, , Lagos, G957A
-NODE_0000620, , , Geneva, G13503T
-Switzerland/VD0503/2020, , , Geneva, 
-Switzerland/VD5615/2020, , , Vaud, 
-NODE_0000651, ORF1a: T4304I, , Graubünden, C13176T
-Switzerland/GR2988/2020, , , Graubünden, 
-Switzerland/GR3043/2020, , , Graubünden, 
-NODE_0000665, , , Wales, A13947T
-Wales/PHW05/2020, , , Wales, 
-Belgium/QKJ-03015/2020, ORF1a: Y4379*, , Brussels, T13402G
-NODE_0000616, ORF1a: G3334S, , Lombardy, G10265A
-Switzerland/1000477757/2020, ORF1a: R232C, , Zurich, C959T; T27618C
-Brazil/SPBR-12/2020_travel_history, , , USA, 
-Brazil/SPBR-12/2020, ORF1a: L3606F, , Sao Paulo, G11083T
-Germany/Baden-Wuerttemberg-1/2020_travel_history, , , Lombardy, 
-Germany/Baden-Wuerttemberg-1/2020, , , Baden-Wuerttemberg, 
-NODE_0000658, ORF1a: D1036E, , Wales, C3373A
-Switzerland/1000477377/2020, , , Zurich, G29422T
-NODE_0000548, , , Wales, 
-Wales/PHW04/2020, , , Wales, 
-Wales/PHW03/2020, , , Wales, 
-NODE_0000662, , , South Holland, 
-England/200990723/2020, , , England, G11842A
-NODE_0000663, , , South Holland, A3778G
-Netherlands/Delft_1363424/2020, , , South Holland, 
-Netherlands/Diemen_1363454/2020, N: I292T; ORF1a: T614I; S: D839E, , North Holland, C2106T; T24079A; T29148C
-NODE_0000652, N: I292T, , Geneva, T29148C
-Switzerland/GE1422/2020, , , Geneva, C10834T
-NODE_0000554, , , Geneva, 
-Netherlands/Helmond_1363548/2020, , , North Brabant, 
-NODE_0000555, , , Geneva, 
-Switzerland/GE1402/2020, , , Geneva, 
-Switzerland/AG7120/2020, , , Aargau, 
-NODE_0000632, , , Lombardy, C313T
-Brazil/BA-312/2020, , , Bahia, A26945T
-Switzerland/1000477797/2020_travel_history, , , Lombardy, 
-Switzerland/1000477797/2020, S: K202N, , Zurich, A22168C
-NODE_0000557, , , Geneva, 
-Switzerland/GE8102/2020, , , Geneva, 
-NODE_0000558, , , Sao Paulo, 
-Brazil/SPBR-08/2020, , , Sao Paulo, 
-Brazil/SPBR-13/2020, , , Sao Paulo, 
-NODE_0000623, ORF1a: T1246I, G3278S, , South Holland, C4002T; G10097A; C13536T; C23731T
-Denmark/SSI-05/2020, , , Copenhagen, 
-NODE_0000560, , , Wales, 
-Wales/PHW25/2020, , , Wales, 
-NODE_0000561, , , Wales, 
-Wales/PHW18/2020, , , Wales, 
-NODE_0000562, , , Wales, 
-Wales/PHW07/2020, , , Wales, 
-NODE_0000563, , , Wales, 
-Wales/PHW2/2020, , , Wales, 
-Wales/PHW33/2020, , , Wales, 
-NODE_0000636, , , South Holland, T19839C
-Switzerland/BE6651/2020, ORF1a: A2199V, , Bern, C6861T
-Netherlands/NoordHolland_2/2020, ORF1a: L960F, , North Holland, G3145T
-NODE_0000339, , , Lombardy, 
-Switzerland/GE3895/2020_travel_history, , , Lombardy, 
-Switzerland/GE3895/2020, , , Geneva, 
-NODE_0000566, , , Geneva, 
-Switzerland/GE0199/2020, , , Geneva, 
-NODE_0000568, , , Basel, 
-Switzerland/BL0902/2020, , , Basel, 
-NODE_0000570, , , Basel, 
-Switzerland/GE9586/2020_travel_history, , , Lombardy, 
-Switzerland/GE9586/2020, , , Geneva, 
-NODE_0000571, , , Basel, 
-Switzerland/1000477806/2020, , , Zurich, 
-NODE_0000572, , , Basel, 
-Switzerland/BS0914/2020, , , Basel, 
-Scotland/EDB009/2020, , , Scotland, 
-NODE_0000573, , , South Holland, 
-NODE_0000574, , , North Brabant, 
-NODE_0000576, , , North Brabant, 
-Netherlands/NoordBrabant_26/2020, , , North Brabant, 
-Netherlands/NA/2/2020, ORF1b: A1521V, , Netherlands, C18029T
-NODE_0000577, , , North Brabant, 
-NODE_0000578, , , North Brabant, 
-Netherlands/Tilburg_1364286/2020, , , North Brabant, 
-Netherlands/Nootdorp_1364222/2020, , , South Holland, 
-NODE_0000580, , , North Brabant, 
-Netherlands/Overijssel_2/2020, , , Overijssel, 
-Netherlands/NoordBrabant_39/2020, , , North Brabant, 
-NODE_0000581, , , South Holland, 
-NODE_0000582, , , South Holland, 
-Brazil/SPBR-14/2020_travel_history, , , Italy, 
-Brazil/SPBR-14/2020, S: V1176F, , Sao Paulo, G25088T
-Netherlands/ZuidHolland_13/2020, , , South Holland, C29362T
-NODE_0000584, , , South Holland, 
-NODE_0000585, , , Lombardy, 
-England/20099038206/2020, , , England, 
-Switzerland/1000477796/2020_travel_history, , , Lombardy, 
-Switzerland/1000477796/2020, , , Zurich, 
-NODE_0000586, , , Ticino, 
-Switzerland/TI2045/2020, ORF1a: T4031I, , Ticino, C12357T
-Chile/Santiago-2/2020, ORF1a: A1043V, , Santiago, C3393T
-NODE_0000669, M: T175M, , South Holland, C27046T
-Switzerland/SZ1417/2020, ORF1a: L3606F, , Schwyz, G11083T
-Netherlands/Berlicum_1363564/2020, , , North Brabant, 
-Netherlands/Eindhoven_1363782/2020, ORF1a: N2596D, , North Brabant, A8051G
-Netherlands/Utrecht_14/2020, ORF1b: P825S, , Utrecht, C15940T
-Scotland/EDB006/2020, ORF1a: K1230N, , Scotland, G3955T
-Netherlands/Limburg_5/2020, ORF1a: K2928N, , Limburg, G9049T
-Netherlands/NA/25/2020, ORF3a: D155Y, , Netherlands, G25855T
-Netherlands/Utrecht_1/2020, ORF1b: A647V, , Utrecht, C15407T
-Netherlands/ZuidHolland_2/2020, S: V772L, , South Holland, G23876C
-NODE_0000715, , , South Holland, T29807C
-Finland/FIN03032020C/2020_travel_history, , , Italy, 
-Finland/FIN03032020C/2020, , , Helsinki, 
-Finland/FIN-318/2020, ORF1a: G295V, , Finland, G1149T
-NODE_0000716, ORF1a: L960F, , South Holland, G3145T
-Netherlands/ZuidHolland_20/2020, ORF1a: P748S, , South Holland, C2507T
-NODE_0000590, , , South Holland, 
-Netherlands/ZuidHolland_19/2020, , , South Holland, 
-NODE_0000593, , , South Holland, 
-Netherlands/NoordBrabant_36/2020, , , North Brabant, 
-Netherlands/ZuidHolland_15/2020, , , South Holland, 
-NODE_0000721, N: T24N; ORF9b: L21M, , Netherlands, C28344A
-NODE_0000722, , , Netherlands, C10741T
-Netherlands/NA/11/2020, , , Netherlands, 
-Netherlands/NA/26/2020, , , Netherlands, 
-NODE_0000388, , , Netherlands, 
-Netherlands/NoordBrabant_3/2020, , , North Brabant, 
-Netherlands/NA_9/2020, , , Netherlands, 
-NODE_0000726, ORF1a: N3725D, , South Holland, A11438G
-Netherlands/ZuidHolland_18/2020, ORF1a: L960F, , South Holland, G3145T
-NODE_0000597, , , South Holland, 
-Netherlands/ZuidHolland_6/2020, , , South Holland, 
-NODE_0000598, , , South Holland, 
-Netherlands/Limburg_3/2020, , , Limburg, 
-NODE_0000599, , , Utrecht, 
-Netherlands/Utrecht_2/2020, , , Utrecht, 
-Netherlands/NA/15/2020, , , Netherlands, 
-NODE_0000730, S: Q239K, , South Holland, C22277A
-Finland/FIN-313/2020, , , Finland, C23635T
-NODE_0000732, N: L339F, , South Holland, G29290T
-Netherlands/NA_8/2020, , , Netherlands, 
-Netherlands/ZuidHolland_23/2020, , , South Holland, 
-NODE_0000407, , , South Holland, 
-NODE_0000408, , , South Holland, 
-Netherlands/ZuidHolland_26/2020, , , South Holland, 
-Netherlands/NoordBrabant_55/2020, , , North Brabant, 
-NODE_0000415, , , South Holland, 
-Netherlands/Utrecht_15/2020, , , Utrecht, 
-Netherlands/NA/12/2020, , , Netherlands, 
-NODE_0000602, , , South Holland, 
-NODE_0000603, , , South Holland, 
-NODE_0000604, , , South Holland, 
-NODE_0000608, , , South Holland, 
-NODE_0000609, , , South Holland, 
-Netherlands/ZuidHolland_14/2020, , , South Holland, 
-Netherlands/ZuidHolland_22/2020, , , South Holland, 
-NODE_0000610, , , South Holland, 
-Netherlands/NoordBrabant_14/2020, , , North Brabant, 
-Netherlands/ZuidHolland_25/2020, , , South Holland, 
-NODE_0000611, , , South Holland, 
-NODE_0000613, , , Netherlands, 
-Netherlands/NA_7/2020, , , Netherlands, 
-Finland/FIN-508/2020, , , Finland, 
-NODE_0000614, , , North Brabant, 
-Scotland/EDB005/2020, , , Scotland, 
-Netherlands/NoordBrabant_45/2020, , , North Brabant, 
-NODE_0000615, , , South Holland, 
-NODE_0000617, , , South Holland, 
-NODE_0000618, , , Sao Paulo, 
-Brazil/SPBR-03/2020, , , Sao Paulo, 
-Portugal/CV62/2020, , , Portugal, 
-NODE_0000619, , , Italy, 
-England/20102000206/2020, , , England, 
-Brazil/SPBR-07/2020_travel_history, , , Italy, 
-Brazil/SPBR-07/2020, , , Sao Paulo, 
-NODE_0000621, , , South Holland, 
-NODE_0000622, , , Italy, 
-Netherlands/Gelderland_1/2020, , , Gelderland, 
-Brazil/SPBR-04/2020_travel_history, , , Italy, 
-Brazil/SPBR-04/2020, , , Sao Paulo, 
-NODE_0000624, , , South Holland, 
-Netherlands/Utrecht_5/2020, , , Utrecht, 
-Netherlands/Rotterdam_1364740/2020, , , South Holland, 
-NODE_0000625, , , South Holland, 
-NODE_0000626, , , South Holland, 
-NODE_0000627, , , South Holland, 
-NODE_0000628, , , South Holland, 
-Netherlands/ZuidHolland_1/2020, , , South Holland, 
-Netherlands/NoordHolland_1/2020, , , North Holland, 
-NODE_0000629, , , South Holland, 
-England/20100024006/2020, , , England, 
-Netherlands/ZuidHolland_10/2020, , , South Holland, 
-NODE_0000630, , , South Holland, 
-NODE_0000631, , , South Holland, 
-Ireland/Dublin-19072/2020, , , Dublin, 
-Netherlands/ZuidHolland_29/2020, , , South Holland, 
-NODE_0000633, , , South Holland, 
-Netherlands/ZuidHolland_11/2020, , , South Holland, 
-Netherlands/Gelderland/3/2020, , , Gelderland, 
-NODE_0000634, , , South Holland, 
-NODE_0000635, , , Utrecht, 
-NODE_0000637, , , Utrecht, 
-Netherlands/Utrecht_13/2020, , , Utrecht, 
-Netherlands/NoordBrabant_58/2020, , , North Brabant, 
-NODE_0000638, , , Utrecht, 
-NODE_0000639, , , Utrecht, 
-Netherlands/Utrecht_10/2020, , , Utrecht, 
-Netherlands/Overijssel_1/2020, , , Overijssel, 
-NODE_0000640, , , Utrecht, 
-Netherlands/Limburg_2/2020, , , Limburg, 
-Netherlands/Utrecht_4/2020, , , Utrecht, 
-NODE_0000641, , , South Holland, 
-NODE_0000642, , , Netherlands, 
-Netherlands/NA/19/2020, ORF1a: A1997V, , Netherlands, C6255T
-NODE_0000643, , , North Brabant, 
-Scotland/EDB008/2020, , , Scotland, 
-Netherlands/NoordBrabant_15/2020, , , North Brabant, 
-NODE_0000644, , , South Holland, 
-NODE_0000645, , , Utrecht, 
-Netherlands/NoordBrabant_2/2020, , , North Brabant, 
-Netherlands/Utrecht_7/2020, , , Utrecht, 
-NODE_0000646, , , South Holland, 
-Netherlands/ZuidHolland_24/2020, , , South Holland, 
-Germany/NRW-011/2020, , , North Rhine Westphalia, 
-NODE_0000453, , , Hubei, 
-NODE_0000363, ORF1a: L3606F, , Hubei, G11083T
-France/IDF0515/2020_travel_history, , , Hubei, 
-France/IDF0515/2020, ORF1a: P309S, T3058I, , Ile de France, C1190T; C9438T
-NODE_0000153, , , Kanagawa, 
-NODE_0000154, , , Kanagawa, 
-Chongqing/IVDC-CQ-001/2020, , , Chongqing, 
-NODE_0000366, , , Kanagawa, C29635T
-Japan/Hu_DP_Kng_19-027/2020, , , Kanagawa, 
-Japan/TK/20-31-3/2020, , , Tokyo, 
-NODE_0000156, , , Kanagawa, 
-NODE_0000158, , , Kanagawa, 
-Japan/Hu_DP_Kng_19-020/2020, , , Kanagawa, 
-Singapore/3/2020, , , Singapore, 
-NODE_0000159, , , Utah, 
-USA/UPHL-01/2020, , , Utah, C18060T; C26326T
-NODE_0000367, , , Hong Kong, G29841A
-HongKong/VB20026565/2020, , , Hong Kong, 
-NODE_0000161, , , Hong Kong, 
-England/Sheff02/2020, S: S937L, , England, C24372T; G29779C
-HongKong/case78_VM20002849/2020, N: P365S, , Hong Kong, C29366T
-NODE_0000373, ORF1a: V378I, A3, Iran, G1397A; T28688C; G29742T
-Netherlands/ZuidHolland_16/2020, N: S188P; ORF1a: L960F, , South Holland, G3145T; C20235A; T20787C; T22042C; T28835C
-Wuhan/HBCDC-HB-05/2020, ORF1a: V3815D, , Hubei, T11709A
-Shandong/IVDC-SD-001/2020, ORF1a: A2345V; ORF7a: H73Q, , Shandong, C7299T; C10789T; C27612G
-NODE_0000402, ORF1a: T265I; S: T791I, , Taoyuan, C1059T; C23934T; T28648C
-Taiwan/CGMH-CGU-04/2020, ORF1b: G2618S, , Taoyuan, A5053G; C11074T; G21319A
-NODE_0000164, , , Taoyuan, 
-Taiwan/CGMH-CGU-03/2020, , , Taoyuan, 
-Taiwan/CGMH-CGU-05/2020, , , Taoyuan, 
-NODE_0000393, ORF1b: A2006V, , Iran, C19484T
-Canada/BC_69243/2020_travel_history, , , Iran, 
-Canada/BC_69243/2020, ORF1b: V2354F, , British Columbia, A9514G; G20527T
-Guangdong/DG-S41-P0056/2020, ORF1a: V2027I; ORF3a: S166L; S: S50L, D1084Y, , Guangdong, G6344A; C9967T; C21711T; G24812T; C25889T
-NODE_0000168, , , Iran, 
-Canada/BC_13297/2020_travel_history, , , Iran, 
-Canada/BC_13297/2020, ORF1b: R2257S, , British Columbia, C313T; G20238T
-NODE_0000169, , , Iran, 
-Canada/BC_17397/2020_travel_history, , , Iran, 
-Canada/BC_17397/2020, ORF1a: S166G; S: S704L, , British Columbia, A761G; C23673T
-Canada/BC_02421/2020_travel_history, , , Iran, 
-Canada/BC_02421/2020, , , British Columbia, 
-NODE_0000380, ORF1a: R207C, M2796I, , Iran, C884T; G8653T
-Georgia/Tb-82/2020, ORF1a: T3255I, S3601F; ORF1b: T2453K, , Tbilisi, C10029T; C11067T; C20825A
-Canada/BC_25211/2020_travel_history, , , Iran, 
-Canada/BC_25211/2020, , , British Columbia, C1825T; C7735T; C11074T; C14178T; A25980C
-NODE_0000383, S: V622I, , Iran, C835T; G23426A
-Canada/BC_65034/2020_travel_history, , , Iran, 
-Canada/BC_65034/2020, , , British Columbia, G29543T
-Canada/BC_66353/2020_travel_history, , , Iran, 
-Canada/BC_66353/2020, , , British Columbia, 
-NODE_0000387, N: E62K; ORF10: R24C; S: S940F, , Iran, C24381T; G28457A; C29627T
-Australia/NSW09/2020, , , New South Wales, 
-Australia/NSW12/2020_travel_history, , , Iran, 
-Australia/NSW12/2020, , , New South Wales, 
-NODE_0000185, , , Iran, 
-Australia/NSW06/2020_travel_history, , , Iran, 
-Australia/NSW06/2020, , , New South Wales, C24904T
-NODE_0000186, , , Iran, 
-Australia/NSW11/2020_travel_history, , , Iran, 
-Australia/NSW11/2020, , , New South Wales, 
-England/20100023206/2020, , , England, 
-NODE_0000484, , , Iran, 
-NODE_0000377, , , Iran, A9514G
-Canada/BC_37_0-2/2020_travel_history, , , Iran, 
-Canada/BC_37_0-2/2020, , , British Columbia, 
-USA/NY1-PV08001/2020_travel_history, , , Iran, 
-USA/NY1-PV08001/2020, N: A252S; ORF1a: G993S, , New York, G3242A; C25214T; G29027T
-NODE_0000379, ORF1a: G3072C, , Iran, G9479T; T9931C
-England/200990002/2020, ORF1a: T1000A, T2906A, , England, A3263G; A8981G
-Germany/BavPat2/2020_travel_history, , , Iran, 
-Germany/BavPat2/2020, ORF1a: T2872M, , Bavaria, C8880T
-NODE_0000170, , , Iran, 
-England/200960041/2020, ORF1a: A3995V, , England, C12249T; C21658T
-NODE_0000171, , , Iran, 
-NODE_0000374, ORF1b: I2194V, , Iran, G4255A; A20047G
-Australia/NSW05/2020_travel_history, , , Iran, 
-Australia/NSW05/2020, , , New South Wales, 
-Australia/NSW14/2020, , , New South Wales, 
-NODE_0000174, , , Iran, 
-NODE_0000177, , , Iran, 
-NewZealand/01/2020_travel_history, , , Iran, 
-NewZealand/01/2020, ORF3a: G76S, , Auckland, G25618A
-USA/WA-UW22/2020, , , Washington, 
-NODE_0000389, , , Iran, G29374A
-Australia/NSW13/2020_travel_history, , , Iran, 
-Australia/NSW13/2020, ORF1b: P1821S, , New South Wales, C2113T; C18928T
-NODE_0000179, , , New South Wales, 
-Australia/NSW07/2020, , , New South Wales, 
-Australia/QLD09/2020, , , Queensland, C11074T
-NODE_0000494, , , Hubei, 
-Wuhan/IPBCAMS-WH-03/2019, ORF1a: I2244T, , Hubei, T6996C
-NODE_0000512, , , Hubei, 
-Wuhan/HBCDC-HB-01/2019, S: F32I, , Hubei, T21656A
-NODE_0000513, , , Hubei, 
-NODE_0000192, , , North Brabant, 
-NODE_0000195, , , North Brabant, A3778G
-Wuhan/IPBCAMS-WH-01/2019, ORF1a: N2708S, F2908I, , Hubei, A8388G; T8987A
-NODE_0000189, , , North Brabant, T514C
-Netherlands/Tilburg_1363354/2020, ORF1a: I2538S; ORF1b: R1315C, , North Brabant, T7878G; C17410T
-NODE_0000190, , , North Brabant, 
-Netherlands/Oss_1363500/2020, , , North Brabant, 
-Netherlands/Nieuwendijk_1363582/2020, , , North Brabant, 
-NODE_0000537, , A6, North Brabant, T514C
-Guangdong/GDSZ202004-P0004/2020, , , Guangdong, A18114G; C26370T; C26388T
-NODE_0000193, , , North Brabant, 
-NODE_0000194, , , North Brabant, 
-Netherlands/Utrecht_19/2020, ORF1b: V2178F, , Utrecht, C5512T; G19999T; C29144T
-NODE_0000233, ORF1a: G645S, , North Brabant, G2198A
-Netherlands/NoordBrabant_29/2020, , , North Brabant, 
-NODE_0000234, ORF1a: A1997V, , North Brabant, C6255T
-Netherlands/NoordBrabant_35/2020, ORF1b: R1315C, , North Brabant, C10456T; C17410T
-Netherlands/NoordBrabant_32/2020, ORF1a: V2133I; ORF1b: L1099F, T1173I, , North Brabant, G6662A; C16762T; C16985T
-Netherlands/NoordBrabant_31/2020, , , North Brabant, C29719T
-NODE_0000197, , , North Brabant, 
-NODE_0000198, , , North Brabant, 
-USA/CA6/2020_travel_history, , , Hubei, 
-USA/CA6/2020, , , California, 
-NODE_0000231, ORF1a: A1997V, , North Brabant, C6255T
-Netherlands/NoordBrabant_27/2020, ORF1b: R1315C, , North Brabant, C17410T
-Netherlands/NoordBrabant_28/2020, , , North Brabant, 
-Netherlands/NoordBrabant_30/2020, , , North Brabant, G25252T
-NODE_0000200, , , North Brabant, 
-NODE_0000201, , , North Brabant, 
-Netherlands/Limburg_6/2020, S: R765L, , Limburg, G3403A; G23856T
-NODE_0000217, ORF1a: H1500Y, , North Brabant, C4763T
-Netherlands/NoordBrabant_10/2020, , , North Brabant, 
-Netherlands/NoordBrabant_12/2020, N: K373N, , North Brabant, G29392T
-NODE_0000203, , , North Brabant, 
-NODE_0000204, , , North Brabant, 
-NODE_0000205, , , North Brabant, 
-NODE_0000206, , , North Brabant, 
-Netherlands/Rotterdam_1364040/2020, , , South Holland, 
-Netherlands/Andel_1365066/2020, , , North Brabant, 
-NODE_0000207, , , North Brabant, 
-Netherlands/NA/22/2020, ORF1a: V3017F, , Netherlands, G9314T
-Netherlands/NoordBrabant_48/2020, , , North Brabant, T3541C
-NODE_0000208, , , North Brabant, 
-NODE_0000209, , , Scotland, 
-Netherlands/Naarden_1364774/2020, , , North Holland, 
-Scotland/CVR02/2020, , , Scotland, 
-NODE_0000226, ORF1b: L1099F, , North Brabant, C16762T
-Netherlands/NoordBrabant_54/2020, , , North Brabant, G1018A
-NODE_0000211, , , North Brabant, 
-Netherlands/NoordBrabant_11/2020, , , North Brabant, 
-Netherlands/Hardinxveld_Giessendam_1364806/2020, , , South Holland, 
-NODE_0000212, , , North Brabant, 
-NODE_0000213, , , North Brabant, 
-Netherlands/NoordBrabant_47/2020, ORF1b: Q866H, , North Brabant, G16065T; C17373T
-NODE_0000214, , , Scotland, 
-Scotland/EDB012/2020, , , Scotland, 
-Scotland/CVR04/2020, , , Scotland, 
-NODE_0000215, , , North Brabant, 
-NODE_0000216, , , Netherlands, 
-Netherlands/NA_32/2020, , , Netherlands, 
-England/Sheff01/2020, , , England, 
-NODE_0000199, ORF1b: R1315C, , North Brabant, C17410T
-Netherlands/NoordBrabant_42/2020, ORF7a: E121*, , North Brabant, G27754T
-Netherlands/NA_33/2020, N: A336V; S: T1273I, , Netherlands, C25380T; C29280T
-NODE_0000564, , , North Brabant, 
-Netherlands/Loon_op_zand_1363512/2020, , , North Brabant, 
-NODE_0000218, , , North Brabant, 
-NODE_0000219, , , North Brabant, 
-Netherlands/NoordBrabant_38/2020, , , North Brabant, 
-NODE_0000220, , , North Brabant, 
-Netherlands/Dalen_1363624/2020, , , Drenthe, 
-NODE_0000221, , , North Brabant, 
-Netherlands/NoordBrabant_68/2020, , , North Brabant, 
-NODE_0000222, , , North Brabant, 
-Netherlands/NoordBrabant_18/2020, , , North Brabant, 
-USA/MN2-MDH2/2020, , , Minnesota, 
-NODE_0000223, , , North Brabant, 
-Netherlands/NoordBrabant_19/2020, , , North Brabant, 
-NODE_0000224, , , North Brabant, 
-Netherlands/NoordBrabant_24/2020, , , North Brabant, 
-NODE_0000225, , , North Brabant, 
-Netherlands/NoordBrabant_57/2020, , , North Brabant, 
-NODE_0000227, , , North Brabant, 
-Netherlands/NoordBrabant_49/2020, , , North Brabant, 
-NODE_0000228, , , North Brabant, 
-Netherlands/NoordBrabant_44/2020, , , North Brabant, 
-Netherlands/NoordBrabant_52/2020, , , North Brabant, 
-NODE_0000587, , , Hubei, 
-NODE_0000588, , , Hubei, 
-NODE_0000589, , , Hubei, 
-NODE_0000334, , , Hubei, G29449T
-Hangzhou/ZJU-06/2020, ORF1a: P1207H, , Zhejiang, C3885A; C12778T; T13270C
-Australia/NSW02/2020, ORF1a: L2688F, , New South Wales, C8327T
-NODE_0000176, N: S194L; ORF14: Q41*, , Hubei, C28854T
-Foshan/20SF207/2020, ORF9b: P3L, , Guangdong, C28291T
-Shenzhen/SZTH-003/2020, ORF7a: Q62*, , Guangdong, C27577T
-NODE_0000178, ORF1a: I1607V, , Hubei, A5084G
-Canada/ON-VIDO-01/2020_travel_history, , , Hubei, 
-Canada/ON-VIDO-01/2020, E: S6L, , Ontario, C26261T
-Canada/ON-PHL2445/2020_travel_history, , , Hubei, 
-Canada/ON-PHL2445/2020, , , Ontario, 
-NODE_0000180, ORF1a: A117T, , California, G614A
-USA/CA3/2020, , , California, 
-USA/CA4/2020, , , California, 
-NODE_0000594, , , Hubei, 
-Guangdong/2020XN4373-P0039/2020, ORF1a: I476V, , Guangdong, C274T; A1691G; C29518T
-NODE_0000404, ORF3a: G251V, , Hubei, G26144T
-Taiwan/2/2020, ORF1b: W907C; ORF3a: E191G, , Taiwan, G16188T; A25964G
-Sweden/01/2020, ORF1a: G818S, F4321L; S: F797C, , Småland, G2717A; A9274G; C13225G; T13226C; A17376G; T23952G
-Australia/VIC01/2020_travel_history, , , Hubei, 
-Australia/VIC01/2020, S: S247R, , Victoria, T19065C; T22303G
-NODE_0000406, M: A40S, I52T, , South Korea, G26640T; T26677C
-SouthKorea/KUMC02/2020, , , South Korea, A2707G
-SouthKorea/KUMC01/2020, ORF1a: L1599F; ORF8: L84S, , South Korea, T4402C; G5062T; T28144C
-NODE_0000232, , , Hubei, 
-NODE_0000235, , , Singapore, 
-NODE_0000236, , , Singapore, 
-NODE_0000237, , , Singapore, 
-Guangdong/GD2020087-P0008/2020, S: Q409E, , Guangdong, C22787G
-Singapore/8/2020, , , Singapore, C21859T
-NODE_0000238, , , Singapore, 
-USA/CA2/2020_travel_history, , , Hubei, 
-USA/CA2/2020, ORF1b: T1178I, , California, C17000T
-NODE_0000239, , , Singapore, 
-Australia/NSW03/2020, , , New South Wales, 
-NODE_0000426, , , Singapore, C10138T
-Singapore/5/2020, , , Singapore, 
-Singapore/9/2020, , , Singapore, 
-Singapore/10/2020, , , Singapore, 
-NODE_0000242, , , Singapore, 
-NODE_0000243, , , Singapore, 
-Singapore/7/2020, ORF14: T39I, , Singapore, C28849T
-NODE_0000424, S: V367F, , Ile de France, G22661T
-France/IDF0372/2020, , , Ile de France, 
-NODE_0000647, , , Ile de France, 
-France/IDF0386-islP1/2020, , , Ile de France, 
-France/IDF0373/2020, , , Ile de France, 
-NODE_0000410, , , Hong Kong, T13929C
-HongKong/case42_VM20002493/2020, N: M322I; S: T719A, , Hong Kong, A23717G; G29239T
-NODE_0000248, , , Hong Kong, 
-HongKong/case52_VM20002582/2020, , , Hong Kong, G25500A
-NODE_0000249, , , Hong Kong, 
-HongKong/case48_VM20002507/2020, , , Hong Kong, 
-HongKong/VB20024950/2020, , , Hong Kong, 
-NODE_0000414, ORF1a: E444K, H3233Y; S: L8V, , Hong Kong, G1595A; C9962T; C11704T; C14724T; T21584G
-canine/HongKong/20-02756/2020, ORF1a: D2101G; ORF1b: K1828R, , Hong Kong, A6567G; A18950G; C29730T
-NODE_0000251, , , Hong Kong, 
-Canada/BC_35720/2020_travel_history, , , Hong Kong, 
-Canada/BC_35720/2020, , , British Columbia, A3790G
-NODE_0000252, , , Hong Kong, 
-HongKong/case90_VM20002907/2020, , , Hong Kong, 
-HongKong/case85_VM20002868/2020, , , Hong Kong, 
-NODE_0000428, ORF1a: L3606F, A1a, Hubei, G11083T
-Wuhan/WH05/2020, ORF1a: Y534C, G1100S, , Hubei, A1866G; G3563A
-Hangzhou/ZJU-01/2020, S: R682Q, , Zhejiang, G23607A
-NODE_0000254, , , Hubei, 
-NODE_0000433, ORF1a: E217G, , Tbilisi, A915G
-Georgia/Tb-468/2020, ORF1a: L3352F, , Tbilisi, C10319T
-Georgia/Tb-54/2020, , , Tbilisi, 
-NODE_0000256, , , Hubei, 
-Italy/SPL1/2020, , , Lazio, 
-Italy/INMI1-cs/2020_travel_history, , , Hubei, 
-Italy/INMI1-cs/2020, , , Lazio, 
-NODE_0000434, , , England, C14805T
-USA/WA3-UW1/2020_travel_history, , , South Korea, 
-USA/WA3-UW1/2020, ORF1a: A1049V, M1769I, , Washington, T2446C; C3411T; G5572T
-England/20102000106/2020, , , England, C23707T; T27384C
-Netherlands/NoordBrabant_5/2020, ORF3a: V251G, , North Brabant, T1570C; C3037T; T26144G
-NODE_0000442, ORF1a: I739V, P765S, , England, A2480G; C2558T
-England/09c/2020_travel_history, , , Hubei, 
-England/09c/2020, , , England, 
-Scotland/CVR07/2020, ORF1a: P885S, P1692L, , Scotland, C2918T; C5340T
-NODE_0000259, , , England, 
-NODE_0000260, , , Netherlands, 
-Netherlands/NA/21/2020, , , Netherlands, G210T
-Canada/BC_78548/2020_travel_history, , , Europe, 
-Canada/BC_78548/2020, , , British Columbia, A1981G
-NODE_0000261, , , England, 
-NODE_0000446, , , England, T21072C
-England/200940527/2020, , , England, 
-NODE_0000263, , , England, 
-England/200990725/2020, , , England, 
-England/200990724/2020, , , England, 
-NODE_0000265, , , England, 
-Brazil/ES-225/2020, , , Espirito Santo, C4423T
-NODE_0000443, M: R158C, , England, C26994T
-England/20100001406/2020, , , England, 
-England/20102068506/2020, , , England, 
-NODE_0000267, , , England, 
-NODE_0000270, , , England, 
-England/200960515/2020, , , England, C10741T
-NODE_0000440, N: E378Q, , Helsinki, G29405C
-Finland/FIN01032020/2020, , , Helsinki, 
-NODE_0000272, , , Helsinki, 
-Finland/FIN-274/2020, , , Finland, 
-Finland/FIN03032020B/2020, , , Helsinki, 
-NODE_0000451, , , North Brabant, T17247C
-Switzerland/1000477102/2020, S: S939F, , Zurich, C24378T; C26894T
-Brazil/SPBR-10/2020, ORF1a: F3606L, , Distrito Federal, T11083G
-Netherlands/NA/29/2020, ORF1b: V396F, , Netherlands, T13078C; G14653T
-Netherlands/ZuidHolland_8/2020, ORF1b: A690S, , South Holland, G15535T
-USA/NY-NYUMC1/2020, ORF1a: I739V, , New York, A2480G; C17010A
-Scotland/CVR10/2020, ORF1a: H417R, , Scotland, A1515G; A21625G
-Brazil/SPBR-02/2020_travel_history, , , Lombardy, 
-Brazil/SPBR-02/2020, ORF1a: T708I, , Sao Paulo, C2388T
-Netherlands/Utrecht_18/2020, ORF1a: A4285V, , Utrecht, A12820G; C13119T
-NODE_0000471, , , North Brabant, T23926C
-Netherlands/NoordBrabant_6/2020, , , North Brabant, 
-Netherlands/NoordBrabant_37/2020, , , North Brabant, 
-NODE_0000472, , , North Brabant, T1570C
-Netherlands/NoordBrabant_22/2020, , , North Brabant, 
-Netherlands/NoordBrabant_23/2020, ORF1a: S308L, , North Brabant, C1188T
-NODE_0000473, , , North Brabant, T21462C
-Netherlands/NA_35/2020, ORF1b: P314L, , Netherlands, C14408T
-Netherlands/NoordBrabant_56/2020, , , North Brabant, 
-NODE_0000277, , , North Brabant, 
-NODE_0000278, , , North Brabant, 
-NODE_0000279, , , North Brabant, 
-England/20100122107/2020, , , England, 
-Netherlands/NoordBrabant_20/2020, , , North Brabant, 
-NODE_0000280, , , North Brabant, 
-Netherlands/NoordBrabant_25/2020, , , North Brabant, 
-Netherlands/NA/14/2020, , , Netherlands, 
-NODE_0000281, , , England, 
-NODE_0000282, , , England, 
-England/200990006/2020, , , England, 
-NODE_0000283, , , England, 
-England/20100122106/2020, , , England, 
-Netherlands/NA_34/2020, , , Netherlands, 
-NODE_0000284, , , England, 
-NODE_0000285, , , England, 
-Netherlands/NA/27/2020, , , Netherlands, 
-England/201000003/2020, , , England, 
-NODE_0000286, , , England, 
-England/20099079106/2020, , , England, 
-England/20100077906/2020, , , England, 
-NODE_0000287, , , Hubei, 
-NODE_0000288, , , Hubei, 
-NODE_0000289, , , Hubei, 
-NODE_0000264, ORF1a: T1168I, , Hubei, C3768T
-Jiangsu/JS01/2020, ORF3a: T176I, , Jiangsu, C25919T; C29732T
-Guangdong/2020XN4239-P0034/2020, , , Guangdong, 
-NODE_0000291, , , Hubei, 
-Wuhan/IPBCAMS-WH-02/2019, , , Hubei, 
-Wuhan/WIV04/2019, , , Hubei, 
-NODE_0000292, , , Hubei, 
-NODE_0000293, , , Hubei, 
-Wuhan/WIV06/2019, , , Hubei, 
-Wuhan/HBCDC-HB-03/2019, , , Hubei, 
-NODE_0000294, , , Hubei, 
-Wuhan/IVDC-HB-01/2019, , , Hubei, 
-Wuhan/IPBCAMS-WH-04/2019, , , Hubei, 
-NODE_0000295, , , Hubei, 
-NODE_0000296, , , Hubei, 
-NODE_0000297, , , Hubei, 
-Wuhan/WH03/2020, , , Hubei, 
-Wuhan-Hu-1/2019, , , Hubei, 
-NODE_0000298, , , Hubei, 
-NODE_0000175, , , Hubei, C24034T
-Nepal/61/2020_travel_history, , , Hubei, 
-Nepal/61/2020, , , Kathmandu, 
-USA/MA1/2020_travel_history, , , Hubei, 
-USA/MA1/2020, N: S194L; ORF14: Q41*; ORF1a: V1085F; ORF1b: Y1319C, , Massachusetts, G3518T; A17423G; C28854T
-NODE_0000241, S: H49Y, , Hubei, C21707T
-Jiangsu/JS02/2020, ORF1a: V1199I; ORF1b: G35V, , Jiangsu, G3860A; C7420T; G13571T; G26211T
-NODE_0000301, , , Hubei, 
-NODE_0000303, , , Hubei, 
-Guangdong/20SF040/2020, , , Guangdong, 
-Guangdong/20SF174/2020, , , Guangdong, 
-NODE_0000304, , , Hubei, 
-USA/CA5/2020_travel_history, , , Hubei, 
-USA/CA5/2020, ORF1a: T609I, , California, C2091T
-Guangdong/20SF028/2020, , , Guangdong, 
-NODE_0000306, , , Hubei, 
-NODE_0000308, , , Hubei, 
-NODE_0000309, , , Hubei, 
-China/WHU02/2020, , , Hubei, 
-China/WHU01/2020, , , Hubei, 
-NODE_0000310, , , Hubei, 
-NODE_0000358, , , Hubei, C186T
-China/WH-09/2020, , , Hubei, 
-NODE_0000312, , , Hubei, 
-Guangzhou/GZMU0030/2020, E: D72Y; ORF1a: T490I, , Guangdong, C1734T; G26458T
-NODE_0000360, S: C1254F, , New South Wales, G25323T
-Australia/NSW08/2020, , , New South Wales, 
-Australia/NSW10/2020, , , New South Wales, 
-NODE_0000183, , , Hubei, C17373T
-India/1-27/2020_travel_history, , , China, 
-India/1-27/2020, ORF1a: I671T, P2144S; ORF1b: A397V; S: R408I, , Kerala, T2277C; C6695T; C14657T; G22785T
-NODE_0000184, ORF1a: T3750I; S: S50L, , Hubei, C11514T; C21711T
-Guangdong/FS-S42-P0046/2020, , , Guangdong, 
-Guangdong/ZH-S33-P0058/2020, ORF1a: Q1813R; ORF1b: L627F, D979E, , Guangdong, A5703G; C15346T; T16404A; T17373C
-NODE_0000191, ORF1a: S2185I, , Hubei, G6819T; G29527A
-China/IQTC02/2020, ORF1b: T2048I, , Guangdong, C19610T
-Guangdong/SZ-N59-P0049/2020, ORF1a: V1056L, , Guangdong, G3431T; G18462A
-NODE_0000318, , , Hubei, 
-Fujian/13/2020, , , Fujian, G29755A
-NODE_0000319, , , Hubei, 
-NODE_0000320, , , Hubei, 
-Foshan/20SF210/2020, , , Guangdong, 
-USA/WI1/2020_travel_history, , , Hubei, 
-USA/WI1/2020, , , Wisconsin, 
-NODE_0000321, , , Hubei, 
-Singapore/11/2020, ORF1b: Y71C, , Singapore, A13679G
-Foshan/20SF211/2020, , , Guangdong, 
-NODE_0000322, , , Hubei, 
-NODE_0000323, , , Hubei, 
-NODE_0000326, , , Hubei, 
-Jiangxi/IVDC-JX-002/2020, ORF1a: C2670Y, , Jiangxi, G8274A
-NODE_0000247, S: S50L, , Hubei, C21711T
-Guangdong/FS-S48-P0047/2020, ORF1a: L3606F, N4118S; ORF3a: T175K, , Guangdong, C679T; G11083T; A12618G; C25916A
-Guangdong/DG-S9-P0045/2020, N: S190G; ORF1a: T3032I; ORF1b: N291K, T2514I; ORF8: L95F, , Guangdong, C9360T; C14340A; C21008T; G28178T; A28841G
-NODE_0000328, , , Hubei, 
-Guangdong/JM-S1-P0062/2020, ORF1a: D3728N; ORF8: G77C, , Guangdong, G11447A; G28122T
-NODE_0000330, , , Hubei, 
-Guangdong/FS-S50-P0053/2020, ORF1b: M657I, , Guangdong, G15438T
-Guangdong/MM-S1-P0048/2020, N: T247I; ORF1b: P1682L, , Guangdong, C18512T; C29013T
-NODE_0000331, , , Hubei, 
-NODE_0000332, , , Hubei, 
-Guangdong/20SF014/2020, , , Guangdong, T23569C
-Zhejiang/WZ-01/2020, , , Zhejiang, C583T
-NODE_0000329, N: P344S, , Hubei, C15324T; C29303T
-Japan/KY-V-029/2020, ORF1a: E3764D; ORF3a: L140V, , Kyoto, G11557T; C25810G
-NODE_0000335, , , Hubei, 
-Guangzhou/20SF206/2020, , , Guangdong, 
-NODE_0000336, , , Hubei, 
-China/IQTC01/2020, , , Guangdong, 
-Guangdong/GD2020246-P0028/2020, , , Guangdong, 
-NODE_0000337, , , Hubei, 
-NODE_0000338, , , Hubei, 
-Nonthaburi/61/2020_travel_history, , , Hubei, 
-Nonthaburi/61/2020, , , Nonthaburi, 
-NODE_0000357, ORF1b: A2268V, , Wales, C20270T; A29683T
-Wales/PHW35/2020, N: P151L; ORF1a: V56I, , Wales, G431A; C28725T
-Wales/PHW38/2020, ORF3a: G172C; S: L54F, , Wales, G21724T; G25906T
-NODE_0000340, , , Hubei, 
-NODE_0000342, , , Hubei, 
-NODE_0000343, , , Hubei, 
-NODE_0000344, , , Hubei, 
-France/IDF0626/2020, , , Ile de France, C25153T
-Cambodia/0012/2020_travel_history, , , Hubei, 
-Cambodia/0012/2020, ORF3a: V88L, , Sihanoukville, G25654T
-NODE_0000347, , , Hubei, 
-Taiwan/NTU02/2020_travel_history, , , Hubei, 
-Taiwan/NTU02/2020, ORF1a: H3076Y, , Taiwan, A9034G; C9491T
-NODE_0000246, ORF7b: A43V, , Hubei, C26936T; C27883T
-Guangdong/GDFS2020052-P0025/2020, , , Guangdong, 
-Guangdong/GDFS2020054-P0005/2020, , , Guangdong, 
-NODE_0000349, , , Hubei, 
-NODE_0000350, , , Hubei, 
-Singapore/1/2020_travel_history, , , Hubei, 
-Singapore/1/2020, , , Singapore, A25060G
-NODE_0000269, , , Hubei, C12473T
-Shanghai/SH01/2020, ORF1a: P1921S, , Shanghai, C6026T
-Guangdong/GD2020080-P0010/2020, , , Guangdong, A11782G
-NODE_0000353, , , Hubei, 
-Guangdong/GD2020134-P0031/2020, , , Guangdong, 
-Guangdong/GD2020258-P0018/2020, , , Guangdong, 
-NODE_0000354, , , Hubei, 
-NODE_0000355, , , Hubei, 
-Guangdong/DG-S2-P0054/2020, ORF1b: T76I; S: H655Y, , Guangdong, C13694T; C23525T
-Guangdong/GD2020115-P0009/2020, , , Guangdong, C9967T
-NODE_0000356, , , Hubei, 
-NODE_0000359, , , Hubei, 
-NODE_0000361, , , Hubei, 
-Chongqing/ZX01/2020, , , Chongqing, 
-Guangdong/20SF201/2020, , , Guangdong, 
-NODE_0000362, , , Zhejiang, 
-Japan/OS-20-07-1/2020, , , Osaka, 
-Hangzhou/ZJU-04/2020, , , Zhejiang, 
-NODE_0000364, , , Hubei, 
-NODE_0000365, , , Jiangsu, 
-Jiangsu/JS03/2020, , , Jiangsu, 
-Taiwan/4/2020, , , Taiwan, 
-NODE_0000368, , , England, 
-NODE_0000369, , , England, 
-NODE_0000370, , , England, 
-England/200690756/2020, , , England, 
-England/200690306/2020, , , England, 
-NODE_0000371, , , Hubei, 
-Guangdong/GDSZ202008-P0020/2020, , , Guangdong, 
-Finland/1/2020_travel_history, , , Hubei, 
-Finland/1/2020, , , Finland, 
-NODE_0000372, , , England, 
-NODE_0000375, , , England, 
-NODE_0000376, , , England, 
-England/200690300/2020, , , England, 
-England/200690245/2020, , , England, 
-NODE_0000378, , , England, 
-Guangdong/2020XN4433-P0040/2020, , , Guangdong, 
-England/200641094/2020, , , England, 
-NODE_0000381, , , England, 
-NODE_0000382, , , Auvergne Rhone Alpes, 
-SouthKorea/KCDC12/2020, , , Gyeonggi, 
-France/RA739/2020, , , Auvergne Rhone Alpes, 
-NODE_0000384, , , England, 
-NODE_0000385, , , England, 
-Canada/BC_40860/2020_travel_history, , , Iran, 
-Canada/BC_40860/2020, , , British Columbia, 
-England/20102000906/2020, , , England, 
-NODE_0000386, , , Hubei, 
-Guangzhou/GZMU0031/2020, , , Guangdong, 
-NODE_0000324, , , Scotland, G29032A
-Scotland/CVR06/2020, , , Scotland, 
-NODE_0000325, , , Wales, C29754T
-Wales/PHW28/2020, , , Wales, 
-Wales/PHW26/2020, , , Wales, 
-NODE_0000390, , , Hubei, 
-NODE_0000391, , , Hubei, 
-NODE_0000392, , , Hubei, 
-Nonthaburi/74/2020_travel_history, , , Hubei, 
-Nonthaburi/74/2020, , , Nonthaburi, 
-Zhejiang/WZ-02/2020, , , Zhejiang, 
-NODE_0000394, , , Hubei, 
-Guangdong/GD2020227-P0029/2020, ORF1a: S302F, , Guangdong, C1170T; C5284T; C26370T
-Japan/AI/I-004/2020, ORF1b: P1682L, , Aichi, C1912T; C18512T
-NODE_0000395, , , Hubei, 
-NODE_0000396, , , Hubei, 
-NODE_0000397, , , Hubei, 
-Netherlands/NoordBrabant_60/2020, ORF1a: D1966E, P4220T, P4389S; ORF1b: P1967S; ORF8: Y73H, , North Brabant, T6163A; C12923A; C13430T; C19366T; T28110C
-NODE_0000398, , , Hubei, 
-Hangzhou/HZ-1/2020_travel_history, , , Hubei, 
-Hangzhou/HZ-1/2020, , , Zhejiang, 
-Hangzhou/ZJU-05/2020, , , Zhejiang, 
-NODE_0000399, , , Hubei, 
-NODE_0000400, , , Hubei, 
-Jiangsu/IVDC-JS-001/2020, , , Jiangsu, 
-Hangzhou/HZCDC0001/2020_travel_history, , , Hubei, 
-Hangzhou/HZCDC0001/2020, , , Zhejiang, 
-NODE_0000401, , , Hubei, 
-NODE_0000403, , , Taiwan, 
-Japan/NA-20-05-1/2020, , , Nara, 
-Taiwan/CGMH-CGU-01/2020, , , Taiwan, 
-NODE_0000405, , , California, 
-NODE_0000345, ORF1a: S4119L, , South Holland, C12621T
-Netherlands/ZuidHolland_21/2020, ORF1a: L960F, , South Holland, G3145T
-NODE_0000346, , , South Holland, C12068T
-Netherlands/Utrecht_12/2020, , , Utrecht, 
-Netherlands/ZuidHolland_7/2020, , , South Holland, 
-NODE_0000258, ORF1a: A3220V, A7, California, C9924T
-USA/CA-CDPH-UC2/2020, ORF1b: N725T, , California, A15641C
-USA/CA-CDPH-UC3/2020, ORF1a: A3229V, , California, C9951T
-NODE_0000409, , , California, 
-USA/CA-CDPH-UC4/2020, , , California, 
-USA/CA9/2020, , , California, 
-NODE_0000411, , , Hubei, 
-NODE_0000412, , , Hubei, 
-Guangdong/GDFS2020127-P0026/2020, N: S404A, , Guangdong, G22081A; T29483G
-Hangzhou/ZJU-03/2020, ORF1b: D1127Y, , Zhejiang, G16846T
-NODE_0000413, , , Hubei, 
-NODE_0000268, M: D209H, , Singapore, G27147C
-Singapore/2/2020, , , Singapore, 
-Singapore/6/2020, , , Singapore, 
-NODE_0000302, ORF1a: G392D, A876T, , North Rhine Westphalia, G1440A; G2891A
-Netherlands/NA_6/2020, N: K370N; ORF1b: D870Y, , Netherlands, G16075T; G29383T
-Netherlands/ZuidHolland_27/2020, ORF1a: A2249V; S: P812S, , South Holland, C7011T; C23996T
-Germany/NRW-10/2020, ORF1a: K2511N, , North Rhine Westphalia, G7798T
-Germany/NRW-09/2020, ORF7b: L32F, , North Rhine Westphalia, C27849T
-NODE_0000305, ORF1a: R1464W; S: S254F, , North Rhine Westphalia, C4655T; C22323T
-Germany/NRW-04/2020, , , North Rhine Westphalia, 
-Germany/NRW-07/2020, , , North Rhine Westphalia, T13494C
-NODE_0000307, ORF1a: M2719I, , North Rhine Westphalia, G8422A; C29546A
-Germany/NRW-08/2020, , , North Rhine Westphalia, 
-NODE_0000418, , , North Rhine Westphalia, 
-Germany/NRW-01/2020, , , North Rhine Westphalia, 
-Netherlands/Limburg_4/2020, , , Limburg, 
-NODE_0000419, , , North Rhine Westphalia, 
-NODE_0000420, , , North Rhine Westphalia, 
-Germany/NRW-02-1/2020, , , North Rhine Westphalia, 
-NODE_0000316, N: S193I; ORF14: V40F, , Wales, G28851T
-Wales/PHW37/2020, , , Wales, 
-NODE_0000317, ORF3a: H93Y, , Wales, C25669T
-Wales/PHW29/2020, , , Wales, 
-Wales/PHW32/2020, , , Wales, 
-NODE_0000423, , , North Rhine Westphalia, 
-NODE_0000425, , , North Rhine Westphalia, 
-Germany/NRW-06/2020, , , North Rhine Westphalia, 
-Brazil/SPBR-11/2020_travel_history, , , UK, 
-Brazil/SPBR-11/2020, , , Sao Paulo, 
-NODE_0000427, , , North Rhine Westphalia, 
-Germany/NRW-05/2020, , , North Rhine Westphalia, 
-Germany/NRW-03/2020, , , North Rhine Westphalia, 
+name, mutations, calde, division, country, nuc
+NODE_0000003, ORF8: L84S, B, Hubei, , C8782T; T28144C
+Wuhan/HBCDC-HB-06/2020, ORF1a: V1798I; S: D614G, B, Hubei, China, G5657A; A23403G; A25725G
+Wuhan/HBCDC-HB-02/2020, ORF1a: T3959N; S: L752F, B, Hubei, China, C12141A; C23816T
+Wuhan/HBCDC-HB-04/2020, , B, Hubei, China, T18996C; C24370T; T29029C
+Tianmen/HBCDC-HB-07/2020, ORF1a: E972K; ORF1b: P319S, A373V; ORF9b: A11V; S: V615L, B, Hubei, China, A3175G; G3179A; C14422T; C14585T; G23405C; C28315T
+NODE_0000018, ORF1a: P2079L, B, Hubei, , C6501T
+Guangdong/2020XN4475-P0042/2020, , B, Guangdong, China, 
+India/1-31/2020_travel_history, , , China, , 
+India/1-31/2020, ORF1a: I476V; ORF1b: T1137I; S: A930V, B, Kerala, India, A1691G; C16877T; C24351T
+NODE_0000045, , B, Hubei, , T8767C; G29593A
+Guangdong/2020XN4273-P0036/2020, , B, Guangdong, China, 
+SouthKorea/KCDC05/2020, ORF1a: K492T; ORF1b: H1213Y; ORF3a: V259L, B, Seoul, South Korea, A1740C; C17104T; G26167T
+NODE_0000066, ORF1b: I1674T, B, Hubei, , T18488C; T23605G
+England/01/2020_travel_history, , , Hubei, , 
+England/01/2020, , B, England, United Kingdom, 
+England/02/2020_travel_history, , , Hubei, , 
+England/02/2020, ORF10: I13M, B, England, United Kingdom, A29596G
+NODE_0000001, ORF1a: L3606F, B, Hubei, , G11083T
+NODE_0000000, ORF1a: F941L; ORF1b: A1219T, B, Anhui, , T3086C; G17122A
+Anhui/SZ005/2020, ORF1a: L642F, H1610R; ORF1b: T861I, B, Anhui, China, C2189T; A5094G; C16049T
+SouthKorea/KCDC24/2020, ORF1a: A1997V, B, Chungcheongnam, South Korea, C6255T
+NODE_0000007, , B, Hubei, , 
+Guangdong/GD2020233-P0027/2020, ORF1b: M897V, B, Guangdong, China, T9013A; A16156G
+Yunnan/IVDC-YN-003/2020, , B, Yunnan, China, 
+NODE_0000031, ORF1a: L969P, B, Shandong, , T3171C
+NODE_0000009, , B, Shandong, , 
+Shandong/LY007/2020, , B, Shandong, China, 
+Shandong/LY008/2020, , B, Shandong, China, 
+NODE_0000033, , B, Shandong, , 
+Shandong/LY003/2020, N: L121H, B, Shandong, China, A19959G; T28635A
+NODE_0000011, , B, Shandong, , T29817A; A29819T
+Shandong/LY006/2020, , B, Shandong, China, 
+NODE_0000012, , B, Shandong, , 
+Shandong/LY004/2020, , B, Shandong, China, 
+Shandong/LY005/2020, , B, Shandong, China, 
+NODE_0000166, ORF8: V62L, B, Hubei, , C24034T; T26729C; G28077C
+HongKong/VM20001061/2020, S: V367F, B, Hong Kong, Hong Kong, C1663T; G22661T
+USA/CA1/2020_travel_history, , , Hubei, , 
+USA/CA1/2020, ORF14: Q20L; ORF1a: S428N, B, California, USA, G1548A; A28792T
+Sichuan/IVDC-SC-001/2020, ORF1b: F1908Y, B, Sichuan, China, T19190A
+USA/IL2/2020_travel_history, , , Hubei, , 
+USA/IL2/2020, ORF1a: D75E, P971L, B, Illinois, USA, T490A; C3177T
+NODE_0000014, , B, Hubei, , 
+Guangdong/GZ-S6-P0050/2020, ORF1a: L149P, Q986K; S: S50L, B, Guangdong, China, T711C; C3221A; C21711T
+Vietnam/VR03-38142/2020_travel_history, , , Hubei, , 
+Vietnam/VR03-38142/2020, , B, Thanh Hoa, Vietnam, 
+NODE_0000036, N: S197L; ORF14: Q44*; ORF1a: F3071Y; ORF3a: G196V, B, Hubei, , T9477A; C14805T; G25979T; C28657T; C28863T
+France/GE1583/2020, ORF3a: A54V, B, Grand Est, France, C25553T
+Netherlands/NoordBrabant_46/2020, ORF1a: V3420I; ORF1b: C1732F; S: M1237I, B, North Brabant, Netherlands, G10523A; G18662T; G25273C
+Spain/Valencia2/2020, S: S940F, B, Comunitat Valenciana, Spain, C24381T
+NODE_0000016, , B, Santiago, , 
+NODE_0000017, , B, Santiago, , 
+USA/NY2-PV08100/2020, , B, New York, USA, 
+Chile/Santiago-1/2020, , B, Santiago, Chile, 
+NODE_0000020, , B, Santiago, , 
+NODE_0000021, , B, Santiago, , 
+Chile/Santiago_op2d1/2020, , B, Santiago, Chile, 
+Spain/Valencia3/2020, , B, Comunitat Valenciana, Spain, 
+NODE_0000022, , B, Santiago, , 
+Chile/Santiago_op3d1/2020, , B, Santiago, Chile, 
+Chile/Santiago_op4d1/2020, , B, Santiago, Chile, 
+NODE_0000019, N: S202N; ORF14: V49I, B4, Queensland, , G28878A; G29742A
+Australia/QLD02/2020, S: P1143L, B4, Queensland, Australia, C24990T; C25587T
+NODE_0000023, , B4, Queensland, , 
+Australia/QLD03/2020, , B4, Queensland, Australia, T18603C
+NODE_0000024, , B4, Queensland, , 
+NODE_0000025, , B4, Queensland, , 
+Australia/QLD01/2020_travel_history, , , Hubei, , 
+Australia/QLD01/2020, , B4, Queensland, Australia, 
+NODE_0000027, , B4, Queensland, , 
+Australia/QLD04/2020, , B4, Queensland, Australia, 
+USA/CA7/2020_travel_history, , , Hubei, , 
+USA/CA7/2020, , B4, California, USA, 
+NODE_0000028, , B4, Hubei, , 
+NODE_0000029, , B4, Hubei, , 
+Guangdong/2020XN4243-P0035/2020, , B4, Guangdong, China, 
+Singapore/4/2020_travel_history, , , Hubei, , 
+Singapore/4/2020, , B4, Singapore, Singapore, 
+NODE_0000026, ORF1b: V972I, B4, Utrecht, , G16381A
+Netherlands/Utrecht_16/2020, ORF1a: A1997V, B4, Utrecht, Netherlands, C6255T
+NODE_0000030, , B4, Utrecht, , 
+Netherlands/Utrecht_17/2020, , B4, Utrecht, Netherlands, 
+Netherlands/Gelderland/1/2020, , B4, Gelderland, Netherlands, 
+NODE_0000072, ORF1a: L1599F, B, Beijing, , T4402C; G5062T
+Beijing/233/2020, N: D343V, B, Beijing, China, A29301T
+SouthKorea/KCDC07/2020, ORF1a: S505F; ORF1b: A517V, B, Seoul, South Korea, C1779T; C15017T
+NODE_0000041, , B, Beijing, , 
+SouthKorea/KCDC03/2020, , B, Gyeonggi, South Korea, 
+NODE_0000032, , B, Beijing, , 
+Beijing/231/2020, , B, Beijing, China, 
+NODE_0000034, , B, Beijing, , 
+Beijing/105/2020, , B, Beijing, China, 
+NODE_0000035, , B, Beijing, , 
+Beijing/235/2020, , B, Beijing, China, 
+NODE_0000037, , B, Seoul, , 
+SouthKorea/KCDC06/2020, , B, Seoul, South Korea, 
+NODE_0000038, , B, South Korea, , 
+NODE_0000039, , B, South Korea, , 
+SouthKorea/KUMC06/2020, , B, South Korea, South Korea, 
+SouthKorea/KUMC04/2020, , B, South Korea, South Korea, 
+NODE_0000040, , B, South Korea, , 
+SouthKorea/KUMC03/2020, , B, South Korea, South Korea, 
+SouthKorea/KUMC05/2020, , B, South Korea, South Korea, 
+NODE_0000046, , B2, Hubei, , C29095T
+Shenzhen/HKU-SZ-005/2020, ORF1a: S3099L, B2, Guangdong, China, C9561T; T15607C
+USA/TX1/2020_travel_history, , , Hubei, , 
+USA/TX1/2020, ORF1b: D1903A; ORF8: T11I, B2, Texas, USA, T18603C; T18975A; A19175C; C27925T
+NODE_0000056, E: S68C; ORF8: D119E, B2, Hubei, , C26447G; T28250G
+Guangdong/2020XN4291-P0038/2020, , B2, Guangdong, China, 
+Guangzhou/GZMU0042/2020, , B2, Guangdong, China, 
+NODE_0000047, , B2, Tokyo, , C2662T
+Guangdong/SZ-N128-P0057/2020, ORF1b: P160S, A440V, R712H, B2, Guangdong, China, C10789T; C13945T; C14786T; G15602A
+Japan/TY-WK-012/2020, ORF1a: A1176V, B2, Tokyo, Japan, C3792T
+Japan/TY-WK-501/2020, , B2, Tokyo, Japan, 
+Japan/TY-WK-521/2020, , B2, Tokyo, Japan, G29705T
+NODE_0000044, , B2, Hubei, , 
+NODE_0000048, , B2, Hubei, , 
+Shenzhen/HKU-SZ-002/2020, , B2, Guangdong, China, 
+NODE_0000049, , B2, Hubei, , 
+Germany/BavPat3/2020, S: E780Q, B2, Bavaria, Germany, G23900C
+Guangdong/20SF012/2020, , B2, Guangdong, China, 
+NODE_0000050, , B2, Hubei, , 
+NODE_0000051, ORF1a: L3606F, B2, Hubei, , G11083T
+USA/AZ1/2020_travel_history, , , Hubei, , 
+USA/AZ1/2020, , B2, Arizona, USA, 
+Guangdong/2020XN4276-P0037/2020, , B2, Guangdong, China, T240C
+NODE_0000052, , B2, Hubei, , 
+Shenzhen/SZTH-002/2020, , B2, Guangdong, China, 
+NODE_0000053, , B2, Hubei, , 
+Guangdong/20SF025/2020, , B2, Guangdong, China, 
+Guangdong/20SF013/2020, , B2, Guangdong, China, 
+NODE_0000054, , B, Hubei, , 
+Wuhan/WH04/2020, , B, Hubei, China, 
+NODE_0000055, , B, Hubei, , 
+NODE_0000057, , B, Singapore, , 
+Singapore/12/2020, ORF3a: A59D; S: F817L, B, Singapore, Singapore, T24011C; C25568A; C29741T
+NODE_0000067, N: D103Y; ORF1b: V1814F, B, Talca, , C17470T; G18907T; C26088T; G28580T
+Chile/Talca-1/2020, , B, Talca, Chile, 
+Chile/Talca-2/2020, , B, Talca, Chile, 
+NODE_0000059, , B, Hubei, , 
+NODE_0000060, , B, Hubei, , 
+Wuhan/HBCDC-HB-03/2020, , B, Hubei, China, 
+NODE_0000071, S: S50L, B, Hubei, , C21711T
+Guangdong/ZS-S6-P0060/2020, , B, Guangdong, China, C16407A
+Guangdong/FS-S30-P0052/2020, , B, Guangdong, China, C18060T; C24382T
+NODE_0000062, , B, Hubei, , 
+NODE_0000063, , B, Hubei, , 
+USA/IL1/2020_travel_history, , , Hubei, , 
+USA/IL1/2020, , B, Illinois, USA, 
+Australia/NSW01/2020_travel_history, , , Hubei, , 
+Australia/NSW01/2020, , B, New South Wales, Australia, 
+NODE_0000064, , B, Hubei, , 
+NODE_0000065, , B, Hubei, , 
+Hangzhou/ZJU-02/2020, , B, Zhejiang, China, 
+Taiwan/3/2020, , B, Taiwan, Taiwan, 
+NODE_0000068, , B, Singapore, , 
+Singapore/13/2020, N: P199S; ORF1b: V1419A, B, Singapore, Singapore, T17723C; C28868T
+NODE_0000069, , B, Singapore, , 
+NODE_0000070, , B, Hubei, , 
+Guangdong/2020XN4459-P0041/2020, , B, Guangdong, China, 
+Taiwan/NTU01/2020_travel_history, , , Hubei, , 
+Taiwan/NTU01/2020, , B, Taiwan, Taiwan, 
+NODE_0000073, , B, Singapore, , 
+NODE_0000074, , B, Hubei, , 
+Guangdong/GDSZ202015-P0019/2020, , B, Guangdong, China, 
+Belgium/GHB-03021/2020_travel_history, , , Hubei, , 
+Belgium/GHB-03021/2020, , B, Flanders, Belgium, 
+NODE_0000075, , B, Singapore, , 
+Singapore/14/2020, , B, Singapore, Singapore, 
+NODE_0000076, , B, Hubei, , 
+Guangzhou/GZMU0048/2020, , B, Guangdong, China, 
+Guangzhou/GZMU0044/2020, , B, Guangdong, China, 
+NODE_0000082, , B1, Hubei, , C18060T
+Chongqing/YC01/2020, , B1, Chongqing, China, C1342T; C29200T
+NODE_0000086, ORF1b: T76I, B1, Hubei, , C865T; C13694T
+Guangdong/GD2020086-P0021/2020, , B1, Guangdong, China, 
+Guangdong/GD2020234-P0023/2020, , B1, Guangdong, China, 
+NODE_0000079, , B1, Hubei, , 
+NODE_0000080, , B1, Hubei, , 
+Fujian/8/2020, , B1, Fujian, China, 
+USA/WA1/2020_travel_history, , , Hubei, , 
+USA/WA1/2020, , B1, Washington, USA, 
+NODE_0000087, ORF1b: Y1464C, B1, Washington, , A17858G
+NODE_0000088, , B1, British Columbia, , G29736T
+Canada/BC_83163/2020, ORF1b: P1427L, B1, British Columbia, Canada, C17747T
+NODE_0000083, , B1, British Columbia, , 
+Canada/BC_83109/2020, , B1, British Columbia, Canada, 
+Canada/BC_41851/2020, , B1, British Columbia, Canada, 
+NODE_0000090, ORF1b: P1427L, B1, Washington, , C17747T
+USA/WA7-UW4/2020, ORF1b: F2272L, B1, Washington, USA, T20281C
+USA/WA-UW64/2020, ORF10: R24L, B1, Washington, USA, T16242C; G29628T
+USA/CA-CDPH-UC1/2020, N: S327L; ORF1a: P1640L, B1, Grand Princess, USA, C5184T; C29253T
+USA/MN3-MDH3/2020_travel_history, , , Grand Princess, , 
+USA/MN3-MDH3/2020, ORF1b: S2640F, B1, Minnesota, USA, C1102T; T21147C; C21386T; C22432T; C29837A
+USA/WA-UW47/2020, ORF1a: A385V; ORF1b: S220N, B1, Washington, USA, C1419T; G14126A
+USA/WA12-UW8/2020, , B1, Washington, USA, C9430A
+USA/WA-UW66/2020, , B1, Washington, USA, T5860C; T18099A
+USA/WA-UW50/2020, ORF1a: W630R, B1, Washington, USA, T2153A; A3889G; C27167T
+USA/WA-UW62/2020, ORF1a: P1497S; ORF3a: G254R, B1, Washington, USA, C4754T; G8602A; G26152A
+USA/WA-UW32/2020, ORF1a: P2018S, A3143V, B1, Washington, USA, C6317T; C9693T
+USA/WA-UW19/2020, , B1, Washington, USA, G260C; G261C; C25731T
+USA/WA-UW45/2020, ORF1a: A3456V; ORF1b: H73Q, E74*, T76S, R322K, B1, Washington, USA, C10632T; T13686A; G13687T; A13693T; G14432A
+NODE_0000128, ORF1a: K2511N, B1, Grand Princess, , G7798T; C20148T
+USA/CA-CDPH-UC6/2020, , B1, Grand Princess, USA, 
+USA/CA-CDPH-UC5/2020, , B1, Grand Princess, USA, 
+NODE_0000143, , B1, Washington, , T27384C
+USA/WA-UW46/2020, , B1, Washington, USA, 
+USA/WA-UW55/2020, ORF1a: M2606I, B1, Washington, USA, G8083T
+NODE_0000152, , B1, Washington, , C23758T
+USA/WA-UW15/2020, , B1, Washington, USA, 
+USA/WA-UW76/2020, , B1, Washington, USA, 
+NODE_0000134, ORF6: K42N, B1, Washington, , C6310T; G27327T
+USA/WA-UW43/2020, , B1, Washington, USA, 
+USA/WA-UW59/2020, , B1, Washington, USA, 
+USA/WA-UW44/2020, , B1, Washington, USA, 
+NODE_0000124, , B1, Grand Princess, , A3046G; A16467G; C23185T
+USA/CA-CDPH-UC7/2020, , B1, Grand Princess, USA, 
+NODE_0000125, ORF1b: V1170F, B1, Grand Princess, , G16975T
+USA/CA-CDPH-UC8/2020, , B1, Grand Princess, USA, T9415C
+NODE_0000092, , B1, Grand Princess, , 
+USA/UC-CDPH-UC11/2020, , B1, Grand Princess, USA, 
+USA/CA-CDPH-UC9/2020, , B1, Grand Princess, USA, 
+NODE_0000137, , B1, Washington, , T150C; T153G
+USA/WA-UW17/2020, , B1, Washington, USA, 
+USA/WA-UW42/2020, ORF1a: K1124E, B1, Washington, USA, A3635G; T15849C
+USA/WA-UW28/2020, , B1, Washington, USA, T5860C
+USA/WA-UW30/2020, M: D3G, B1, Washington, USA, A26530G; G29422A
+NODE_0000144, ORF1a: T1840I, B1, Washington, , C5784T
+USA/WA8-UW5/2020, ORF1a: E1047D; S: H655Y, B1, Washington, USA, A3406C; C23525T
+USA/WA2/2020, , B1, Washington, USA, 
+USA/WA-UW72/2020, N: T24I, B1, Washington, USA, C9836T; C28344T
+USA/WA9-UW6/2020, M: V70I, B1, Washington, USA, G20580T; G26730A
+NODE_0000094, , B1, Washington, , 
+USA/WA-UW27/2020, ORF1b: A538V, B1, Washington, USA, C15080T
+NODE_0000095, , B1, Washington, , 
+NODE_0000096, , B1, Washington, , 
+NODE_0000097, , B1, Washington, , 
+NODE_0000098, , B1, Washington, , 
+USA/WA-S3/2020, , B1, Washington, USA, 
+USA/WA4-UW2/2020, , B1, Washington, USA, 
+NODE_0000099, , B1, Washington, , 
+NODE_0000100, , B1, Washington, , 
+USA/WA-UW18/2020, , B1, Washington, USA, 
+USA/WA13-UW9/2020, , B1, Washington, USA, 
+NODE_0000101, , B1, Washington, , 
+USA/WA14-UW10/2020, , B1, Washington, USA, 
+USA/WA-UW63/2020, , B1, Washington, USA, 
+NODE_0000102, , B1, Washington, , 
+NODE_0000103, , B1, Washington, , 
+NODE_0000104, , B1, Washington, , 
+USA/WA6-UW3/2020, , B1, Washington, USA, 
+USA/WA-UW52/2020, , B1, Washington, USA, 
+NODE_0000105, , B1, Washington, , 
+USA/WA-UW58/2020, S: L5F, B1, Washington, USA, C21575T
+NODE_0000157, , B1, Washington, , C832T
+USA/WA-UW26/2020, , B1, Washington, USA, 
+NODE_0000107, , B1, Washington, , 
+USA/WA-UW74/2020, , B1, Washington, USA, 
+USA/WA-UW35/2020, , B1, Washington, USA, 
+NODE_0000108, , B1, Washington, , 
+NODE_0000109, , B1, Washington, , 
+NODE_0000110, , B1, Washington, , 
+USA/WA-UW41/2020, , B1, Washington, USA, 
+USA/WA-UW70/2020, , B1, Washington, USA, 
+NODE_0000111, , B1, Washington, , 
+USA/WA-UW34/2020, , B1, Washington, USA, 
+USA/UPHL-04/2020, , B1, Utah, USA, 
+NODE_0000112, , B1, Washington, , 
+NODE_0000113, , B1, Washington, , 
+USA/WA-UW51/2020, , B1, Washington, USA, 
+USA/UPHL-03/2020, , B1, Utah, USA, 
+NODE_0000114, , B1, Washington, , 
+USA/WA-UW33/2020, , B1, Washington, USA, 
+USA/WA-UW67/2020, , B1, Washington, USA, 
+NODE_0000115, , B1, Washington, , 
+NODE_0000116, , B1, Washington, , 
+USA/WA-S2/2020, , B1, Washington, USA, 
+NODE_0000117, , B1, Washington, , 
+NODE_0000118, , B1, Washington, , 
+USA/WA-UW61/2020, ORF1b: A1231T, B1, Washington, USA, G17158A
+USA/WA-UW75/2020, , B1, Washington, USA, A24877G
+NODE_0000119, , B1, Washington, , 
+Canada/BC_64686/2020_travel_history, , , Grand Princess, , 
+Canada/BC_64686/2020, , B1, British Columbia, Canada, G29706T
+NODE_0000091, S: V483A, B1, Washington, , T23010C
+USA/WA-UW31/2020, , B1, Washington, USA, C10369T
+NODE_0000121, , B1, Washington, , 
+USA/WA-UW68/2020, , B1, Washington, USA, 
+NODE_0000122, , B1, Washington, , 
+USA/WA15-UW11/2020, , B1, Washington, USA, 
+NODE_0000123, , B1, Washington, , 
+USA/WA16-UW12/2020, , B1, Washington, USA, 
+USA/WA17-UW13/2020, , B1, Washington, USA, 
+NODE_0000126, , B1, Washington, , 
+NODE_0000127, , B1, Washington, , 
+NODE_0000129, , B1, Washington, , 
+USA/WA-UW49/2020, , B1, Washington, USA, 
+USA/WA-UW48/2020, , B1, Washington, USA, 
+NODE_0000130, , B1, Washington, , 
+USA/WA-UW56/2020, ORF1a: T4217I, B1, Washington, USA, C12915T
+USA/WA-UW57/2020, ORF1b: S2638F, B1, Washington, USA, C21380T
+NODE_0000131, , B1, Washington, , 
+NODE_0000132, , B1, Washington, , 
+NODE_0000133, , B1, Washington, , 
+USA/WA18-UW14/2020, , B1, Washington, USA, 
+USA/WA-UW20/2020, , B1, Washington, USA, 
+NODE_0000135, , B1, Washington, , 
+USA/WA-UW21/2020, , B1, Washington, USA, 
+USA/WA-UW23/2020, , B1, Washington, USA, 
+NODE_0000136, , B1, Washington, , 
+NODE_0000138, , B1, Washington, , 
+USA/WA-UW24/2020, , B1, Washington, USA, 
+USA/WA-UW54/2020, , B1, Washington, USA, 
+NODE_0000139, , B1, Washington, , 
+USA/WA-UW16/2020, , B1, Washington, USA, 
+USA/WA-UW71/2020, , B1, Washington, USA, 
+NODE_0000173, , unassigned, Hubei, , 
+Wuhan/IVDC-HB-04/2020, ORF7a: P34S, unassigned, Hubei, China, C27493T; C28253T
+Wuhan/IVDC-HB-05/2019, , unassigned, Hubei, China, G20670A; G20679A
+Wuhan/WH01/2019, ORF1a: L2235I, N3833K, unassigned, Hubei, China, C6968A; T11764A
+Wuhan/WIV05/2019, ORF1a: G2251S; ORF1b: K2557R, unassigned, Hubei, China, G7016A; A21137G
+Wuhan/WIV07/2019, ORF1a: D2579A, T3090I, unassigned, Hubei, China, A8001C; C9534T
+NODE_0000341, ORF1a: N389D; ORF1b: S1023I, L1701F, unassigned, Hubei, , A1430G; G16535T; C18568T
+Guangdong/2020XN4448-P0002/2020, ORF1b: N2080D, unassigned, Guangdong, China, G5155A; A19705G
+NODE_0000145, , unassigned, Hubei, , 
+Guangdong/GD2020139-P0007/2020, , unassigned, Guangdong, China, 
+Guangzhou/GZMU0014/2020, , unassigned, Guangdong, China, 
+NODE_0000352, , unassigned, Hubei, , A24325G
+Wuhan/WIV02/2019, ORF1b: D2617N, unassigned, Hubei, China, G21316A
+NODE_0000147, , unassigned, Hubei, , 
+USA/CA8/2020, , unassigned, California, USA, 
+Wuhan/HBCDC-HB-02/2019, , unassigned, Hubei, China, 
+NODE_0000475, S: D614G, A2, South Holland, , C241T; C3037T; A23403G
+NODE_0000141, , A2, Italy, , 
+Finland/FIN-114/2020_travel_history, , , Italy, , 
+Finland/FIN-114/2020, , A2, Finland, Finland, 
+Germany/BavPat1/2020, , A2, Bavaria, Germany, 
+NODE_0000477, ORF1b: P314L, A2a, South Holland, , C14408T
+Finland/FIN-25/2020_travel_history, , , Lombardy, , 
+Finland/FIN-25/2020, ORF1a: I1159T, V1166E; S: L249S, A2a, Helsinki, Finland, A3337G; T3741C; T3762A; G21985A; T22308C; T26187C
+Denmark/SSI-102/2020, S: L611F, A2a, Copenhagen, Denmark, C23393T; G29843A; T29845A; T29846A
+Wales/PHW06/2020, ORF1a: S2242F; ORF1b: S2027V, A2028C, A2a, Wales, United Kingdom, C6990T; C19545A; T19546G; C19547T; A19548T; G19549T; C19550G
+NODE_0000498, ORF1a: E754D, P2055S, L3606F; ORF3a: K61N, A2a, Utrecht, , G2527T; C6428T; G11083T; A25575C
+Netherlands/Utrecht_1363564/2020, ORF1a: A1314T, A2a, Utrecht, Netherlands, G4205A
+NODE_0000435, , A2a, Utrecht, , 
+Netherlands/Utrecht_6/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/Utrecht_1363628/2020, , A2a, Utrecht, Netherlands, 
+NODE_0000591, ORF1b: S997A, T2195I, A2a, South Holland, , G4255T; C5284T; T16456G; C20051T
+Netherlands/ZuidHolland_5/2020, , A2a, South Holland, Netherlands, 
+NODE_0000592, S: A852V, A2a, South Holland, , C24117T
+Netherlands/NA/23/2020, , A2a, Netherlands, Netherlands, 
+Netherlands/ZuidHolland_9/2020, , A2a, South Holland, Netherlands, 
+NODE_0000600, ORF1a: Y4379*, A2a, Italy, , T13402G
+Belgium/BM-03012/2020_travel_history, , , Italy, , 
+Belgium/BM-03012/2020, S: S943P, A2a, Kraainem, Belgium, A24389C; G24390C
+NODE_0000601, N: R185C; ORF1a: C4381W, A2a, Huldenberg, , T13408G; C20148T; C28826T
+Belgium/VAG-03013/2020, S: S943T, A2a, Huldenberg, Belgium, G24390C
+Belgium/VLM-03011/2020, ORF1a: I1686K, E1687V, W4381*, A2a, Huldenberg, Belgium, T5322A; A5325T; G13408A; A23116T
+NODE_0000149, , A2a, Netherlands, , 
+NODE_0000150, , A2a, Hauts de France, , 
+NODE_0000533, ORF3a: Q57H, A2a, Hauts de France, , G25563T
+NODE_0000452, , A2a, Hauts de France, , 
+France/HF1805/2020, S: I1132V, A2a, Hauts de France, France, A24956G
+Taiwan/NTU03/2020, , A2a, Taiwan, Taiwan, C18877T
+NODE_0000535, , A2a, Hauts de France, , C2416T
+France/GE1977/2020, S: S939F, A2a, Grand Est, France, G210T; C24378T; G29543T
+France/HF1993/2020, , A2a, Hauts de France, France, C19884T
+France/HF2174/2020, ORF1b: P2256L, A2a, Hauts de France, France, A12745G; C20234T
+France/HF1995/2020, ORF1a: S4153P, A2a, Hauts de France, France, T12722C
+NODE_0000454, , A2a, Hauts de France, , 
+France/HF1684/2020, , A2a, Hauts de France, France, 
+NODE_0000455, , A2a, Hauts de France, , 
+Congo/KN-13/2020, , A2a, Kinshasa, Congo, 
+France/IDF1980/2020, , A2a, Ile de France, France, 
+NODE_0000545, ORF1a: T265I, A2a, Hauts de France, , C1059T
+NODE_0000552, ORF1a: N2187T, L4365F, A2a, Netherlands, , A6825C; C13358T
+Netherlands/NA/20/2020, ORF1a: A1997V; ORF3a: Q57H, A2a, Netherlands, Netherlands, C6255T; G25563T
+Netherlands/NoordHolland_3/2020, , A2a, North Holland, Netherlands, 
+NODE_0000458, , A2a, Netherlands, , 
+NODE_0000459, , A2a, South Holland, , 
+Netherlands/NoordBrabant_59/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/ZuidHolland_30/2020, , A2a, South Holland, Netherlands, 
+NODE_0000460, , A2a, Netherlands, , 
+NODE_0000461, , A2a, Netherlands, , 
+Netherlands/NA/13/2020, , A2a, Netherlands, Netherlands, 
+Netherlands/NA/1/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000462, , A2a, Netherlands, , 
+Netherlands/Flevoland/1/2020, , A2a, Flevoland, Netherlands, 
+Netherlands/NA/10/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000553, ORF3a: Q57H, A2a, Hauts de France, , G25563T
+France/HF1986/2020, ORF1a: M2796V; S: P1162A, A2a, Hauts de France, France, C5348T; A8651G; C25046G
+France/PL1643/2020, , A2a, Pays de la Loire, France, C12049T; T13521C
+France/HF1871/2020, ORF1a: L580F, A2a, Hauts de France, France, C2003T; C10582T; C27059T
+Denmark/SSI-104/2020, ORF1a: T346I; ORF1b: T1730I, A2a, Hauts de France, Italy, C1302T; C18656T
+NODE_0000559, , A2a, Hauts de France, , A20766G
+France/HF1988/2020, , A2a, Hauts de France, France, 
+France/HF1989/2020, , A2a, Hauts de France, France, A15213G; G26199T
+NODE_0000567, , A2a, Hauts de France, , T1666C
+Belgium/BA-02291/2020, S: K458R, H519P, T941A, S943P, A2a, Leuven, Belgium, A22935G; A23118C; C24382T; A24383G; A24389C; G24390C
+NODE_0000466, , A2a, Hauts de France, , 
+Netherlands/Haarlem_1363688/2020, , A2a, North Holland, Netherlands, 
+France/HF2039/2020, S: A653V, A2a, Hauts de France, France, C23520T
+NODE_0000467, , A2a, Hauts de France, , 
+NODE_0000468, , A2a, Netherlands, , 
+Netherlands/NA/24/2020, ORF1a: A1997V, A2a, Netherlands, Netherlands, C6255T
+NODE_0000569, , A2a, Washington, , G29553A
+USA/WA-UW29/2020, , A2a, Washington, USA, 
+NODE_0000470, , A2a, Washington, , 
+USA/WA-UW60/2020, , A2a, Washington, USA, 
+USA/WA-UW69/2020, , A2a, Washington, USA, 
+NODE_0000474, , A2a, Hauts de France, , 
+NODE_0000476, , A2a, Netherlands, , 
+Netherlands/NA_30/2020, ORF3a: F8L, A2a, Netherlands, Netherlands, T25414C
+NODE_0000565, , A2a, Utah, , C379A
+USA/UPHL-05/2020, , A2a, Utah, USA, 
+USA/UPHL-06/2020, , A2a, Utah, USA, 
+NODE_0000478, , A2a, Hauts de France, , 
+France/IDF2075/2020, N: R195K; ORF14: E42K, A2a, Ile de France, France, G28857A
+NODE_0000479, , A2a, Hauts de France, , 
+Finland/FIN-455/2020, , A2a, Finland, Finland, 
+France/HF1795/2020, , A2a, Hauts de France, France, 
+NODE_0000181, , A2a, Netherlands, , 
+NODE_0000523, ORF1a: S2242F, A2a, Wales, , C6990T
+Wales/PHW13/2020, N: A397S; ORF1a: L1627I, W4096C, Q4099*, A2a, Wales, United Kingdom, C5144A; G12553T; C12560T; G29462T
+NODE_0000444, , A2a, Wales, , 
+Wales/PHW10/2020, ORF1b: L2672P, A2a, Wales, United Kingdom, T21482C
+NODE_0000445, , A2a, Wales, , 
+Wales/PHW12/2020, , A2a, Wales, United Kingdom, 
+Wales/PHW21/2020, , A2a, Wales, United Kingdom, 
+NODE_0000187, , A2a, Netherlands, , 
+NODE_0000529, ORF1a: A3615V, A2a, Netherlands, , C1594T; C11109T
+Netherlands/NA/28/2020, ORF1a: R398C, A2a, Netherlands, Netherlands, C1457T
+NODE_0000437, , A2a, Netherlands, , 
+Netherlands/NA/18/2020, , A2a, Netherlands, Netherlands, 
+Netherlands/NA/17/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000196, , A2a, England, , 
+England/20100022706/2020, ORF1a: S2237I, V2238I, A2a, England, United Kingdom, G6975T; G6977A
+NODE_0000202, , A2a, England, , 
+NODE_0000210, , A2a, Helsinki, , 
+Finland/FIN03032020A/2020, ORF10: P10S; S: A435S, A2a, Helsinki, Finland, G22865T; C29585T
+NODE_0000486, , A2a, Utrecht, , A187G
+France/N1620/2020, ORF1a: T3488I, A2a, Normandie, France, C10728T
+Italy/UniSR1/2020, ORF1a: I2231L, A2a, Lombardy, Italy, A6956C
+NetherlandsL/Houten_1363498/2020, , A2a, Utrecht, Netherlands, A3778G
+NODE_0000447, , A2a, Utrecht, , 
+Netherlands/Utrecht_3/2020, , A2a, Utrecht, Netherlands, 
+Switzerland/TI9486/2020, , A2a, Ticino, Switzerland, 
+NODE_0000229, , A2a, England, , 
+NODE_0000606, M: D3G, A2a, England, , A26530G
+Switzerland/AG0361/2020, ORF1b: E2311K, A2a, Aargau, Switzerland, G20398A
+NODE_0000607, N: A156S, A2a, England, , G28739T
+England/200991076/2020, , A2a, England, United Kingdom, 
+England/200981386/2020, , A2a, England, United Kingdom, 
+NODE_0000450, , A2a, England, , 
+Scotland/CVR05/2020, , A2a, Scotland, United Kingdom, 
+Finland/FIN-266/2020_travel_history, , , Iran, , 
+Finland/FIN-266/2020, , A2a, Finland, Finland, 
+NODE_0000240, , A2a, England, , 
+NODE_0000244, , A2a, England, , 
+NODE_0000596, S: D839Y, A2a, England, , G24077T
+England/20102000506/2020, , A2a, England, United Kingdom, 
+England/20099107406/2020, S: L5F, A2a, England, United Kingdom, C21575T
+NODE_0000250, , A2a, England, , 
+NODE_0000605, N: A156S, A2a, North Brabant, , G28739T
+Netherlands/NoordBrabant_17/2020, , A2a, North Brabant, Netherlands, C7063T
+Netherlands/NoordBrabant_4/2020, ORF1b: A2006V, A2a, North Brabant, Netherlands, C19484T
+NODE_0000253, , A2a, Geneva, , 
+Switzerland/GE4984/2020, N: S188L; ORF14: H35Y; ORF1b: T132I, A2a, Geneva, Switzerland, C13862T; C28836T
+Wales/PHW27/2020, ORF1b: P976S; ORF6: E55D; S: V341I, A2a, Wales, United Kingdom, C16393T; G22583A; G27366T
+NODE_0000481, , A2a, England, , 
+NODE_0000482, , A2a, England, , 
+NODE_0000483, , A2a, England, , 
+NorthernIreland/HSCNI01/2020, , A2a, Northern Ireland, United Kingdom, C7420T
+NODE_0000579, S: P1263L, A2a, England, , C25350T
+NODE_0000583, ORF1b: D2323Y, A2a, England, , G20434T; C26858T
+England/20100121006/2020, , A2a, England, United Kingdom, 
+England/20100121007/2020, , A2a, England, United Kingdom, 
+NODE_0000487, , A2a, England, , 
+England/20100005406/2020, , A2a, England, United Kingdom, 
+NODE_0000488, , A2a, England, , 
+England/20100004706/2020, , A2a, England, United Kingdom, 
+NODE_0000489, , A2a, England, , 
+England/20100004806/2020, , A2a, England, United Kingdom, 
+NODE_0000490, , A2a, England, , 
+England/200990660/2020, , A2a, England, United Kingdom, 
+NODE_0000491, , A2a, England, , 
+England/201040141/2020, , A2a, England, United Kingdom, 
+Scotland/EDB011/2020, , A2a, Scotland, United Kingdom, 
+NODE_0000492, , A2a, England, , 
+NODE_0000493, , A2a, Lombardy, , 
+Italy/CDG1/2020, , A2a, Lombardy, Italy, 
+NODE_0000575, , A2a, South Holland, , A24862G
+Netherlands/ZuidHolland_31/2020, N: A119V, A2a, South Holland, Netherlands, T658C; C28629T
+Netherlands/NA_31/2020, N: D402Y; ORF7b: E39*, A2a, Netherlands, Netherlands, G27870T; G29477T
+NODE_0000495, , A2a, North Brabant, , 
+Netherlands/NoordBrabant_21/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000496, , A2a, North Brabant, , 
+Netherlands/NoordBrabant_13/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/Gelderland/2/2020, , A2a, Gelderland, Netherlands, 
+NODE_0000497, , A2a, Sao Paulo, , 
+NODE_0000499, , A2a, Sao Paulo, , 
+NODE_0000500, , A2a, Netherlands, , 
+USA/CA-PC101P/2020, , A2a, California, USA, C18814T
+Netherlands/NA/16/2020, ORF1b: D2270N, A2a, Netherlands, Netherlands, G20275A
+NODE_0000501, , A2a, Sao Paulo, , 
+NODE_0000502, , A2a, Flevoland, , 
+Netherlands/Zeewolde_1365080/2020, , A2a, Flevoland, Netherlands, 
+Netherlands/Utrecht_11/2020, , A2a, Utrecht, Netherlands, 
+NODE_0000503, , A2a, Sao Paulo, , 
+Brazil/SPBR-06/2020, , A2a, Sao Paulo, Brazil, 
+Brazil/SPBR-05/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000504, , A2a, Sao Paulo, , 
+NODE_0000505, , A2a, Limerick, , 
+Ireland/Limerick-19933/2020, , A2a, Limerick, Ireland, 
+Wales/PHW1/2020, , A2a, Wales, United Kingdom, 
+NODE_0000506, , A2a, Sao Paulo, , 
+NODE_0000507, , A2a, Sao Paulo, , 
+France/GE1973/2020, , A2a, Grand Est, France, 
+Brazil/SPBR-09/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000508, , A2a, Scotland, , 
+Georgia/Tb-477/2020, , A2a, Tbilisi, Georgia, 
+Scotland/EDB004/2020, , A2a, Scotland, United Kingdom, 
+NODE_0000509, , A2a, England, , 
+NODE_0000511, , A2a, England, , 
+NODE_0000542, , A2a, Scotland, , C23575T
+Luxembourg/Lux1/2020, , A2a, Luxembourg, Luxembourg, 
+NODE_0000543, S: Q675H, A2a, Scotland, , G23587C
+Scotland/EDB013/2020, , A2a, Scotland, United Kingdom, 
+NODE_0000290, , A2a, Scotland, , 
+Scotland/EDB003/2020, , A2a, Scotland, United Kingdom, 
+Denmark/SSI-101/2020, , A2a, Scotland, Italy, 
+NODE_0000514, , A2a, England, , 
+NODE_0000515, , A2a, England, , 
+NODE_0000516, , A2a, Scotland, , 
+Scotland/CVR03/2020, , A2a, Scotland, United Kingdom, 
+Denmark/SSI-09/2020, , A2a, Copenhagen, Denmark, 
+NODE_0000517, , A2a, England, , 
+CzechRepublic/951/2020_travel_history, , , Italy, , 
+CzechRepublic/951/2020, , A2a, Usti nad Labem, Czech Republic, 
+England/201040081/2020, , A2a, England, United Kingdom, 
+NODE_0000518, , A2a, North Brabant, , 
+NODE_0000519, , A2a, North Brabant, , 
+Netherlands/NoordBrabant_16/2020, , A2a, North Brabant, Netherlands, 
+Brazil-RJ/314/2020, , A2a, Rio de Janeiro, Brazil, 
+NODE_0000520, , A2a, North Brabant, , 
+England/20102000306/2020, , A2a, England, United Kingdom, 
+Netherlands/Blaricum_1364780/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000521, , A2a, England, , 
+NODE_0000522, , A2a, England, , 
+NODE_0000524, , A2a, England, , 
+England/20110003506/2020, , A2a, England, United Kingdom, T17835C
+Brazil/SPBR-01/2020_travel_history, , , Lombardy, , 
+Brazil/SPBR-01/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000525, , A2a, England, , 
+NODE_0000526, , A2a, Limerick, , 
+Belgium/SH-03014/2020, ORF1a: N2603D, A2a, Huldenberg, Belgium, A8072G
+Ireland/Limerick-19934/2020, , A2a, Limerick, Ireland, C29769T
+NODE_0000527, , A2a, North Brabant, , 
+Portugal/CV63/2020, , A2a, Portugal, Portugal, C29144T
+Netherlands/NoordBrabant_1/2020, , A2a, North Brabant, Netherlands, T514C
+NODE_0000528, , A2a, Geneva, , 
+NODE_0000530, , A2a, South Holland, , 
+NODE_0000531, , A2a, Utrecht, , 
+Netherlands/Utrecht_8/2020, , A2a, Utrecht, Netherlands, 
+Ireland/Limerick-19935/2020, , A2a, Limerick, Ireland, 
+NODE_0000532, , A2a, South Holland, , 
+Netherlands/ZuidHolland_17/2020, ORF1a: L960F, A2a, South Holland, Netherlands, G3145T
+NODE_0000485, , A2a, Washington, , T3011C
+USA/WA-UW73/2020, , A2a, Washington, USA, 
+USA/WA-UW25/2020, , A2a, Washington, USA, 
+NODE_0000534, , A2a, Geneva, , 
+NODE_0000480, , A2a, Geneva, , A20268G
+Switzerland/GE5373/2020, , A2a, Geneva, Switzerland, 
+Switzerland/GE3121/2020, , A2a, Geneva, Switzerland, 
+NODE_0000536, , A2a, Comunitat Valenciana, , 
+Panama/328677/2020_travel_history, , , Comunitat Valenciana, , 
+Panama/328677/2020, , A2a, Panama City, Panama, 
+Spain/Valencia1/2020, , A2a, Comunitat Valenciana, Spain, 
+NODE_0000510, , A2a, Geneva, , C15324T
+France/BFC2094/2020, ORF1a: G1155C, A2a, Bourgogne-France-Comté, France, G3728T
+France/BFC2147/2020, , A2a, Bourgogne-France-Comté, France, C13051T
+France/HF1870/2020, , A2a, Hauts de France, France, C16428T
+NODE_0000538, , A2a, Geneva, , 
+NODE_0000539, , A2a, Geneva, , 
+Switzerland/BE2536/2020, , A2a, Bern, Switzerland, 
+Switzerland/GE4135/2020, , A2a, Geneva, Switzerland, 
+NODE_0000540, , A2a, Geneva, , 
+Switzerland/GE062072020, , A2a, Geneva, Switzerland, 
+NODE_0000541, , A2a, Geneva, , 
+Switzerland/GE6679/2020, , A2a, Geneva, Switzerland, 
+France/HF2151/2020, , A2a, Hauts de France, France, 
+NODE_0000612, N: R203K, G204R; ORF14: G50N, A2a, South Holland, , G28881A; G28882A; G28883C
+Belgium/BC-03016/2020, S: S943P, A2a, Sint-Niklaas, Belgium, A24389C; G24390C
+Netherlands/ZuidHolland_28/2020, N: Q9H; ORF9b: S6I; S: Y1209H, A2a, South Holland, Netherlands, T25187C; G28300T
+Mexico/CDMX-InDRE_01/2020_travel_history, , , Lombardy, , 
+Mexico/CDMX-InDRE_01/2020, ORF1a: A4314G, A2a, Mexico City, Mexico, C13206G
+Scotland/EDB007/2020, S: S1055L, A2a, Scotland, United Kingdom, C24726T; G29540T
+Scotland/CVR01/2020, ORF7a: T120I, A2a, Scotland, United Kingdom, C12733T; C27752T
+Nigeria/Lagos01/2020_travel_history, , , Italy, , 
+Nigeria/Lagos01/2020, ORF1a: C231Y, A2a, Lagos, Nigeria, G957A
+NODE_0000620, , A2a, Geneva, , G13503T
+Switzerland/VD0503/2020, , A2a, Geneva, Switzerland, 
+Switzerland/VD5615/2020, , A2a, Vaud, Switzerland, 
+NODE_0000651, ORF1a: T4304I, A2a, Graubünden, , C13176T
+Switzerland/GR2988/2020, , A2a, Graubünden, Switzerland, 
+Switzerland/GR3043/2020, , A2a, Graubünden, Switzerland, 
+NODE_0000665, , A2a, Wales, , A13947T
+Wales/PHW05/2020, , A2a, Wales, United Kingdom, 
+Belgium/QKJ-03015/2020, ORF1a: Y4379*, A2a, Brussels, Belgium, T13402G
+NODE_0000616, ORF1a: G3334S, A2a, Lombardy, , G10265A
+Switzerland/1000477757/2020, ORF1a: R232C, A2a, Zurich, Switzerland, C959T; T27618C
+Brazil/SPBR-12/2020_travel_history, , , USA, , 
+Brazil/SPBR-12/2020, ORF1a: L3606F, A2a, Sao Paulo, Brazil, G11083T
+Germany/Baden-Wuerttemberg-1/2020_travel_history, , , Lombardy, , 
+Germany/Baden-Wuerttemberg-1/2020, , A2a, Baden-Wuerttemberg, Germany, 
+NODE_0000658, ORF1a: D1036E, A2a, Wales, , C3373A
+Switzerland/1000477377/2020, , A2a, Zurich, Switzerland, G29422T
+NODE_0000548, , A2a, Wales, , 
+Wales/PHW04/2020, , A2a, Wales, United Kingdom, 
+Wales/PHW03/2020, , A2a, Wales, United Kingdom, 
+NODE_0000662, , A2a, South Holland, , 
+England/200990723/2020, , A2a, England, United Kingdom, G11842A
+NODE_0000663, , A2a, South Holland, , A3778G
+Netherlands/Delft_1363424/2020, , A2a, South Holland, Netherlands, 
+Netherlands/Diemen_1363454/2020, N: I292T; ORF1a: T614I; S: D839E, A2a, North Holland, Netherlands, C2106T; T24079A; T29148C
+NODE_0000652, N: I292T, A2a, Geneva, , T29148C
+Switzerland/GE1422/2020, , A2a, Geneva, Switzerland, C10834T
+NODE_0000554, , A2a, Geneva, , 
+Netherlands/Helmond_1363548/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000555, , A2a, Geneva, , 
+Switzerland/GE1402/2020, , A2a, Geneva, Switzerland, 
+Switzerland/AG7120/2020, , A2a, Aargau, Switzerland, 
+NODE_0000632, , A2a, Lombardy, , C313T
+Brazil/BA-312/2020, , A2a, Bahia, Brazil, A26945T
+Switzerland/1000477797/2020_travel_history, , , Lombardy, , 
+Switzerland/1000477797/2020, S: K202N, A2a, Zurich, Switzerland, A22168C
+NODE_0000557, , A2a, Geneva, , 
+Switzerland/GE8102/2020, , A2a, Geneva, Switzerland, 
+NODE_0000558, , A2a, Sao Paulo, , 
+Brazil/SPBR-08/2020, , A2a, Sao Paulo, Brazil, 
+Brazil/SPBR-13/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000623, ORF1a: T1246I, G3278S, A2a, South Holland, , C4002T; G10097A; C13536T; C23731T
+Denmark/SSI-05/2020, , A2a, Copenhagen, Denmark, 
+NODE_0000560, , A2a, Wales, , 
+Wales/PHW25/2020, , A2a, Wales, United Kingdom, 
+NODE_0000561, , A2a, Wales, , 
+Wales/PHW18/2020, , A2a, Wales, United Kingdom, 
+NODE_0000562, , A2a, Wales, , 
+Wales/PHW07/2020, , A2a, Wales, United Kingdom, 
+NODE_0000563, , A2a, Wales, , 
+Wales/PHW2/2020, , A2a, Wales, United Kingdom, 
+Wales/PHW33/2020, , A2a, Wales, United Kingdom, 
+NODE_0000636, , A2a, South Holland, , T19839C
+Switzerland/BE6651/2020, ORF1a: A2199V, A2a, Bern, Switzerland, C6861T
+Netherlands/NoordHolland_2/2020, ORF1a: L960F, A2a, North Holland, Netherlands, G3145T
+NODE_0000339, , A2a, Lombardy, , 
+Switzerland/GE3895/2020_travel_history, , , Lombardy, , 
+Switzerland/GE3895/2020, , A2a, Geneva, Switzerland, 
+NODE_0000566, , A2a, Geneva, , 
+Switzerland/GE0199/2020, , A2a, Geneva, Switzerland, 
+NODE_0000568, , A2a, Basel, , 
+Switzerland/BL0902/2020, , A2a, Basel, Switzerland, 
+NODE_0000570, , A2a, Basel, , 
+Switzerland/GE9586/2020_travel_history, , , Lombardy, , 
+Switzerland/GE9586/2020, , A2a, Geneva, Switzerland, 
+NODE_0000571, , A2a, Basel, , 
+Switzerland/1000477806/2020, , A2a, Zurich, Switzerland, 
+NODE_0000572, , A2a, Basel, , 
+Switzerland/BS0914/2020, , A2a, Basel, Switzerland, 
+Scotland/EDB009/2020, , A2a, Scotland, United Kingdom, 
+NODE_0000573, , A2a, South Holland, , 
+NODE_0000574, , A2a, North Brabant, , 
+NODE_0000576, , A2a, North Brabant, , 
+Netherlands/NoordBrabant_26/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/NA/2/2020, ORF1b: A1521V, A2a, Netherlands, Netherlands, C18029T
+NODE_0000577, , A2a, North Brabant, , 
+NODE_0000578, , A2a, North Brabant, , 
+Netherlands/Tilburg_1364286/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/Nootdorp_1364222/2020, , A2a, South Holland, Netherlands, 
+NODE_0000580, , A2a, North Brabant, , 
+Netherlands/Overijssel_2/2020, , A2a, Overijssel, Netherlands, 
+Netherlands/NoordBrabant_39/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000581, , A2a, South Holland, , 
+NODE_0000582, , A2a, South Holland, , 
+Brazil/SPBR-14/2020_travel_history, , , Italy, , 
+Brazil/SPBR-14/2020, S: V1176F, A2a, Sao Paulo, Brazil, G25088T
+Netherlands/ZuidHolland_13/2020, , A2a, South Holland, Netherlands, C29362T
+NODE_0000584, , A2a, South Holland, , 
+NODE_0000585, , A2a, Lombardy, , 
+England/20099038206/2020, , A2a, England, United Kingdom, 
+Switzerland/1000477796/2020_travel_history, , , Lombardy, , 
+Switzerland/1000477796/2020, , A2a, Zurich, Switzerland, 
+NODE_0000586, , A2a, Ticino, , 
+Switzerland/TI2045/2020, ORF1a: T4031I, A2a, Ticino, Switzerland, C12357T
+Chile/Santiago-2/2020, ORF1a: A1043V, A2a, Santiago, Chile, C3393T
+NODE_0000669, M: T175M, A2a, South Holland, , C27046T
+Switzerland/SZ1417/2020, ORF1a: L3606F, A2a, Schwyz, Switzerland, G11083T
+Netherlands/Berlicum_1363564/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/Eindhoven_1363782/2020, ORF1a: N2596D, A2a, North Brabant, Netherlands, A8051G
+Netherlands/Utrecht_14/2020, ORF1b: P825S, A2a, Utrecht, Netherlands, C15940T
+Scotland/EDB006/2020, ORF1a: K1230N, A2a, Scotland, United Kingdom, G3955T
+Netherlands/Limburg_5/2020, ORF1a: K2928N, A2a, Limburg, Netherlands, G9049T
+Netherlands/NA/25/2020, ORF3a: D155Y, A2a, Netherlands, Netherlands, G25855T
+Netherlands/Utrecht_1/2020, ORF1b: A647V, A2a, Utrecht, Netherlands, C15407T
+Netherlands/ZuidHolland_2/2020, S: V772L, A2a, South Holland, Netherlands, G23876C
+NODE_0000715, , A2a, South Holland, , T29807C
+Finland/FIN03032020C/2020_travel_history, , , Italy, , 
+Finland/FIN03032020C/2020, , A2a, Helsinki, Finland, 
+Finland/FIN-318/2020, ORF1a: G295V, A2a, Finland, Finland, G1149T
+NODE_0000716, ORF1a: L960F, A2a, South Holland, , G3145T
+Netherlands/ZuidHolland_20/2020, ORF1a: P748S, A2a, South Holland, Netherlands, C2507T
+NODE_0000590, , A2a, South Holland, , 
+Netherlands/ZuidHolland_19/2020, , A2a, South Holland, Netherlands, 
+NODE_0000593, , A2a, South Holland, , 
+Netherlands/NoordBrabant_36/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/ZuidHolland_15/2020, , A2a, South Holland, Netherlands, 
+NODE_0000721, N: T24N; ORF9b: L21M, A2a, Netherlands, , C28344A
+NODE_0000722, , A2a, Netherlands, , C10741T
+Netherlands/NA/11/2020, , A2a, Netherlands, Netherlands, 
+Netherlands/NA/26/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000388, , A2a, Netherlands, , 
+Netherlands/NoordBrabant_3/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/NA_9/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000726, ORF1a: N3725D, A2a, South Holland, , A11438G
+Netherlands/ZuidHolland_18/2020, ORF1a: L960F, A2a, South Holland, Netherlands, G3145T
+NODE_0000597, , A2a, South Holland, , 
+Netherlands/ZuidHolland_6/2020, , A2a, South Holland, Netherlands, 
+NODE_0000598, , A2a, South Holland, , 
+Netherlands/Limburg_3/2020, , A2a, Limburg, Netherlands, 
+NODE_0000599, , A2a, Utrecht, , 
+Netherlands/Utrecht_2/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/NA/15/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000730, S: Q239K, A2a, South Holland, , C22277A
+Finland/FIN-313/2020, , A2a, Finland, Finland, C23635T
+NODE_0000732, N: L339F, A2a, South Holland, , G29290T
+Netherlands/NA_8/2020, , A2a, Netherlands, Netherlands, 
+Netherlands/ZuidHolland_23/2020, , A2a, South Holland, Netherlands, 
+NODE_0000407, , A2a, South Holland, , 
+NODE_0000408, , A2a, South Holland, , 
+Netherlands/ZuidHolland_26/2020, , A2a, South Holland, Netherlands, 
+Netherlands/NoordBrabant_55/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000415, , A2a, South Holland, , 
+Netherlands/Utrecht_15/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/NA/12/2020, , A2a, Netherlands, Netherlands, 
+NODE_0000602, , A2a, South Holland, , 
+NODE_0000603, , A2a, South Holland, , 
+NODE_0000604, , A2a, South Holland, , 
+NODE_0000608, , A2a, South Holland, , 
+NODE_0000609, , A2a, South Holland, , 
+Netherlands/ZuidHolland_14/2020, , A2a, South Holland, Netherlands, 
+Netherlands/ZuidHolland_22/2020, , A2a, South Holland, Netherlands, 
+NODE_0000610, , A2a, South Holland, , 
+Netherlands/NoordBrabant_14/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/ZuidHolland_25/2020, , A2a, South Holland, Netherlands, 
+NODE_0000611, , A2a, South Holland, , 
+NODE_0000613, , A2a, Netherlands, , 
+Netherlands/NA_7/2020, , A2a, Netherlands, Netherlands, 
+Finland/FIN-508/2020, , A2a, Finland, Finland, 
+NODE_0000614, , A2a, North Brabant, , 
+Scotland/EDB005/2020, , A2a, Scotland, United Kingdom, 
+Netherlands/NoordBrabant_45/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000615, , A2a, South Holland, , 
+NODE_0000617, , A2a, South Holland, , 
+NODE_0000618, , A2a, Sao Paulo, , 
+Brazil/SPBR-03/2020, , A2a, Sao Paulo, Brazil, 
+Portugal/CV62/2020, , A2a, Portugal, Portugal, 
+NODE_0000619, , A2a, Italy, , 
+England/20102000206/2020, , A2a, England, United Kingdom, 
+Brazil/SPBR-07/2020_travel_history, , , Italy, , 
+Brazil/SPBR-07/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000621, , A2a, South Holland, , 
+NODE_0000622, , A2a, Italy, , 
+Netherlands/Gelderland_1/2020, , A2a, Gelderland, Netherlands, 
+Brazil/SPBR-04/2020_travel_history, , , Italy, , 
+Brazil/SPBR-04/2020, , A2a, Sao Paulo, Brazil, 
+NODE_0000624, , A2a, South Holland, , 
+Netherlands/Utrecht_5/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/Rotterdam_1364740/2020, , A2a, South Holland, Netherlands, 
+NODE_0000625, , A2a, South Holland, , 
+NODE_0000626, , A2a, South Holland, , 
+NODE_0000627, , A2a, South Holland, , 
+NODE_0000628, , A2a, South Holland, , 
+Netherlands/ZuidHolland_1/2020, , A2a, South Holland, Netherlands, 
+Netherlands/NoordHolland_1/2020, , A2a, North Holland, Netherlands, 
+NODE_0000629, , A2a, South Holland, , 
+England/20100024006/2020, , A2a, England, United Kingdom, 
+Netherlands/ZuidHolland_10/2020, , A2a, South Holland, Netherlands, 
+NODE_0000630, , A2a, South Holland, , 
+NODE_0000631, , A2a, South Holland, , 
+Ireland/Dublin-19072/2020, , A2a, Dublin, Ireland, 
+Netherlands/ZuidHolland_29/2020, , A2a, South Holland, Netherlands, 
+NODE_0000633, , A2a, South Holland, , 
+Netherlands/ZuidHolland_11/2020, , A2a, South Holland, Netherlands, 
+Netherlands/Gelderland/3/2020, , A2a, Gelderland, Netherlands, 
+NODE_0000634, , A2a, South Holland, , 
+NODE_0000635, , A2a, Utrecht, , 
+NODE_0000637, , A2a, Utrecht, , 
+Netherlands/Utrecht_13/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/NoordBrabant_58/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000638, , A2a, Utrecht, , 
+NODE_0000639, , A2a, Utrecht, , 
+Netherlands/Utrecht_10/2020, , A2a, Utrecht, Netherlands, 
+Netherlands/Overijssel_1/2020, , A2a, Overijssel, Netherlands, 
+NODE_0000640, , A2a, Utrecht, , 
+Netherlands/Limburg_2/2020, , A2a, Limburg, Netherlands, 
+Netherlands/Utrecht_4/2020, , A2a, Utrecht, Netherlands, 
+NODE_0000641, , A2a, South Holland, , 
+NODE_0000642, , A2a, Netherlands, , 
+Netherlands/NA/19/2020, ORF1a: A1997V, A2a, Netherlands, Netherlands, C6255T
+NODE_0000643, , A2a, North Brabant, , 
+Scotland/EDB008/2020, , A2a, Scotland, United Kingdom, 
+Netherlands/NoordBrabant_15/2020, , A2a, North Brabant, Netherlands, 
+NODE_0000644, , A2a, South Holland, , 
+NODE_0000645, , A2a, Utrecht, , 
+Netherlands/NoordBrabant_2/2020, , A2a, North Brabant, Netherlands, 
+Netherlands/Utrecht_7/2020, , A2a, Utrecht, Netherlands, 
+NODE_0000646, , A2a, South Holland, , 
+Netherlands/ZuidHolland_24/2020, , A2a, South Holland, Netherlands, 
+Germany/NRW-011/2020, , A2a, North Rhine Westphalia, Germany, 
+NODE_0000453, , unassigned, Hubei, , 
+NODE_0000363, ORF1a: L3606F, unassigned, Hubei, , G11083T
+France/IDF0515/2020_travel_history, , , Hubei, , 
+France/IDF0515/2020, ORF1a: P309S, T3058I, unassigned, Ile de France, France, C1190T; C9438T
+NODE_0000153, , unassigned, Kanagawa, , 
+NODE_0000154, , unassigned, Kanagawa, , 
+Chongqing/IVDC-CQ-001/2020, , unassigned, Chongqing, China, 
+NODE_0000366, , unassigned, Kanagawa, , C29635T
+Japan/Hu_DP_Kng_19-027/2020, , unassigned, Kanagawa, Japan, 
+Japan/TK/20-31-3/2020, , unassigned, Tokyo, Japan, 
+NODE_0000156, , unassigned, Kanagawa, , 
+NODE_0000158, , unassigned, Kanagawa, , 
+Japan/Hu_DP_Kng_19-020/2020, , unassigned, Kanagawa, Japan, 
+Singapore/3/2020, , unassigned, Singapore, Singapore, 
+NODE_0000159, , unassigned, Utah, , 
+USA/UPHL-01/2020, , unassigned, Utah, USA, C18060T; C26326T
+NODE_0000367, , unassigned, Hong Kong, , G29841A
+HongKong/VB20026565/2020, , unassigned, Hong Kong, Hong Kong, 
+NODE_0000161, , unassigned, Hong Kong, , 
+England/Sheff02/2020, S: S937L, unassigned, England, United Kingdom, C24372T; G29779C
+HongKong/case78_VM20002849/2020, N: P365S, unassigned, Hong Kong, Hong Kong, C29366T
+NODE_0000373, ORF1a: V378I, A3, Iran, , G1397A; T28688C; G29742T
+Netherlands/ZuidHolland_16/2020, N: S188P; ORF1a: L960F, A3, South Holland, Netherlands, G3145T; C20235A; T20787C; T22042C; T28835C
+Wuhan/HBCDC-HB-05/2020, ORF1a: V3815D, A3, Hubei, China, T11709A
+Shandong/IVDC-SD-001/2020, ORF1a: A2345V; ORF7a: H73Q, A3, Shandong, China, C7299T; C10789T; C27612G
+NODE_0000402, ORF1a: T265I; S: T791I, A3, Taoyuan, , C1059T; C23934T; T28648C
+Taiwan/CGMH-CGU-04/2020, ORF1b: G2618S, A3, Taoyuan, Taiwan, A5053G; C11074T; G21319A
+NODE_0000164, , A3, Taoyuan, , 
+Taiwan/CGMH-CGU-03/2020, , A3, Taoyuan, Taiwan, 
+Taiwan/CGMH-CGU-05/2020, , A3, Taoyuan, Taiwan, 
+NODE_0000393, ORF1b: A2006V, A3, Iran, , C19484T
+Canada/BC_69243/2020_travel_history, , , Iran, , 
+Canada/BC_69243/2020, ORF1b: V2354F, A3, British Columbia, Canada, A9514G; G20527T
+Guangdong/DG-S41-P0056/2020, ORF1a: V2027I; ORF3a: S166L; S: S50L, D1084Y, A3, Guangdong, China, G6344A; C9967T; C21711T; G24812T; C25889T
+NODE_0000168, , A3, Iran, , 
+Canada/BC_13297/2020_travel_history, , , Iran, , 
+Canada/BC_13297/2020, ORF1b: R2257S, A3, British Columbia, Canada, C313T; G20238T
+NODE_0000169, , A3, Iran, , 
+Canada/BC_17397/2020_travel_history, , , Iran, , 
+Canada/BC_17397/2020, ORF1a: S166G; S: S704L, A3, British Columbia, Canada, A761G; C23673T
+Canada/BC_02421/2020_travel_history, , , Iran, , 
+Canada/BC_02421/2020, , A3, British Columbia, Canada, 
+NODE_0000380, ORF1a: R207C, M2796I, A3, Iran, , C884T; G8653T
+Georgia/Tb-82/2020, ORF1a: T3255I, S3601F; ORF1b: T2453K, A3, Tbilisi, Georgia, C10029T; C11067T; C20825A
+Canada/BC_25211/2020_travel_history, , , Iran, , 
+Canada/BC_25211/2020, , A3, British Columbia, Canada, C1825T; C7735T; C11074T; C14178T; A25980C
+NODE_0000383, S: V622I, A3, Iran, , C835T; G23426A
+Canada/BC_65034/2020_travel_history, , , Iran, , 
+Canada/BC_65034/2020, , A3, British Columbia, Canada, G29543T
+Canada/BC_66353/2020_travel_history, , , Iran, , 
+Canada/BC_66353/2020, , A3, British Columbia, Canada, 
+NODE_0000387, N: E62K; ORF10: R24C; S: S940F, A3, Iran, , C24381T; G28457A; C29627T
+Australia/NSW09/2020, , A3, New South Wales, Australia, 
+Australia/NSW12/2020_travel_history, , , Iran, , 
+Australia/NSW12/2020, , A3, New South Wales, Australia, 
+NODE_0000185, , A3, Iran, , 
+Australia/NSW06/2020_travel_history, , , Iran, , 
+Australia/NSW06/2020, , A3, New South Wales, Australia, C24904T
+NODE_0000186, , A3, Iran, , 
+Australia/NSW11/2020_travel_history, , , Iran, , 
+Australia/NSW11/2020, , A3, New South Wales, Australia, 
+England/20100023206/2020, , A3, England, United Kingdom, 
+NODE_0000484, , A3, Iran, , 
+NODE_0000377, , A3, Iran, , A9514G
+Canada/BC_37_0-2/2020_travel_history, , , Iran, , 
+Canada/BC_37_0-2/2020, , A3, British Columbia, Canada, 
+USA/NY1-PV08001/2020_travel_history, , , Iran, , 
+USA/NY1-PV08001/2020, N: A252S; ORF1a: G993S, A3, New York, USA, G3242A; C25214T; G29027T
+NODE_0000379, ORF1a: G3072C, A3, Iran, , G9479T; T9931C
+England/200990002/2020, ORF1a: T1000A, T2906A, A3, England, United Kingdom, A3263G; A8981G
+Germany/BavPat2/2020_travel_history, , , Iran, , 
+Germany/BavPat2/2020, ORF1a: T2872M, A3, Bavaria, Germany, C8880T
+NODE_0000170, , A3, Iran, , 
+England/200960041/2020, ORF1a: A3995V, A3, England, United Kingdom, C12249T; C21658T
+NODE_0000171, , A3, Iran, , 
+NODE_0000374, ORF1b: I2194V, A3, Iran, , G4255A; A20047G
+Australia/NSW05/2020_travel_history, , , Iran, , 
+Australia/NSW05/2020, , A3, New South Wales, Australia, 
+Australia/NSW14/2020, , A3, New South Wales, Australia, 
+NODE_0000174, , A3, Iran, , 
+NODE_0000177, , A3, Iran, , 
+NewZealand/01/2020_travel_history, , , Iran, , 
+NewZealand/01/2020, ORF3a: G76S, A3, Auckland, New Zealand, G25618A
+USA/WA-UW22/2020, , A3, Washington, USA, 
+NODE_0000389, , A3, Iran, , G29374A
+Australia/NSW13/2020_travel_history, , , Iran, , 
+Australia/NSW13/2020, ORF1b: P1821S, A3, New South Wales, Australia, C2113T; C18928T
+NODE_0000179, , A3, New South Wales, , 
+Australia/NSW07/2020, , A3, New South Wales, Australia, 
+Australia/QLD09/2020, , A3, Queensland, Australia, C11074T
+NODE_0000494, , unassigned, Hubei, , 
+Wuhan/IPBCAMS-WH-03/2019, ORF1a: I2244T, unassigned, Hubei, China, T6996C
+NODE_0000512, , unassigned, Hubei, , 
+Wuhan/HBCDC-HB-01/2019, S: F32I, unassigned, Hubei, China, T21656A
+NODE_0000513, , unassigned, Hubei, , 
+NODE_0000192, , unassigned, North Brabant, , 
+NODE_0000195, , unassigned, North Brabant, , A3778G
+Wuhan/IPBCAMS-WH-01/2019, ORF1a: N2708S, F2908I, unassigned, Hubei, China, A8388G; T8987A
+NODE_0000189, , unassigned, North Brabant, , T514C
+Netherlands/Tilburg_1363354/2020, ORF1a: I2538S; ORF1b: R1315C, unassigned, North Brabant, Netherlands, T7878G; C17410T
+NODE_0000190, , unassigned, North Brabant, , 
+Netherlands/Oss_1363500/2020, , unassigned, North Brabant, Netherlands, 
+Netherlands/Nieuwendijk_1363582/2020, , unassigned, North Brabant, Netherlands, 
+NODE_0000537, , A6, North Brabant, , T514C
+Guangdong/GDSZ202004-P0004/2020, , A6, Guangdong, China, A18114G; C26370T; C26388T
+NODE_0000193, , A6, North Brabant, , 
+NODE_0000194, , A6, North Brabant, , 
+Netherlands/Utrecht_19/2020, ORF1b: V2178F, A6, Utrecht, Netherlands, C5512T; G19999T; C29144T
+NODE_0000233, ORF1a: G645S, A6, North Brabant, , G2198A
+Netherlands/NoordBrabant_29/2020, , A6, North Brabant, Netherlands, 
+NODE_0000234, ORF1a: A1997V, A6, North Brabant, , C6255T
+Netherlands/NoordBrabant_35/2020, ORF1b: R1315C, A6, North Brabant, Netherlands, C10456T; C17410T
+Netherlands/NoordBrabant_32/2020, ORF1a: V2133I; ORF1b: L1099F, T1173I, A6, North Brabant, Netherlands, G6662A; C16762T; C16985T
+Netherlands/NoordBrabant_31/2020, , A6, North Brabant, Netherlands, C29719T
+NODE_0000197, , A6, North Brabant, , 
+NODE_0000198, , A6, North Brabant, , 
+USA/CA6/2020_travel_history, , , Hubei, , 
+USA/CA6/2020, , A6, California, USA, 
+NODE_0000231, ORF1a: A1997V, A6, North Brabant, , C6255T
+Netherlands/NoordBrabant_27/2020, ORF1b: R1315C, A6, North Brabant, Netherlands, C17410T
+Netherlands/NoordBrabant_28/2020, , A6, North Brabant, Netherlands, 
+Netherlands/NoordBrabant_30/2020, , A6, North Brabant, Netherlands, G25252T
+NODE_0000200, , A6, North Brabant, , 
+NODE_0000201, , A6, North Brabant, , 
+Netherlands/Limburg_6/2020, S: R765L, A6, Limburg, Netherlands, G3403A; G23856T
+NODE_0000217, ORF1a: H1500Y, A6, North Brabant, , C4763T
+Netherlands/NoordBrabant_10/2020, , A6, North Brabant, Netherlands, 
+Netherlands/NoordBrabant_12/2020, N: K373N, A6, North Brabant, Netherlands, G29392T
+NODE_0000203, , A6, North Brabant, , 
+NODE_0000204, , A6, North Brabant, , 
+NODE_0000205, , A6, North Brabant, , 
+NODE_0000206, , A6, North Brabant, , 
+Netherlands/Rotterdam_1364040/2020, , A6, South Holland, Netherlands, 
+Netherlands/Andel_1365066/2020, , A6, North Brabant, Netherlands, 
+NODE_0000207, , A6, North Brabant, , 
+Netherlands/NA/22/2020, ORF1a: V3017F, A6, Netherlands, Netherlands, G9314T
+Netherlands/NoordBrabant_48/2020, , A6, North Brabant, Netherlands, T3541C
+NODE_0000208, , A6, North Brabant, , 
+NODE_0000209, , A6, Scotland, , 
+Netherlands/Naarden_1364774/2020, , A6, North Holland, Netherlands, 
+Scotland/CVR02/2020, , A6, Scotland, United Kingdom, 
+NODE_0000226, ORF1b: L1099F, A6, North Brabant, , C16762T
+Netherlands/NoordBrabant_54/2020, , A6, North Brabant, Netherlands, G1018A
+NODE_0000211, , A6, North Brabant, , 
+Netherlands/NoordBrabant_11/2020, , A6, North Brabant, Netherlands, 
+Netherlands/Hardinxveld_Giessendam_1364806/2020, , A6, South Holland, Netherlands, 
+NODE_0000212, , A6, North Brabant, , 
+NODE_0000213, , A6, North Brabant, , 
+Netherlands/NoordBrabant_47/2020, ORF1b: Q866H, A6, North Brabant, Netherlands, G16065T; C17373T
+NODE_0000214, , A6, Scotland, , 
+Scotland/EDB012/2020, , A6, Scotland, United Kingdom, 
+Scotland/CVR04/2020, , A6, Scotland, United Kingdom, 
+NODE_0000215, , A6, North Brabant, , 
+NODE_0000216, , A6, Netherlands, , 
+Netherlands/NA_32/2020, , A6, Netherlands, Netherlands, 
+England/Sheff01/2020, , A6, England, United Kingdom, 
+NODE_0000199, ORF1b: R1315C, A6, North Brabant, , C17410T
+Netherlands/NoordBrabant_42/2020, ORF7a: E121*, A6, North Brabant, Netherlands, G27754T
+Netherlands/NA_33/2020, N: A336V; S: T1273I, A6, Netherlands, Netherlands, C25380T; C29280T
+NODE_0000564, , A6, North Brabant, , 
+Netherlands/Loon_op_zand_1363512/2020, , A6, North Brabant, Netherlands, 
+NODE_0000218, , A6, North Brabant, , 
+NODE_0000219, , A6, North Brabant, , 
+Netherlands/NoordBrabant_38/2020, , A6, North Brabant, Netherlands, 
+NODE_0000220, , A6, North Brabant, , 
+Netherlands/Dalen_1363624/2020, , A6, Drenthe, Netherlands, 
+NODE_0000221, , A6, North Brabant, , 
+Netherlands/NoordBrabant_68/2020, , A6, North Brabant, Netherlands, 
+NODE_0000222, , A6, North Brabant, , 
+Netherlands/NoordBrabant_18/2020, , A6, North Brabant, Netherlands, 
+USA/MN2-MDH2/2020, , A6, Minnesota, USA, 
+NODE_0000223, , A6, North Brabant, , 
+Netherlands/NoordBrabant_19/2020, , A6, North Brabant, Netherlands, 
+NODE_0000224, , A6, North Brabant, , 
+Netherlands/NoordBrabant_24/2020, , A6, North Brabant, Netherlands, 
+NODE_0000225, , A6, North Brabant, , 
+Netherlands/NoordBrabant_57/2020, , A6, North Brabant, Netherlands, 
+NODE_0000227, , A6, North Brabant, , 
+Netherlands/NoordBrabant_49/2020, , A6, North Brabant, Netherlands, 
+NODE_0000228, , A6, North Brabant, , 
+Netherlands/NoordBrabant_44/2020, , A6, North Brabant, Netherlands, 
+Netherlands/NoordBrabant_52/2020, , A6, North Brabant, Netherlands, 
+NODE_0000587, , unassigned, Hubei, , 
+NODE_0000588, , unassigned, Hubei, , 
+NODE_0000589, , unassigned, Hubei, , 
+NODE_0000334, , unassigned, Hubei, , G29449T
+Hangzhou/ZJU-06/2020, ORF1a: P1207H, unassigned, Zhejiang, China, C3885A; C12778T; T13270C
+Australia/NSW02/2020, ORF1a: L2688F, unassigned, New South Wales, Australia, C8327T
+NODE_0000176, N: S194L; ORF14: Q41*, unassigned, Hubei, , C28854T
+Foshan/20SF207/2020, ORF9b: P3L, unassigned, Guangdong, China, C28291T
+Shenzhen/SZTH-003/2020, ORF7a: Q62*, unassigned, Guangdong, China, C27577T
+NODE_0000178, ORF1a: I1607V, unassigned, Hubei, , A5084G
+Canada/ON-VIDO-01/2020_travel_history, , , Hubei, , 
+Canada/ON-VIDO-01/2020, E: S6L, unassigned, Ontario, Canada, C26261T
+Canada/ON-PHL2445/2020_travel_history, , , Hubei, , 
+Canada/ON-PHL2445/2020, , unassigned, Ontario, Canada, 
+NODE_0000180, ORF1a: A117T, unassigned, California, , G614A
+USA/CA3/2020, , unassigned, California, USA, 
+USA/CA4/2020, , unassigned, California, USA, 
+NODE_0000594, , unassigned, Hubei, , 
+Guangdong/2020XN4373-P0039/2020, ORF1a: I476V, unassigned, Guangdong, China, C274T; A1691G; C29518T
+NODE_0000404, ORF3a: G251V, unassigned, Hubei, , G26144T
+Taiwan/2/2020, ORF1b: W907C; ORF3a: E191G, unassigned, Taiwan, Taiwan, G16188T; A25964G
+Sweden/01/2020, ORF1a: G818S, F4321L; S: F797C, unassigned, Småland, Sweden, G2717A; A9274G; C13225G; T13226C; A17376G; T23952G
+Australia/VIC01/2020_travel_history, , , Hubei, , 
+Australia/VIC01/2020, S: S247R, unassigned, Victoria, Australia, T19065C; T22303G
+NODE_0000406, M: A40S, I52T, unassigned, South Korea, , G26640T; T26677C
+SouthKorea/KUMC02/2020, , unassigned, South Korea, South Korea, A2707G
+SouthKorea/KUMC01/2020, ORF1a: L1599F; ORF8: L84S, unassigned, South Korea, South Korea, T4402C; G5062T; T28144C
+NODE_0000232, , unassigned, Hubei, , 
+NODE_0000235, , unassigned, Singapore, , 
+NODE_0000236, , unassigned, Singapore, , 
+NODE_0000237, , unassigned, Singapore, , 
+Guangdong/GD2020087-P0008/2020, S: Q409E, unassigned, Guangdong, China, C22787G
+Singapore/8/2020, , unassigned, Singapore, Singapore, C21859T
+NODE_0000238, , unassigned, Singapore, , 
+USA/CA2/2020_travel_history, , , Hubei, , 
+USA/CA2/2020, ORF1b: T1178I, unassigned, California, USA, C17000T
+NODE_0000239, , unassigned, Singapore, , 
+Australia/NSW03/2020, , unassigned, New South Wales, Australia, 
+NODE_0000426, , unassigned, Singapore, , C10138T
+Singapore/5/2020, , unassigned, Singapore, Singapore, 
+Singapore/9/2020, , unassigned, Singapore, Singapore, 
+Singapore/10/2020, , unassigned, Singapore, Singapore, 
+NODE_0000242, , unassigned, Singapore, , 
+NODE_0000243, , unassigned, Singapore, , 
+Singapore/7/2020, ORF14: T39I, unassigned, Singapore, Singapore, C28849T
+NODE_0000424, S: V367F, unassigned, Ile de France, , G22661T
+France/IDF0372/2020, , unassigned, Ile de France, France, 
+NODE_0000647, , unassigned, Ile de France, , 
+France/IDF0386-islP1/2020, , unassigned, Ile de France, France, 
+France/IDF0373/2020, , unassigned, Ile de France, France, 
+NODE_0000410, , unassigned, Hong Kong, , T13929C
+HongKong/case42_VM20002493/2020, N: M322I; S: T719A, unassigned, Hong Kong, Hong Kong, A23717G; G29239T
+NODE_0000248, , unassigned, Hong Kong, , 
+HongKong/case52_VM20002582/2020, , unassigned, Hong Kong, Hong Kong, G25500A
+NODE_0000249, , unassigned, Hong Kong, , 
+HongKong/case48_VM20002507/2020, , unassigned, Hong Kong, Hong Kong, 
+HongKong/VB20024950/2020, , unassigned, Hong Kong, Hong Kong, 
+NODE_0000414, ORF1a: E444K, H3233Y; S: L8V, unassigned, Hong Kong, , G1595A; C9962T; C11704T; C14724T; T21584G
+canine/HongKong/20-02756/2020, ORF1a: D2101G; ORF1b: K1828R, unassigned, Hong Kong, Hong Kong, A6567G; A18950G; C29730T
+NODE_0000251, , unassigned, Hong Kong, , 
+Canada/BC_35720/2020_travel_history, , , Hong Kong, , 
+Canada/BC_35720/2020, , unassigned, British Columbia, Canada, A3790G
+NODE_0000252, , unassigned, Hong Kong, , 
+HongKong/case90_VM20002907/2020, , unassigned, Hong Kong, Hong Kong, 
+HongKong/case85_VM20002868/2020, , unassigned, Hong Kong, Hong Kong, 
+NODE_0000428, ORF1a: L3606F, A1a, Hubei, , G11083T
+Wuhan/WH05/2020, ORF1a: Y534C, G1100S, A1a, Hubei, China, A1866G; G3563A
+Hangzhou/ZJU-01/2020, S: R682Q, A1a, Zhejiang, China, G23607A
+NODE_0000254, , A1a, Hubei, , 
+NODE_0000433, ORF1a: E217G, A1a, Tbilisi, , A915G
+Georgia/Tb-468/2020, ORF1a: L3352F, A1a, Tbilisi, Georgia, C10319T
+Georgia/Tb-54/2020, , A1a, Tbilisi, Georgia, 
+NODE_0000256, , A1a, Hubei, , 
+Italy/SPL1/2020, , A1a, Lazio, Italy, 
+Italy/INMI1-cs/2020_travel_history, , , Hubei, , 
+Italy/INMI1-cs/2020, , A1a, Lazio, Italy, 
+NODE_0000434, , A1a, England, , C14805T
+USA/WA3-UW1/2020_travel_history, , , South Korea, , 
+USA/WA3-UW1/2020, ORF1a: A1049V, M1769I, A1a, Washington, USA, T2446C; C3411T; G5572T
+England/20102000106/2020, , A1a, England, United Kingdom, C23707T; T27384C
+Netherlands/NoordBrabant_5/2020, ORF3a: V251G, A1a, North Brabant, Netherlands, T1570C; C3037T; T26144G
+NODE_0000442, ORF1a: I739V, P765S, A1a, England, , A2480G; C2558T
+England/09c/2020_travel_history, , , Hubei, , 
+England/09c/2020, , A1a, England, United Kingdom, 
+Scotland/CVR07/2020, ORF1a: P885S, P1692L, A1a, Scotland, United Kingdom, C2918T; C5340T
+NODE_0000259, , A1a, England, , 
+NODE_0000260, , A1a, Netherlands, , 
+Netherlands/NA/21/2020, , A1a, Netherlands, Netherlands, G210T
+Canada/BC_78548/2020_travel_history, , , Europe, , 
+Canada/BC_78548/2020, , A1a, British Columbia, Canada, A1981G
+NODE_0000261, , A1a, England, , 
+NODE_0000446, , A1a, England, , T21072C
+England/200940527/2020, , A1a, England, United Kingdom, 
+NODE_0000263, , A1a, England, , 
+England/200990725/2020, , A1a, England, United Kingdom, 
+England/200990724/2020, , A1a, England, United Kingdom, 
+NODE_0000265, , A1a, England, , 
+Brazil/ES-225/2020, , A1a, Espirito Santo, Brazil, C4423T
+NODE_0000443, M: R158C, A1a, England, , C26994T
+England/20100001406/2020, , A1a, England, United Kingdom, 
+England/20102068506/2020, , A1a, England, United Kingdom, 
+NODE_0000267, , A1a, England, , 
+NODE_0000270, , A1a, England, , 
+England/200960515/2020, , A1a, England, United Kingdom, C10741T
+NODE_0000440, N: E378Q, A1a, Helsinki, , G29405C
+Finland/FIN01032020/2020, , A1a, Helsinki, Finland, 
+NODE_0000272, , A1a, Helsinki, , 
+Finland/FIN-274/2020, , A1a, Finland, Finland, 
+Finland/FIN03032020B/2020, , A1a, Helsinki, Finland, 
+NODE_0000451, , A1a, North Brabant, , T17247C
+Switzerland/1000477102/2020, S: S939F, A1a, Zurich, Switzerland, C24378T; C26894T
+Brazil/SPBR-10/2020, ORF1a: F3606L, A1a, Distrito Federal, Brazil, T11083G
+Netherlands/NA/29/2020, ORF1b: V396F, A1a, Netherlands, Netherlands, T13078C; G14653T
+Netherlands/ZuidHolland_8/2020, ORF1b: A690S, A1a, South Holland, Netherlands, G15535T
+USA/NY-NYUMC1/2020, ORF1a: I739V, A1a, New York, USA, A2480G; C17010A
+Scotland/CVR10/2020, ORF1a: H417R, A1a, Scotland, United Kingdom, A1515G; A21625G
+Brazil/SPBR-02/2020_travel_history, , , Lombardy, , 
+Brazil/SPBR-02/2020, ORF1a: T708I, A1a, Sao Paulo, Brazil, C2388T
+Netherlands/Utrecht_18/2020, ORF1a: A4285V, A1a, Utrecht, Netherlands, A12820G; C13119T
+NODE_0000471, , A1a, North Brabant, , T23926C
+Netherlands/NoordBrabant_6/2020, , A1a, North Brabant, Netherlands, 
+Netherlands/NoordBrabant_37/2020, , A1a, North Brabant, Netherlands, 
+NODE_0000472, , A1a, North Brabant, , T1570C
+Netherlands/NoordBrabant_22/2020, , A1a, North Brabant, Netherlands, 
+Netherlands/NoordBrabant_23/2020, ORF1a: S308L, A1a, North Brabant, Netherlands, C1188T
+NODE_0000473, , A1a, North Brabant, , T21462C
+Netherlands/NA_35/2020, ORF1b: P314L, A1a, Netherlands, Netherlands, C14408T
+Netherlands/NoordBrabant_56/2020, , A1a, North Brabant, Netherlands, 
+NODE_0000277, , A1a, North Brabant, , 
+NODE_0000278, , A1a, North Brabant, , 
+NODE_0000279, , A1a, North Brabant, , 
+England/20100122107/2020, , A1a, England, United Kingdom, 
+Netherlands/NoordBrabant_20/2020, , A1a, North Brabant, Netherlands, 
+NODE_0000280, , A1a, North Brabant, , 
+Netherlands/NoordBrabant_25/2020, , A1a, North Brabant, Netherlands, 
+Netherlands/NA/14/2020, , A1a, Netherlands, Netherlands, 
+NODE_0000281, , A1a, England, , 
+NODE_0000282, , A1a, England, , 
+England/200990006/2020, , A1a, England, United Kingdom, 
+NODE_0000283, , A1a, England, , 
+England/20100122106/2020, , A1a, England, United Kingdom, 
+Netherlands/NA_34/2020, , A1a, Netherlands, Netherlands, 
+NODE_0000284, , A1a, England, , 
+NODE_0000285, , A1a, England, , 
+Netherlands/NA/27/2020, , A1a, Netherlands, Netherlands, 
+England/201000003/2020, , A1a, England, United Kingdom, 
+NODE_0000286, , A1a, England, , 
+England/20099079106/2020, , A1a, England, United Kingdom, 
+England/20100077906/2020, , A1a, England, United Kingdom, 
+NODE_0000287, , unassigned, Hubei, , 
+NODE_0000288, , unassigned, Hubei, , 
+NODE_0000289, , unassigned, Hubei, , 
+NODE_0000264, ORF1a: T1168I, unassigned, Hubei, , C3768T
+Jiangsu/JS01/2020, ORF3a: T176I, unassigned, Jiangsu, China, C25919T; C29732T
+Guangdong/2020XN4239-P0034/2020, , unassigned, Guangdong, China, 
+NODE_0000291, , unassigned, Hubei, , 
+Wuhan/IPBCAMS-WH-02/2019, , unassigned, Hubei, China, 
+Wuhan/WIV04/2019, , unassigned, Hubei, China, 
+NODE_0000292, , unassigned, Hubei, , 
+NODE_0000293, , unassigned, Hubei, , 
+Wuhan/WIV06/2019, , unassigned, Hubei, China, 
+Wuhan/HBCDC-HB-03/2019, , unassigned, Hubei, China, 
+NODE_0000294, , unassigned, Hubei, , 
+Wuhan/IVDC-HB-01/2019, , unassigned, Hubei, China, 
+Wuhan/IPBCAMS-WH-04/2019, , unassigned, Hubei, China, 
+NODE_0000295, , unassigned, Hubei, , 
+NODE_0000296, , unassigned, Hubei, , 
+NODE_0000297, , unassigned, Hubei, , 
+Wuhan/WH03/2020, , unassigned, Hubei, China, 
+Wuhan-Hu-1/2019, , unassigned, Hubei, China, 
+NODE_0000298, , unassigned, Hubei, , 
+NODE_0000175, , unassigned, Hubei, , C24034T
+Nepal/61/2020_travel_history, , , Hubei, , 
+Nepal/61/2020, , unassigned, Kathmandu, Nepal, 
+USA/MA1/2020_travel_history, , , Hubei, , 
+USA/MA1/2020, N: S194L; ORF14: Q41*; ORF1a: V1085F; ORF1b: Y1319C, unassigned, Massachusetts, USA, G3518T; A17423G; C28854T
+NODE_0000241, S: H49Y, unassigned, Hubei, , C21707T
+Jiangsu/JS02/2020, ORF1a: V1199I; ORF1b: G35V, unassigned, Jiangsu, China, G3860A; C7420T; G13571T; G26211T
+NODE_0000301, , unassigned, Hubei, , 
+NODE_0000303, , unassigned, Hubei, , 
+Guangdong/20SF040/2020, , unassigned, Guangdong, China, 
+Guangdong/20SF174/2020, , unassigned, Guangdong, China, 
+NODE_0000304, , unassigned, Hubei, , 
+USA/CA5/2020_travel_history, , , Hubei, , 
+USA/CA5/2020, ORF1a: T609I, unassigned, California, USA, C2091T
+Guangdong/20SF028/2020, , unassigned, Guangdong, China, 
+NODE_0000306, , unassigned, Hubei, , 
+NODE_0000308, , unassigned, Hubei, , 
+NODE_0000309, , unassigned, Hubei, , 
+China/WHU02/2020, , unassigned, Hubei, China, 
+China/WHU01/2020, , unassigned, Hubei, China, 
+NODE_0000310, , unassigned, Hubei, , 
+NODE_0000358, , unassigned, Hubei, , C186T
+China/WH-09/2020, , unassigned, Hubei, China, 
+NODE_0000312, , unassigned, Hubei, , 
+Guangzhou/GZMU0030/2020, E: D72Y; ORF1a: T490I, unassigned, Guangdong, China, C1734T; G26458T
+NODE_0000360, S: C1254F, unassigned, New South Wales, , G25323T
+Australia/NSW08/2020, , unassigned, New South Wales, Australia, 
+Australia/NSW10/2020, , unassigned, New South Wales, Australia, 
+NODE_0000183, , unassigned, Hubei, , C17373T
+India/1-27/2020_travel_history, , , China, , 
+India/1-27/2020, ORF1a: I671T, P2144S; ORF1b: A397V; S: R408I, unassigned, Kerala, India, T2277C; C6695T; C14657T; G22785T
+NODE_0000184, ORF1a: T3750I; S: S50L, unassigned, Hubei, , C11514T; C21711T
+Guangdong/FS-S42-P0046/2020, , unassigned, Guangdong, China, 
+Guangdong/ZH-S33-P0058/2020, ORF1a: Q1813R; ORF1b: L627F, D979E, unassigned, Guangdong, China, A5703G; C15346T; T16404A; T17373C
+NODE_0000191, ORF1a: S2185I, unassigned, Hubei, , G6819T; G29527A
+China/IQTC02/2020, ORF1b: T2048I, unassigned, Guangdong, China, C19610T
+Guangdong/SZ-N59-P0049/2020, ORF1a: V1056L, unassigned, Guangdong, China, G3431T; G18462A
+NODE_0000318, , unassigned, Hubei, , 
+Fujian/13/2020, , unassigned, Fujian, China, G29755A
+NODE_0000319, , unassigned, Hubei, , 
+NODE_0000320, , unassigned, Hubei, , 
+Foshan/20SF210/2020, , unassigned, Guangdong, China, 
+USA/WI1/2020_travel_history, , , Hubei, , 
+USA/WI1/2020, , unassigned, Wisconsin, USA, 
+NODE_0000321, , unassigned, Hubei, , 
+Singapore/11/2020, ORF1b: Y71C, unassigned, Singapore, Singapore, A13679G
+Foshan/20SF211/2020, , unassigned, Guangdong, China, 
+NODE_0000322, , unassigned, Hubei, , 
+NODE_0000323, , unassigned, Hubei, , 
+NODE_0000326, , unassigned, Hubei, , 
+Jiangxi/IVDC-JX-002/2020, ORF1a: C2670Y, unassigned, Jiangxi, China, G8274A
+NODE_0000247, S: S50L, unassigned, Hubei, , C21711T
+Guangdong/FS-S48-P0047/2020, ORF1a: L3606F, N4118S; ORF3a: T175K, unassigned, Guangdong, China, C679T; G11083T; A12618G; C25916A
+Guangdong/DG-S9-P0045/2020, N: S190G; ORF1a: T3032I; ORF1b: N291K, T2514I; ORF8: L95F, unassigned, Guangdong, China, C9360T; C14340A; C21008T; G28178T; A28841G
+NODE_0000328, , unassigned, Hubei, , 
+Guangdong/JM-S1-P0062/2020, ORF1a: D3728N; ORF8: G77C, unassigned, Guangdong, China, G11447A; G28122T
+NODE_0000330, , unassigned, Hubei, , 
+Guangdong/FS-S50-P0053/2020, ORF1b: M657I, unassigned, Guangdong, China, G15438T
+Guangdong/MM-S1-P0048/2020, N: T247I; ORF1b: P1682L, unassigned, Guangdong, China, C18512T; C29013T
+NODE_0000331, , unassigned, Hubei, , 
+NODE_0000332, , unassigned, Hubei, , 
+Guangdong/20SF014/2020, , unassigned, Guangdong, China, T23569C
+Zhejiang/WZ-01/2020, , unassigned, Zhejiang, China, C583T
+NODE_0000329, N: P344S, unassigned, Hubei, , C15324T; C29303T
+Japan/KY-V-029/2020, ORF1a: E3764D; ORF3a: L140V, unassigned, Kyoto, Japan, G11557T; C25810G
+NODE_0000335, , unassigned, Hubei, , 
+Guangzhou/20SF206/2020, , unassigned, Guangdong, China, 
+NODE_0000336, , unassigned, Hubei, , 
+China/IQTC01/2020, , unassigned, Guangdong, China, 
+Guangdong/GD2020246-P0028/2020, , unassigned, Guangdong, China, 
+NODE_0000337, , unassigned, Hubei, , 
+NODE_0000338, , unassigned, Hubei, , 
+Nonthaburi/61/2020_travel_history, , , Hubei, , 
+Nonthaburi/61/2020, , unassigned, Nonthaburi, Thailand, 
+NODE_0000357, ORF1b: A2268V, unassigned, Wales, , C20270T; A29683T
+Wales/PHW35/2020, N: P151L; ORF1a: V56I, unassigned, Wales, United Kingdom, G431A; C28725T
+Wales/PHW38/2020, ORF3a: G172C; S: L54F, unassigned, Wales, United Kingdom, G21724T; G25906T
+NODE_0000340, , unassigned, Hubei, , 
+NODE_0000342, , unassigned, Hubei, , 
+NODE_0000343, , unassigned, Hubei, , 
+NODE_0000344, , unassigned, Hubei, , 
+France/IDF0626/2020, , unassigned, Ile de France, France, C25153T
+Cambodia/0012/2020_travel_history, , , Hubei, , 
+Cambodia/0012/2020, ORF3a: V88L, unassigned, Sihanoukville, Cambodia, G25654T
+NODE_0000347, , unassigned, Hubei, , 
+Taiwan/NTU02/2020_travel_history, , , Hubei, , 
+Taiwan/NTU02/2020, ORF1a: H3076Y, unassigned, Taiwan, Taiwan, A9034G; C9491T
+NODE_0000246, ORF7b: A43V, unassigned, Hubei, , C26936T; C27883T
+Guangdong/GDFS2020052-P0025/2020, , unassigned, Guangdong, China, 
+Guangdong/GDFS2020054-P0005/2020, , unassigned, Guangdong, China, 
+NODE_0000349, , unassigned, Hubei, , 
+NODE_0000350, , unassigned, Hubei, , 
+Singapore/1/2020_travel_history, , , Hubei, , 
+Singapore/1/2020, , unassigned, Singapore, Singapore, A25060G
+NODE_0000269, , unassigned, Hubei, , C12473T
+Shanghai/SH01/2020, ORF1a: P1921S, unassigned, Shanghai, China, C6026T
+Guangdong/GD2020080-P0010/2020, , unassigned, Guangdong, China, A11782G
+NODE_0000353, , unassigned, Hubei, , 
+Guangdong/GD2020134-P0031/2020, , unassigned, Guangdong, China, 
+Guangdong/GD2020258-P0018/2020, , unassigned, Guangdong, China, 
+NODE_0000354, , unassigned, Hubei, , 
+NODE_0000355, , unassigned, Hubei, , 
+Guangdong/DG-S2-P0054/2020, ORF1b: T76I; S: H655Y, unassigned, Guangdong, China, C13694T; C23525T
+Guangdong/GD2020115-P0009/2020, , unassigned, Guangdong, China, C9967T
+NODE_0000356, , unassigned, Hubei, , 
+NODE_0000359, , unassigned, Hubei, , 
+NODE_0000361, , unassigned, Hubei, , 
+Chongqing/ZX01/2020, , unassigned, Chongqing, China, 
+Guangdong/20SF201/2020, , unassigned, Guangdong, China, 
+NODE_0000362, , unassigned, Zhejiang, , 
+Japan/OS-20-07-1/2020, , unassigned, Osaka, Japan, 
+Hangzhou/ZJU-04/2020, , unassigned, Zhejiang, China, 
+NODE_0000364, , unassigned, Hubei, , 
+NODE_0000365, , unassigned, Jiangsu, , 
+Jiangsu/JS03/2020, , unassigned, Jiangsu, China, 
+Taiwan/4/2020, , unassigned, Taiwan, Taiwan, 
+NODE_0000368, , unassigned, England, , 
+NODE_0000369, , unassigned, England, , 
+NODE_0000370, , unassigned, England, , 
+England/200690756/2020, , unassigned, England, United Kingdom, 
+England/200690306/2020, , unassigned, England, United Kingdom, 
+NODE_0000371, , unassigned, Hubei, , 
+Guangdong/GDSZ202008-P0020/2020, , unassigned, Guangdong, China, 
+Finland/1/2020_travel_history, , , Hubei, , 
+Finland/1/2020, , unassigned, Finland, Finland, 
+NODE_0000372, , unassigned, England, , 
+NODE_0000375, , unassigned, England, , 
+NODE_0000376, , unassigned, England, , 
+England/200690300/2020, , unassigned, England, United Kingdom, 
+England/200690245/2020, , unassigned, England, United Kingdom, 
+NODE_0000378, , unassigned, England, , 
+Guangdong/2020XN4433-P0040/2020, , unassigned, Guangdong, China, 
+England/200641094/2020, , unassigned, England, United Kingdom, 
+NODE_0000381, , unassigned, England, , 
+NODE_0000382, , unassigned, Auvergne Rhone Alpes, , 
+SouthKorea/KCDC12/2020, , unassigned, Gyeonggi, South Korea, 
+France/RA739/2020, , unassigned, Auvergne Rhone Alpes, France, 
+NODE_0000384, , unassigned, England, , 
+NODE_0000385, , unassigned, England, , 
+Canada/BC_40860/2020_travel_history, , , Iran, , 
+Canada/BC_40860/2020, , unassigned, British Columbia, Canada, 
+England/20102000906/2020, , unassigned, England, United Kingdom, 
+NODE_0000386, , unassigned, Hubei, , 
+Guangzhou/GZMU0031/2020, , unassigned, Guangdong, China, 
+NODE_0000324, , unassigned, Scotland, , G29032A
+Scotland/CVR06/2020, , unassigned, Scotland, United Kingdom, 
+NODE_0000325, , unassigned, Wales, , C29754T
+Wales/PHW28/2020, , unassigned, Wales, United Kingdom, 
+Wales/PHW26/2020, , unassigned, Wales, United Kingdom, 
+NODE_0000390, , unassigned, Hubei, , 
+NODE_0000391, , unassigned, Hubei, , 
+NODE_0000392, , unassigned, Hubei, , 
+Nonthaburi/74/2020_travel_history, , , Hubei, , 
+Nonthaburi/74/2020, , unassigned, Nonthaburi, Thailand, 
+Zhejiang/WZ-02/2020, , unassigned, Zhejiang, China, 
+NODE_0000394, , unassigned, Hubei, , 
+Guangdong/GD2020227-P0029/2020, ORF1a: S302F, unassigned, Guangdong, China, C1170T; C5284T; C26370T
+Japan/AI/I-004/2020, ORF1b: P1682L, unassigned, Aichi, Japan, C1912T; C18512T
+NODE_0000395, , unassigned, Hubei, , 
+NODE_0000396, , unassigned, Hubei, , 
+NODE_0000397, , unassigned, Hubei, , 
+Netherlands/NoordBrabant_60/2020, ORF1a: D1966E, P4220T, P4389S; ORF1b: P1967S; ORF8: Y73H, unassigned, North Brabant, Netherlands, T6163A; C12923A; C13430T; C19366T; T28110C
+NODE_0000398, , unassigned, Hubei, , 
+Hangzhou/HZ-1/2020_travel_history, , , Hubei, , 
+Hangzhou/HZ-1/2020, , unassigned, Zhejiang, China, 
+Hangzhou/ZJU-05/2020, , unassigned, Zhejiang, China, 
+NODE_0000399, , unassigned, Hubei, , 
+NODE_0000400, , unassigned, Hubei, , 
+Jiangsu/IVDC-JS-001/2020, , unassigned, Jiangsu, China, 
+Hangzhou/HZCDC0001/2020_travel_history, , , Hubei, , 
+Hangzhou/HZCDC0001/2020, , unassigned, Zhejiang, China, 
+NODE_0000401, , unassigned, Hubei, , 
+NODE_0000403, , unassigned, Taiwan, , 
+Japan/NA-20-05-1/2020, , unassigned, Nara, Japan, 
+Taiwan/CGMH-CGU-01/2020, , unassigned, Taiwan, Taiwan, 
+NODE_0000405, , unassigned, California, , 
+NODE_0000345, ORF1a: S4119L, unassigned, South Holland, , C12621T
+Netherlands/ZuidHolland_21/2020, ORF1a: L960F, unassigned, South Holland, Netherlands, G3145T
+NODE_0000346, , unassigned, South Holland, , C12068T
+Netherlands/Utrecht_12/2020, , unassigned, Utrecht, Netherlands, 
+Netherlands/ZuidHolland_7/2020, , unassigned, South Holland, Netherlands, 
+NODE_0000258, ORF1a: A3220V, A7, California, , C9924T
+USA/CA-CDPH-UC2/2020, ORF1b: N725T, A7, California, USA, A15641C
+USA/CA-CDPH-UC3/2020, ORF1a: A3229V, A7, California, USA, C9951T
+NODE_0000409, , A7, California, , 
+USA/CA-CDPH-UC4/2020, , A7, California, USA, 
+USA/CA9/2020, , A7, California, USA, 
+NODE_0000411, , unassigned, Hubei, , 
+NODE_0000412, , unassigned, Hubei, , 
+Guangdong/GDFS2020127-P0026/2020, N: S404A, unassigned, Guangdong, China, G22081A; T29483G
+Hangzhou/ZJU-03/2020, ORF1b: D1127Y, unassigned, Zhejiang, China, G16846T
+NODE_0000413, , unassigned, Hubei, , 
+NODE_0000268, M: D209H, unassigned, Singapore, , G27147C
+Singapore/2/2020, , unassigned, Singapore, Singapore, 
+Singapore/6/2020, , unassigned, Singapore, Singapore, 
+NODE_0000302, ORF1a: G392D, A876T, unassigned, North Rhine Westphalia, , G1440A; G2891A
+Netherlands/NA_6/2020, N: K370N; ORF1b: D870Y, unassigned, Netherlands, Netherlands, G16075T; G29383T
+Netherlands/ZuidHolland_27/2020, ORF1a: A2249V; S: P812S, unassigned, South Holland, Netherlands, C7011T; C23996T
+Germany/NRW-10/2020, ORF1a: K2511N, unassigned, North Rhine Westphalia, Germany, G7798T
+Germany/NRW-09/2020, ORF7b: L32F, unassigned, North Rhine Westphalia, Germany, C27849T
+NODE_0000305, ORF1a: R1464W; S: S254F, unassigned, North Rhine Westphalia, , C4655T; C22323T
+Germany/NRW-04/2020, , unassigned, North Rhine Westphalia, Germany, 
+Germany/NRW-07/2020, , unassigned, North Rhine Westphalia, Germany, T13494C
+NODE_0000307, ORF1a: M2719I, unassigned, North Rhine Westphalia, , G8422A; C29546A
+Germany/NRW-08/2020, , unassigned, North Rhine Westphalia, Germany, 
+NODE_0000418, , unassigned, North Rhine Westphalia, , 
+Germany/NRW-01/2020, , unassigned, North Rhine Westphalia, Germany, 
+Netherlands/Limburg_4/2020, , unassigned, Limburg, Netherlands, 
+NODE_0000419, , unassigned, North Rhine Westphalia, , 
+NODE_0000420, , unassigned, North Rhine Westphalia, , 
+Germany/NRW-02-1/2020, , unassigned, North Rhine Westphalia, Germany, 
+NODE_0000316, N: S193I; ORF14: V40F, unassigned, Wales, , G28851T
+Wales/PHW37/2020, , unassigned, Wales, United Kingdom, 
+NODE_0000317, ORF3a: H93Y, unassigned, Wales, , C25669T
+Wales/PHW29/2020, , unassigned, Wales, United Kingdom, 
+Wales/PHW32/2020, , unassigned, Wales, United Kingdom, 
+NODE_0000423, , unassigned, North Rhine Westphalia, , 
+NODE_0000425, , unassigned, North Rhine Westphalia, , 
+Germany/NRW-06/2020, , unassigned, North Rhine Westphalia, Germany, 
+Brazil/SPBR-11/2020_travel_history, , , UK, , 
+Brazil/SPBR-11/2020, , unassigned, Sao Paulo, Brazil, 
+NODE_0000427, , unassigned, North Rhine Westphalia, , 
+Germany/NRW-05/2020, , unassigned, North Rhine Westphalia, Germany, 
+Germany/NRW-03/2020, , unassigned, North Rhine Westphalia, Germany, 
