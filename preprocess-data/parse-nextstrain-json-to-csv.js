@@ -1,6 +1,6 @@
 'use strict';
 
-const outputFile = '../data/tree-data.csv';
+const outputFile = '../data/processed/tree-data.csv';
 const fs = require('fs');
 
 const json = JSON.parse(fs.readFileSync('../data/ncov.json'));
