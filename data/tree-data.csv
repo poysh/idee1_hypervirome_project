@@ -1,4 +1,4 @@
-name, mutations, calde, division, country, nuc
+name, mutations, clade, division, country, nuc, sampling_date, originating_lab, submitting_lab
 NODE_0000003, ORF8: L84S, B, Hubei, , C8782T; T28144C
 Wuhan/HBCDC-HB-06/2020, ORF1a: V1798I; S: D614G, B, Hubei, China, G5657A; A23403G; A25725G
 Wuhan/HBCDC-HB-02/2020, ORF1a: T3959N; S: L752F, B, Hubei, China, C12141A; C23816T

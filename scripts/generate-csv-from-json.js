@@ -5,42 +5,83 @@ const fs = require('fs');
 
 const json = JSON.parse(fs.readFileSync('../data/ncov.json'));
 
-const header = ['name', 'mutations', 'calde', 'division', 'country', 'nuc'];
+// table header
+const header = [
+  'name',
+  'mutations',
+  'clade',
+  'division',
+  'country',
+  'nuc',
+  'sampling_date', // num_date
+  'originating_lab', 
+  'submitting_lab'
+];
 
 let rows = [];
 
 json.tree.children.forEach(processTreeNode);
-console.log(rows);
+
 rows = rows.filter(row => !!row).map(row => {
-  return [row.name, row.mutations, row.clade, row.division, row.country, row.nuc].join(', ');
+  return [
+    row.name,
+    row.mutations, 
+    row.clade,
+    row.division,
+    row.country,
+    row.nuc,
+    row.sampling_date,
+    row.originating_lab,
+    row.submitting_lab
+  ].join(', ');
 }).join('\n');
 fs.writeFileSync(outputFile, header.join(', ')+'\n'+rows)
 
 function processTreeNode(node){
   let entry = {};
+  // mutation name
   entry['name'] = node.name;
 
+  // get division
+  entry['division'] = node.node_attrs.division.value;
+  // country if exists
   if (node.node_attrs && node.node_attrs.country) {
     entry['country'] = node.node_attrs.country.value;
   }
 
+  // get clade if exists
   if (node.node_attrs.clade_membership) {
     entry['clade'] = node.node_attrs.clade_membership.value;
   } else if (node.branch_attrs && node.branch_attrs.labels && node.branch_attrs.labels.clade) {
     entry['clade'] = node.branch_attrs.labels.clade;
   }
+  // get labs if exists
+  if (node.node_attrs.originating_lab) {
+    entry['originating_lab'] = node.node_attrs.originating_lab.value;
+  }
+  if (node.node_attrs.submitting_lab) {
+    entry['submitting_lab'] = node.node_attrs.submitting_lab.value;
+  }
+
+  // sampling_date if exists
+  if (node.node_attrs.num_date) {
+    entry['sampling_date'] = node.node_attrs.num_date.value;
+  }
   
-  entry['division'] = node.node_attrs.division.value;
-  
+  // get mutations if exists
   if (node.branch_attrs && node.branch_attrs.labels) {
     entry['mutations'] = node.branch_attrs.labels.aa;
   }
+  // get nuc as string if exists
   if (node.branch_attrs && node.branch_attrs.mutations && node.branch_attrs.mutations.nuc) {
     entry['nuc'] = node.branch_attrs.mutations.nuc.join('; ');
   }
 
+
+
   rows.push(entry);
 
+  // process children
   if (node.children && node.children.length > 0) {
     node.children.map(processTreeNode)
       .forEach(arr => {
