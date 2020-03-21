@@ -8,6 +8,7 @@ const json = JSON.parse(fs.readFileSync('../data/raw/ncov.json'));
 // table header
 const header = [
   'name',
+  'parent',
   'mutations',
   'clade',
   'division',
@@ -27,6 +28,7 @@ json.tree.children.forEach(processTreeNode);
 rows = rows.filter(row => !!row).map(row => {
   return [
     row.name,
+    row.parent,
     row.mutations, 
     row.clade,
     row.division,
@@ -39,20 +41,20 @@ rows = rows.filter(row => !!row).map(row => {
     row.genbank
   ].map(val => {
     if (val && val.split && val.split(',').length > 1) {
-      console.log(val);
-      return val.replace(', ', '_')
+      return val.replace(', ', '_');
     }
-    return val
+    return val;
   })
   .join(', ');
 
 }).join('\n');
 fs.writeFileSync(outputFile, header.join(', ')+'\n'+rows)
 
-function processTreeNode(node){
+function processTreeNode(node, parent){
   let entry = {};
   // mutation name
   entry['name'] = node.name;
+  entry['parent'] = parent;
 
   // get division
   entry['division'] = node.node_attrs.division.value;
@@ -101,7 +103,7 @@ function processTreeNode(node){
 
   // process children
   if (node.children && node.children.length > 0) {
-    node.children.map(processTreeNode)
+    node.children.map(child => processTreeNode(child, node.name))
       .forEach(arr => {
         rows = rows.concat(arr);
       });
