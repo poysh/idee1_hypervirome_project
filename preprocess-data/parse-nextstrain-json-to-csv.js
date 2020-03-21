@@ -3,7 +3,7 @@
 const outputFile = '../data/processed/tree-data.csv';
 const fs = require('fs');
 
-const json = JSON.parse(fs.readFileSync('../data/ncov.json'));
+const json = JSON.parse(fs.readFileSync('../data/raw/ncov.json'));
 
 // table header
 const header = [
