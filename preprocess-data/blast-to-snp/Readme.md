@@ -52,3 +52,4 @@ Hier brauchen wir noch einen Parser, der Einträge erstellt. Folgendes ist zu be
 ##Dockerfile
 Sollte blast und java enthalten für jvarkit. 
 Gut wäre es, wenn vielleicht die reference.gb ersetzt werden kann (mount etc.)
+
