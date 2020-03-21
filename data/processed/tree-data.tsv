@@ -1,5 +1,5 @@
 name	parent	mutations	clade	division	country	long	lat	nuc	sampling_date	originating_lab	submitting_lab	GISAID_EPI_ISL	GenBank_accession
-NODE_0000004	0	ORF8: L84S	B	Hubei		112.676644	31.095477	C8782T-T28144C	2019.9940400468126				
+NODE_0000004	NODE_0000002	ORF8: L84S	B	Hubei		112.676644	31.095477	C8782T-T28144C	2019.9940400468126				
 China/Shanghai/SH0075	NODE_0000004	N: H145Y	B	Shanghai	China	121.429896	31.171447	T27618C-C28706T	2020.0806010928961	Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University	National Research Center for Translational Medicine (Shanghai), Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine & Shanghai Public Health Clinical Center	EPI_ISL_416378	
 China/Shanghai/SH0030	NODE_0000004	ORF1a: R1464W, A3209S; ORF1b: V2354F	B	Shanghai	China	121.429896	31.171447	C4655T-G9890T-G20527T	2020.0915300546449	Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University	National Research Center for Translational Medicine (Shanghai), Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine & Shanghai Public Health Clinical Center	EPI_ISL_416339	
 Tianmen/HBCDC-HB-07/2020	NODE_0000004	ORF1a: E972K; ORF1b: P319S, A373V; ORF9b: A11V; S: V615L	B	Hubei	China	112.676644	31.095477	A3175G-G3179A-C14422T-C14585T-G23405C-C28315T	2020.1051912568305	Tianmen Center for Disease Control and Prevention	Hubei Provincial Center for Disease Control and Prevention	EPI_ISL_412983	
@@ -366,7 +366,7 @@ USA/WA15-UW11/2020	NODE_0000157		B1	Washington	USA	-119.950361	47.183945		2020.1
 NODE_0000158	NODE_0000157		B1	Washington		-119.950361	47.183945		2020.1702304504865				
 USA/WA17-UW13/2020	NODE_0000158		B1	Washington	USA	-119.950361	47.183945		2020.1762295081967	UW Virology Lab	UW Virology Lab	EPI_ISL_413652	
 USA/WA16-UW12/2020	NODE_0000158		B1	Washington	USA	-119.950361	47.183945		2020.1762295081967	UW Virology Lab	UW Virology Lab	EPI_ISL_413651	
-NODE_0000203	1		unassigned	Hubei		112.676644	31.095477		2019.9182685825697				
+NODE_0000203	NODE_0000002		unassigned	Hubei		112.676644	31.095477		2019.9182685825697				
 Wuhan/HBCDC-HB-01/2019	NODE_0000203	S: F32I	unassigned	Hubei	China	112.676644	31.095477	T21656A	2019.995890410959	Wuhan Jinyintan Hospital	Hubei Provincial Center for Disease Control and Prevention	EPI_ISL_402132	
 China/Shanghai/SH0093	NODE_0000203	N: S193I; ORF14: V40F; ORF7a: E121*	unassigned	Shanghai	China	121.429896	31.171447	G27754T-G28851T	2020.0560109289618	Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University	National Research Center for Translational Medicine (Shanghai), Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine & Shanghai Public Health Clinical Center	EPI_ISL_416389	
 Wuhan/IVDC-HB-05/2019	NODE_0000203		unassigned	Hubei	China	112.676644	31.095477	G20670A-G20679A	2019.995890410959	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control and Prevention, China CDC	EPI_ISL_402121	

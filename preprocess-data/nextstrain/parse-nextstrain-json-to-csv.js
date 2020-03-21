@@ -1,7 +1,9 @@
 'use strict';
 
-const outputFile = '../data/processed/tree-data.csv';
 const fs = require('fs');
+
+const OUTPUT_FILE_CSV = '../data/processed/tree-data.csv';
+const OUTPUT_FILE_TSV = '../data/processed/tree-data.tsv';
 
 const json = JSON.parse(fs.readFileSync('../data/raw/ncov.json'));
 const divisions = json.meta.geo_resolutions.find(val => val.key === 'division').demes;
@@ -27,33 +29,62 @@ const header = [
 let rows = [];
 
 processTreeNode(json.tree, rows);
+writeCsv(rows);
+writeTsv(rows);
 
-rows = rows.filter(row => !!row).map(row => {
-  return [
-    row.name,
-    row.parent,
-    row.mutations, 
-    row.clade,
-    row.division,
-    row.country,
-    row.long,
-    row.lat,
-    row.nuc,
-    row.sampling_date,
-    row.originating_lab,
-    row.submitting_lab,
-    row.gisaid,
-    row.genbank
-  ].map(val => {
-    if (val && val.split && val.split(',').length > 1) {
-      return val.replace(', ', '_');
-    }
-    return val;
-  })
-  .join(', ');
+function writeCsv(rows) {
+  const csvRows = rows.filter(row => !!row).map(row => {
+    return [
+      row.name,
+      row.parent,
+      row.mutations, 
+      row.clade,
+      row.division,
+      row.country,
+      row.long,
+      row.lat,
+      row.nuc,
+      row.sampling_date,
+      row.originating_lab,
+      row.submitting_lab,
+      row.gisaid,
+      row.genbank
+    ].map(val => {
+      if (val && val.split && val.split(',').length > 1) {
+        return val.replace(', ', '_');
+      }
+      return val;
+    })
+    .join(', ');
+  
+  }).join('\n');
+  
+  fs.writeFileSync(OUTPUT_FILE_CSV, header.join(', ')+'\n'+csvRows+'\n');
+}
 
-}).join('\n');
-fs.writeFileSync(outputFile, header.join(', ')+'\n'+rows+'\n');
+function writeTsv(rows) {  
+  const tsvRows = rows.filter(row => !!row).map(row => {
+    return [
+      row.name,
+      row.parent,
+      row.mutations, 
+      row.clade,
+      row.division,
+      row.country,
+      row.long,
+      row.lat,
+      row.nuc,
+      row.sampling_date,
+      row.originating_lab,
+      row.submitting_lab,
+      row.gisaid,
+      row.genbank
+    ]
+    .join('\t');
+  
+  }).join('\n');
+  fs.writeFileSync(OUTPUT_FILE_TSV, header.join('\t')+'\n'+tsvRows);
+}
 
 function processTreeNode(tree, rows){
   if (tree.children && tree.children.length > 0) {    
