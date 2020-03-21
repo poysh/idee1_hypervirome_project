@@ -39,7 +39,7 @@ Siehe auch blast-to-snp.sh.
 
 # Weitere ToDos
 ## Tabellenstruktur
-Die Tabelle entspricht noch nicht der finalen Struktur. Diese sollte wie [https://github.com/poysh/idee1_hypervirome_project/blob/dev/data/processed/tree-data-nucleotide-mutations.csv]() aufgbaut sein.
+Die Tabelle entspricht noch nicht der finalen Struktur. Diese sollte wie [https://github.com/poysh/idee1_hypervirome_project/blob/dev/data/processed/tree-data-nucleotide-mutations.csv](https://github.com/poysh/idee1_hypervirome_project/blob/dev/data/processed/tree-data-nucleotide-mutations.csv) aufgbaut sein.
 Hier brauchen wir noch einen Parser, der Einträge erstellt. Folgendes ist zu beachten:
 
 - position ist query-POS
@@ -49,7 +49,7 @@ Hier brauchen wir noch einen Parser, der Einträge erstellt. Folgendes ist zu be
 - mutation_id ist hit
 - Manchmal ist mehr als eine Base in REF(hit) und ALT(query). Dann müsstet ihr das auseinandernehmen. Hinten in der Spalte blast.mid.var gibt es . und | : . bedeutet Mutation, | bedeutet Base ist gleich. Hier muss dann also ein Eintrag in mehrere aufgesplittet werden.
 
-##Dockerfile
+## Dockerfile
 Sollte blast und java enthalten für jvarkit. 
 Gut wäre es, wenn vielleicht die reference.gb ersetzt werden kann (mount etc.)
 
