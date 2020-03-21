@@ -37,7 +37,15 @@ rows = rows.filter(row => !!row).map(row => {
     row.submitting_lab,
     row.gisaid,
     row.genbank
-  ].join(', ');
+  ].map(val => {
+    if (val && val.split && val.split(',').length > 1) {
+      console.log(val);
+      return val.replace(', ', '_')
+    }
+    return val
+  })
+  .join(', ');
+
 }).join('\n');
 fs.writeFileSync(outputFile, header.join(', ')+'\n'+rows)
 
@@ -78,7 +86,7 @@ function processTreeNode(node){
   }
   // get nuc as string if exists
   if (node.branch_attrs && node.branch_attrs.mutations && node.branch_attrs.mutations.nuc) {
-    entry['nuc'] = node.branch_attrs.mutations.nuc.join('; ');
+    entry['nuc'] = node.branch_attrs.mutations.nuc.join('-');
   }
 
   // get genbank and gisaid if exists
