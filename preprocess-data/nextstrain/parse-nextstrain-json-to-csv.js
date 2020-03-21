@@ -4,6 +4,7 @@ const outputFile = '../data/processed/tree-data.csv';
 const fs = require('fs');
 
 const json = JSON.parse(fs.readFileSync('../data/raw/ncov.json'));
+const divisions = json.meta.geo_resolutions.find(val => val.key === 'division').demes;
 
 // table header
 const header = [
@@ -13,6 +14,8 @@ const header = [
   'clade',
   'division',
   'country',
+  'long',
+  'lat',
   'nuc',
   'sampling_date', // num_date
   'originating_lab', 
@@ -33,6 +36,8 @@ rows = rows.filter(row => !!row).map(row => {
     row.clade,
     row.division,
     row.country,
+    row.long,
+    row.lat,
     row.nuc,
     row.sampling_date,
     row.originating_lab,
@@ -58,6 +63,13 @@ function processTreeNode(node, parent){
 
   // get division
   entry['division'] = node.node_attrs.division.value;
+
+  // get locations
+  if (divisions[entry.division]) {
+    entry['long'] = divisions[entry.division].longitude;
+    entry['lat'] = divisions[entry.division].latitude;
+  }
+  
   // country if exists
   if (node.node_attrs && node.node_attrs.country) {
     entry['country'] = node.node_attrs.country.value;
