@@ -17,7 +17,7 @@ Das Ergebnis kann man unter [https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Get&RI
 Um die SNPs aus dem Ergebnis zu extrahieren habe ich [BlastNtoSnp](http://lindenb.github.io/jvarkit/BlastNToSnp.html) verwendet.
 Ich habe das Tool fix bei der Recherche gefunden - falls jemand Implikationen sieht, warum wir das nicht benutzen sollten, bitte kommentieren.
 
-Komplieren
+#### Komplieren
 
 ```bash
 git clone "https://github.com/lindenb/jvarkit.git"
@@ -28,7 +28,7 @@ cp dist/blastn2snp.jar ../..
 cd ../..
 chmod +x blastn2snp.jar
 ```
-Ergebnisse verarbeiten
+#### Ergebnisse verarbeiten
 
 ```
 java -jar blastn2snp.jar < 7ARW805W014-Alignment.xml > snps.tab
