@@ -33,8 +33,7 @@ virulign sequence.fasta candidates.fa --exportKind GlobalAlignment  > alignment.
 ```
 From the [tutorial](https://github.com/rega-cev/virulign-tutorial): 
 
-*The option MutationTable will create a CSV file where each mutation present at a specific position is given as a separate column in Boolean representation. The CSV file is annotated according to the numerical position in the protein (e.g., Table below).
-*
+_The option MutationTable will create a CSV file where each mutation present at a specific position is given as a separate column in Boolean representation. The CSV file is annotated according to the numerical position in the protein (e.g., Table below)._
 
 ```bash
 virulign sequence.fasta candidates.fa --exportKind MutationTable  > alignment_mutations.tab
