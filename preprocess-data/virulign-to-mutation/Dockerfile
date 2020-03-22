@@ -18,5 +18,5 @@ RUN apt-get update && \
 
 WORKDIR /root
 COPY phylo_tree.R phylo_tree.R
-COPY pipline.sh pipline.sh
+COPY pipeline.sh pipeline.sh
 COPY data data
