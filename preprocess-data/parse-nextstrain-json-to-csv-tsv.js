@@ -26,12 +26,6 @@ const header = [
   'GenBank_accession'
 ];
 
-let rows = [];
-
-processTreeNode(json.tree, rows);
-writeCsv(rows);
-writeTsv(rows);
-
 function writeCsv(rows) {
   const csvRows = rows.filter(row => !!row).map(row => {
     return [
@@ -149,3 +143,9 @@ function processTreeNode(tree, rows){
     });
   }
 }
+
+let rows = [];
+
+processTreeNode(json.tree, rows);
+writeCsv(rows);
+writeTsv(rows);
