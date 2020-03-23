@@ -89,7 +89,9 @@ function processTreeNode(tree, rows){
       entry['parent'] = tree.name;
 
       // get division
+      if (divisions[entry.division]) {
       entry['division'] = node.node_attrs.division.value;
+      }
 
       // get locations
       if (divisions[entry.division]) {
