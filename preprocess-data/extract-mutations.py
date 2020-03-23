@@ -3,7 +3,7 @@
 import csv
 
 class NucleotideMutation:
-    def __init__(self, position, original_nucleotide, mutation_nucleotide, original_id, mutation_id):
+    def __init__(self, position, original_nucleotide, mutation_nucleotide, original_id, mutation_id, country, clade):
         self.position = position
         self.original_nucleotide = original_nucleotide
         self.mutation_nucleotide = mutation_nucleotide
@@ -13,7 +13,7 @@ class NucleotideMutation:
         self.clade = clade
 
 class AminoacidMutation:
-    def __init__(self, position, region, original_aminoacid, mutation_aminoacid, original_id, mutation_id):
+    def __init__(self, position, region, original_aminoacid, mutation_aminoacid, original_id, mutation_id, country, clade):
         self.position = position
         self.region = region
         self.original_aminoacid = original_aminoacid
